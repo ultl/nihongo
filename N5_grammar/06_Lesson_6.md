@@ -65,3 +65,22 @@ Both mean "What," but are used differently:
 - **Common usage** (not necessarily polite):  
   おちゃ (Tea)  
   おかね (Money)
+
+The kanji "一" (pronounced "ichi") is one of the most basic and versatile characters in Japanese. Here's how it's used:
+
+## Basic Meanings and Uses of "一"
+
+1.  **As a number**: "一" means "one" or "1"
+    - 一回 (ikkai) = one time
+    - 一人 (hitori) = one person
+    - 一日 (ichinichi) = one day
+2.  **In counting**: The first in a sequence
+    - 一番 (ichiban) = number one/first/best
+    - 一月 (ichigatsu) = January (first month)
+3.  **In compounds to mean "whole" or "all"**
+    - 一生 (isshō) = whole life
+    - 一緒 (issho) = together
+    - 一度に (ichido ni) = all at once
+4.  **To express "a certain" or "some"**
+    - 一部 (ichibu) = a part, some portion
+    - 一種の (isshu no) = a kind of, a sort

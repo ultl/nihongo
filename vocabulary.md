@@ -1,131 +1,68 @@
 # From 1 to 10
 
-- 0 is pronounced s "れい" (rei) or "ゼロ" (zero)
+- 0 is pronounced as <span style="font-size: 1.5em;">れい</span> (rei) or <span style="font-size: 1.5em;">ゼロ</span> (zero)
 
-- 1 is pronounced s "いち" (ichi)
+- 1 is pronounced as <span style="font-size: 1.5em;">いち</span> (ichi)
 
-- 2 is pronounced s "に" (ni)
+- 2 is pronounced as <span style="font-size: 1.5em;">に</span> (ni)
 
-- 3 is pronounced s "さん" (sn)
+- 3 is pronounced as <span style="font-size: 1.5em;">さん</span> (san)
 
-- 4 is pronounced s "し" (shi) or "よん" (yon)
+- 4 is pronounced as <span style="font-size: 1.5em;">し</span> (shi) or <span style="font-size: 1.5em;">よん</span> (yon)
 
-- 5 is pronounced s "ご" (go)
+- 5 is pronounced as <span style="font-size: 1.5em;">ご</span> (go)
 
-- 6 is pronounced s "ろく" (roku)
+- 6 is pronounced as <span style="font-size: 1.5em;">ろく</span> (roku)
 
-- 7 is pronounced s "しち" (shichi) or "なな" (nn)
+- 7 is pronounced as <span style="font-size: 1.5em;">しち</span> (shichi) or <span style="font-size: 1.5em;">なな</span> (nana)
 
-- 8 is pronounced s "はち" (hchi)
+- 8 is pronounced as <span style="font-size: 1.5em;">はち</span> (hachi)
 
-- 9 is pronounced s "きゅう" (kyū) or "く" (ku)
+- 9 is pronounced as <span style="font-size: 1.5em;">きゅう</span> (kyū) or <span style="font-size: 1.5em;">く</span> (ku)
 
-- 10 is pronounced s "じゅう" (jū)
+- 10 is pronounced as <span style="font-size: 1.5em;">じゅう</span> (jū)
 
 ## Basic Vocabulary
 
-- こんにちは (konnichiw) - hello
+- <span style="font-size: 1.5em;">こんにちは</span> (konnichiwa) - hello
 
-- ありがとう (rigtō) - thnk you
+- <span style="font-size: 1.5em;">ありがとう</span> (arigatō) - thank you
 
-- さようなら (syōnr) - goodbye
+- <span style="font-size: 1.5em;">さようなら</span> (sayōnara) - goodbye
 
-- おはよう (ohyō) - good morning
+- <span style="font-size: 1.5em;">おはよう</span> (ohayō) - good morning
 
-- おやすみ (oysumi) - good night
+- <span style="font-size: 1.5em;">おやすみ</span> (oyasumi) - good night
 
 ## Basic Phrases
 
-- はい、わかりました (hi, wkrimshit) - Yes, I understnd.
+- <span style="font-size: 1.5em;">はい、わかりました</span> (hai, wakarimashita) - Yes, I understand.
 
-- いいえ、わかりません (iie, wkrimsen) - No, I don't understnd.
+- <span style="font-size: 1.5em;">いいえ、わかりません</span> (iie, wakarimasen) - No, I don't understand.
 
 ## More Vocabulary
 
-- exmple - 例 (れい, rei)
-- sentence - 文 (ぶん, bun)
-- word - 単語 (たんご, tngo)
-- lnguge - 言語 (げんご, gengo)
-- Jpnese - 日本語 (にほんご, nihongo)
-- English - 英語 (えいご, eigo)
-- French - フランス語 (ふらんすご, furnsugo)
-- Spnish - スペイン語 (すぺいんご, supeingo)
-- Chinese - 中国語 (ちゅうごくご, chūgokugo)
-- Koren - 韓国語 (かんこくご, knkokugo)
-- Germn - ドイツ語 (どいつご, doitsugo)
-- Itlin - イタリア語 (いたりあご, itrigo)
-- Russin - ロシア語 (ろしあご, roshigo)
-- rbic - アラビア語 (あらびあご, rbi go)
-- Vietnmese - ベトナム語 (べとなむご, betonmugo)
-- Thi - タイ語 (たいご, tigo)
-- Filipino - フィリピン語 (ふぃりぴんご, firipingo)
-- BRZILIN - ブラジル語 (ぶらじるご, burjirugo)
+- example - <span style="font-size: 1.5em;">例</span> (<span style="font-size: 1.5em;">れい</span>, rei)
+- sentence - <span style="font-size: 1.5em;">文</span> (<span style="font-size: 1.5em;">ぶん</span>, bun)
+- word - <span style="font-size: 1.5em;">単語</span> (<span style="font-size: 1.5em;">たんご</span>, tango)
+- language - <span style="font-size: 1.5em;">言語</span> (<span style="font-size: 1.5em;">げんご</span>, gengo)
+- Japanese - <span style="font-size: 1.5em;">日本語</span> (<span style="font-size: 1.5em;">にほんご</span>, nihongo)
+- English - <span style="font-size: 1.5em;">英語</span> (<span style="font-size: 1.5em;">えいご</span>, eigo)
+- French - <span style="font-size: 1.5em;">フランス語</span> (<span style="font-size: 1.5em;">ふらんすご</span>, furansugo)
+- Spanish - <span style="font-size: 1.5em;">スペイン語</span> (<span style="font-size: 1.5em;">すぺいんご</span>, supeingo)
+- Chinese - <span style="font-size: 1.5em;">中国語</span> (<span style="font-size: 1.5em;">ちゅうごくご</span>, chūgokugo)
+- Korean - <span style="font-size: 1.5em;">韓国語</span> (<span style="font-size: 1.5em;">かんこくご</span>, kankokugo)
+- German - <span style="font-size: 1.5em;">ドイツ語</span> (<span style="font-size: 1.5em;">どいつご</span>, doitsugo)
+- Italian - <span style="font-size: 1.5em;">イタリア語</span> (<span style="font-size: 1.5em;">いたりあご</span>, itariago)
+- Russian - <span style="font-size: 1.5em;">ロシア語</span> (<span style="font-size: 1.5em;">ろしあご</span>, roshiago)
+- Arabic - <span style="font-size: 1.5em;">アラビア語</span> (<span style="font-size: 1.5em;">あらびあご</span>, arabiago)
+- Vietnamese - <span style="font-size: 1.5em;">ベトナム語</span> (<span style="font-size: 1.5em;">べとなむご</span>, betonamugo)
+- Thai - <span style="font-size: 1.5em;">タイ語</span> (<span style="font-size: 1.5em;">たいご</span>, taigo)
+- Filipino - <span style="font-size: 1.5em;">フィリピン語</span> (<span style="font-size: 1.5em;">ふぃりぴんご</span>, firipingogo)
+- Brazilian - <span style="font-size: 1.5em;">ブラジル語</span> (<span style="font-size: 1.5em;">ぶらじるご</span>, burajirugo)
 
 ## Ways to ask how old you are
 
-- 何歳ですか？ (なんさいですか？, nnsi desu k?) - How old re you?
-- N + は + おいくつ ですか？ (おいくつですか？, oikutsu desu k?) - How old re you? (more polite)
-- N + は + いくつ ですか？ (いくつですか？, ikutsu desu k?) - How old re you? (less polite)
-
-## Basic Kana => Dkuon nd Handkuon
-
-- k -> g (exmple: か (k) -> が (g))
-- s -> z (exmple: さ (s) -> ざ (z))
-- t -> d (exmple: た (t) -> だ (d))
-- h -> b (exmple: は (h) -> ば (b))
-- p -> b (exmple: は (h) -> ぱ (p))
-
-## Basic Kana => Yōon
-
-- k -> ky (exmple: き (ki) -> きゃ (ky))
-- s -> sy (exmple: し (shi) -> しゃ (sh))
-- t -> ty (exmple: ち (chi) -> ちゃ (ch))
-- n -> ny (exmple: に (ni) -> にゃ (ny))
-- h -> hy (exmple: ひ (hi) -> ひゃ (hy))
-- m -> my (exmple: み (mi) -> みゃ (my))
-- r -> ry (exmple: り (ri) -> りゃ (ry))
-- g -> gy (exmple: ぎ (gi) -> ぎゃ (gy))
-- z -> zy (exmple: じ (ji) -> じゃ (j))
-- d -> dy (exmple: ぢ (ji) -> ぢゃ (j))
-- b -> by (exmple: び (bi) -> びゃ (by))
-- p -> py (exmple: ぴ (pi) -> ぴゃ (py))
-- w -> wy (exmple: う (u) -> うゃ (wy))
-- y -> y (exmple: ゆ (yu) -> ゆゃ (yy))
-- ch -> ch (exmple: ち (chi) -> ちゃ (ch))
-- sh -> sh (exmple: し (shi) -> しゃ (sh))
-- d -> j (exmple: ぢ (ji) -> ぢゃ (j))
-
-## Katakana table
-
-| **Romaji** | **A**                                     | **I**                                     | **U**                                     | **E**                                     | **O**                                     |
-| ---------- | ----------------------------------------- | ----------------------------------------- | ----------------------------------------- | ----------------------------------------- | ----------------------------------------- |
-| \*\*\*\*   | <span style="font-size: 1.5em;">ア</span> | <span style="font-size: 1.5em;">イ</span> | <span style="font-size: 1.5em;">ウ</span> | <span style="font-size: 1.5em;">エ</span> | <span style="font-size: 1.5em;">オ</span> |
-| **K**      | <span style="font-size: 1.5em;">カ</span> | <span style="font-size: 1.5em;">キ</span> | <span style="font-size: 1.5em;">ク</span> | <span style="font-size: 1.5em;">ケ</span> | <span style="font-size: 1.5em;">コ</span> |
-| **S**      | <span style="font-size: 1.5em;">サ</span> | <span style="font-size: 1.5em;">シ</span> | <span style="font-size: 1.5em;">ス</span> | <span style="font-size: 1.5em;">セ</span> | <span style="font-size: 1.5em;">ソ</span> |
-| **T**      | <span style="font-size: 1.5em;">タ</span> | <span style="font-size: 1.5em;">チ</span> | <span style="font-size: 1.5em;">ツ</span> | <span style="font-size: 1.5em;">テ</span> | <span style="font-size: 1.5em;">ト</span> |
-| **N**      | <span style="font-size: 1.5em;">ナ</span> | <span style="font-size: 1.5em;">ニ</span> | <span style="font-size: 1.5em;">ヌ</span> | <span style="font-size: 1.5em;">ネ</span> | <span style="font-size: 1.5em;">ノ</span> |
-| **H**      | <span style="font-size: 1.5em;">ハ</span> | <span style="font-size: 1.5em;">ヒ</span> | <span style="font-size: 1.5em;">フ</span> | <span style="font-size: 1.5em;">ヘ</span> | <span style="font-size: 1.5em;">ホ</span> |
-| **M**      | <span style="font-size: 1.5em;">マ</span> | <span style="font-size: 1.5em;">ミ</span> | <span style="font-size: 1.5em;">ム</span> | <span style="font-size: 1.5em;">メ</span> | <span style="font-size: 1.5em;">モ</span> |
-| **Y**      | <span style="font-size: 1.5em;">ヤ</span> |                                           | <span style="font-size: 1.5em;">ユ</span> |                                           | <span style="font-size: 1.5em;">ヨ</span> |
-| **R**      | <span style="font-size: 1.5em;">ラ</span> | <span style="font-size: 1.5em;">リ</span> | <span style="font-size: 1.5em;">ル</span> | <span style="font-size: 1.5em;">レ</span> | <span style="font-size: 1.5em;">ロ</span> |
-| **W**      | <span style="font-size: 1.5em;">ワ</span> |                                           |                                           |                                           |                                           |
-| **N**      | <span style="font-size: 1.5em;">ン</span> |                                           |                                           |                                           |                                           |
-| **VU**     | <span style="font-size: 1.5em;">ヴ</span> |                                           |                                           |                                           |                                           |
-
-## Hiragana table
-
-| **Romaji** | **A**                                       | **I**                                     | **U**                                     | **E**                                     | **O**                                     |
-| ---------- | ------------------------------------------- | ----------------------------------------- | ----------------------------------------- | ----------------------------------------- | ----------------------------------------- |
-| \*\*\*\*   | <span style="font-size: 1.5em;">あ</span>   | <span style="font-size: 1.5em;">い</span> | <span style="font-size: 1.5em;">う</span> | <span style="font-size: 1.5em;">え</span> | <span style="font-size: 1.5em;">お</span> |
-| **K**      | <span style="font-size: 1.5em;">か</span>   | <span style="font-size: 1.5em;">き</span> | <span style="font-size: 1.5em;">く</span> | <span style="font-size: 1.5em;">け</span> | <span style="font-size: 1.5em;">こ</span> |
-| **S**      | <span style="font-size: 1.5em;">さ</span>   | <span style="font-size: 1.5em;">し</span> | <span style="font-size: 1.5em;">す</span> | <span style="font-size: 1.5em;">せ</span> | <span style="font-size: 1.5em;">そ</span> |
-| **T**      | <span style="font-size: 1.5em;">た</span>   | <span style="font-size: 1.5em;">ち</span> | <span style="font-size: 1.5em;">つ</span> | <span style="font-size: 1.5em;">て</span> | <span style="font-size: 1.5em;">と</span> |
-| **N**      | <span style="font-size: 1.5em;">な</span>   | <span style="font-size: 1.5em;">に</span> | <span style="font-size: 1.5em;">ぬ</span> | <span style="font-size: 1.5em;">ね</span> | <span style="font-size: 1.5em;">の</span> |
-| **H**      | <span style="font-size: 1.5em;">は</span>   | <span style="font-size: 1.5em;">ひ</span> | <span style="font-size: 1.5em;">ふ</span> | <span style="font-size: 1.5em;">へ</span> | <span style="font-size: 1.5em;">ほ</span> |
-| **M**      | <span style="font-size: 1.5em;">ま</span>   | <span style="font-size: 1.5em;">み</span> | <span style="font-size: 1.5em;">む</span> | <span style="font-size: 1.5em;">め</span> | <span style="font-size: 1.5em;">も</span> |
-| **Y**      | <span style="font-size: 1.5em;">や</span>   |                                           | <span style="font-size: 1.5em;">ゆ</span> |                                           | <span style="font-size: 1.5em;">よ</span> |
-| **R**      | <span style="font-size: 1.5em;">ら</span>   | <span style="font-size: 1.5em;">り</span> | <span style="font-size: 1.5em;">る</span> | <span style="font-size: 1.5em;">れ</span> | <span style="font-size: 1.5em;">ろ</span> |
-| **W**      | <span style="font-size: 1.5em;">わ</span>   |                                           |                                           |                                           |                                           |
-| **N**      | <span style="font-size: 1.5em;">ん</span>   |                                           |                                           |                                           |                                           |
-| **VU**     | <span style="font-size: 1.5em;">う゛</span> |                                           |                                           |                                           |                                           |
-| **N**      | <span style="font-size: 1.5em;">ん</span>   |                                           |                                           |                                           |                                           |
+- <span style="font-size: 1.5em;">何歳ですか？</span> (<span style="font-size: 1.5em;">なんさいですか？</span>, nansai desu ka?) - How old are you?
+- N + は + <span style="font-size: 1.5em;">おいくつですか？</span> (<span style="font-size: 1.5em;">おいくつですか？</span>, oikutsu desu ka?) - How old are you? (more polite)
+- N + は + <span style="font-size: 1.5em;">いくつですか？</span> (<span style="font-size: 1.5em;">いくつですか？</span>, ikutsu desu ka?) - How old are you? (less polite)
