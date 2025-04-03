@@ -66,3 +66,31 @@
 - 何歳ですか？ (なんさいですか？, nansai desu ka?) - How old are you?
 - N + は + おいくつ ですか？ (おいくつですか？, oikutsu desu ka?) - How old are you? (more polite)
 - N + は + いくつ ですか？ (いくつですか？, ikutsu desu ka?) - How old are you? (less polite)
+
+## Basic Kana => Dakuon and Handakuon
+
+- k -> g (example: か (ka) -> が (ga))
+- s -> z (example: さ (sa) -> ざ (za))
+- t -> d (example: た (ta) -> だ (da))
+- h -> b (example: は (ha) -> ば (ba))
+- p -> b (example: は (ha) -> ぱ (pa))
+
+## Basic Kana => Yōon
+
+- k -> ky (example: き (ki) -> きゃ (kya))
+- s -> sy (example: し (shi) -> しゃ (sha))
+- t -> ty (example: ち (chi) -> ちゃ (cha))
+- n -> ny (example: に (ni) -> にゃ (nya))
+- h -> hy (example: ひ (hi) -> ひゃ (hya))
+- m -> my (example: み (mi) -> みゃ (mya))
+- r -> ry (example: り (ri) -> りゃ (rya))
+- g -> gy (example: ぎ (gi) -> ぎゃ (gya))
+- z -> zy (example: じ (ji) -> じゃ (ja))
+- d -> dy (example: ぢ (ji) -> ぢゃ (ja))
+- b -> by (example: び (bi) -> びゃ (bya))
+- p -> py (example: ぴ (pi) -> ぴゃ (pya))
+- w -> wy (example: う (u) -> うゃ (wya))
+- y -> y (example: ゆ (yu) -> ゆゃ (yya))
+- ch -> ch (example: ち (chi) -> ちゃ (cha))
+- sh -> sh (example: し (shi) -> しゃ (sha))
+- d -> j (example: ぢ (ji) -> ぢゃ (ja))
