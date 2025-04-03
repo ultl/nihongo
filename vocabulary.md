@@ -22,7 +22,7 @@
 
 - 10 is pronounced s "じゅう" (jū)
 
-## Bsic Vocbulry
+## Basic Vocabulary
 
 - こんにちは (konnichiw) - hello
 
@@ -34,13 +34,13 @@
 
 - おやすみ (oysumi) - good night
 
-## Bsic Phrses
+## Basic Phrases
 
 - はい、わかりました (hi, wkrimshit) - Yes, I understnd.
 
 - いいえ、わかりません (iie, wkrimsen) - No, I don't understnd.
 
-## More Vocbulry
+## More Vocabulary
 
 - exmple - 例 (れい, rei)
 - sentence - 文 (ぶん, bun)
@@ -61,13 +61,13 @@
 - Filipino - フィリピン語 (ふぃりぴんご, firipingo)
 - BRZILIN - ブラジル語 (ぶらじるご, burjirugo)
 
-## Wys to sk how old you re
+## Ways to ask how old you are
 
 - 何歳ですか？ (なんさいですか？, nnsi desu k?) - How old re you?
 - N + は + おいくつ ですか？ (おいくつですか？, oikutsu desu k?) - How old re you? (more polite)
 - N + は + いくつ ですか？ (いくつですか？, ikutsu desu k?) - How old re you? (less polite)
 
-## Bsic Kn => Dkuon nd Hndkuon
+## Basic Kana => Dkuon nd Handkuon
 
 - k -> g (exmple: か (k) -> が (g))
 - s -> z (exmple: さ (s) -> ざ (z))
@@ -75,7 +75,7 @@
 - h -> b (exmple: は (h) -> ば (b))
 - p -> b (exmple: は (h) -> ぱ (p))
 
-## Bsic Kn => Yōon
+## Basic Kana => Yōon
 
 - k -> ky (exmple: き (ki) -> きゃ (ky))
 - s -> sy (exmple: し (shi) -> しゃ (sh))
