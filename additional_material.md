@@ -66,3 +66,13 @@
 - <span style="font-size: 1.5em;">何歳ですか？</span> (<span style="font-size: 1.5em;">なんさいですか？</span>, nansai desu ka?) - How old are you?
 - N + は + <span style="font-size: 1.5em;">おいくつですか？</span> (<span style="font-size: 1.5em;">おいくつですか？</span>, oikutsu desu ka?) - How old are you? (more polite)
 - N + は + <span style="font-size: 1.5em;">いくつですか？</span> (<span style="font-size: 1.5em;">いくつですか？</span>, ikutsu desu ka?) - How old are you? (less polite)
+
+# Analysis
+
+- **Kashikomarimashita**: Highly formal phrase meaning "I understand/acknowledge your instructions" or "As you wish."
+  - Derived from **kashikomaru** (to be in awe/respectful) with a formal past tense ending.
+  - Commonly used by service staff or subordinates addressing customers or superiors.
+  - **Otoiawase no bangō**: A formal phrase meaning "inquiry number" or "reference number."
+    - Derived from **otoiawase** (inquiry) and **bangō** (number).
+    - Commonly used in customer service or formal contexts when referring to a specific case or ticket number.
+    - Often heard in phrases like **"Otoiawase no bangō wa..."** ("The inquiry number is...") to provide or confirm a reference number.
