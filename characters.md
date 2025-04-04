@@ -1,19 +1,19 @@
 ## Katakana table
 
-| **Romaji** | **A**                                     | **I**                                     | **U**                                     | **E**                                     | **O**                                     |
-| ---------- | ----------------------------------------- | ----------------------------------------- | ----------------------------------------- | ----------------------------------------- | ----------------------------------------- |
-| \*\*\*\*   | <span style="font-size: 1.5em;">ア</span> | <span style="font-size: 1.5em;">イ</span> | <span style="font-size: 1.5em;">ウ</span> | <span style="font-size: 1.5em;">エ</span> | <span style="font-size: 1.5em;">オ</span> |
-| **K**      | <span style="font-size: 1.5em;">カ</span> | <span style="font-size: 1.5em;">キ</span> | <span style="font-size: 1.5em;">ク</span> | <span style="font-size: 1.5em;">ケ</span> | <span style="font-size: 1.5em;">コ</span> |
-| **S**      | <span style="font-size: 1.5em;">サ</span> | <span style="font-size: 1.5em;">シ</span> | <span style="font-size: 1.5em;">ス</span> | <span style="font-size: 1.5em;">セ</span> | <span style="font-size: 1.5em;">ソ</span> |
-| **T**      | <span style="font-size: 1.5em;">タ</span> | <span style="font-size: 1.5em;">チ</span> | <span style="font-size: 1.5em;">ツ</span> | <span style="font-size: 1.5em;">テ</span> | <span style="font-size: 1.5em;">ト</span> |
-| **N**      | <span style="font-size: 1.5em;">ナ</span> | <span style="font-size: 1.5em;">ニ</span> | <span style="font-size: 1.5em;">ヌ</span> | <span style="font-size: 1.5em;">ネ</span> | <span style="font-size: 1.5em;">ノ</span> |
-| **H**      | <span style="font-size: 1.5em;">ハ</span> | <span style="font-size: 1.5em;">ヒ</span> | <span style="font-size: 1.5em;">フ</span> | <span style="font-size: 1.5em;">ヘ</span> | <span style="font-size: 1.5em;">ホ</span> |
-| **M**      | <span style="font-size: 1.5em;">マ</span> | <span style="font-size: 1.5em;">ミ</span> | <span style="font-size: 1.5em;">ム</span> | <span style="font-size: 1.5em;">メ</span> | <span style="font-size: 1.5em;">モ</span> |
-| **Y**      | <span style="font-size: 1.5em;">ヤ</span> |                                           | <span style="font-size: 1.5em;">ユ</span> |                                           | <span style="font-size: 1.5em;">ヨ</span> |
-| **R**      | <span style="font-size: 1.5em;">ラ</span> | <span style="font-size: 1.5em;">リ</span> | <span style="font-size: 1.5em;">ル</span> | <span style="font-size: 1.5em;">レ</span> | <span style="font-size: 1.5em;">ロ</span> |
-| **W**      | <span style="font-size: 1.5em;">ワ</span> |                                           |                                           |                                           |                                           |
-| **N**      | <span style="font-size: 1.5em;">ン</span> |                                           |                                           |                                           |                                           |
-| **VU**     | <span style="font-size: 1.5em;">ヴ</span> |                                           |                                           |                                           |                                           |
+| **Romaji** | **A**                                      | **I**                                     | **U**                                     | **E**                                     | **O**                                     |
+| ---------- | ------------------------------------------ | ----------------------------------------- | ----------------------------------------- | ----------------------------------------- | ----------------------------------------- |
+| \*\*\*\*   | <span style="font-size: 1.5em;">ア</span>  | <span style="font-size: 1.5em;">イ</span> | <span style="font-size: 1.5em;">ウ</span> | <span style="font-size: 1.5em;">エ</span> | <span style="font-size: 1.5em;">オ</span> |
+| **K**      | <span style="font-size: 1.5em;">カ</span>  | <span style="font-size: 1.5em;">キ</span> | <span style="font-size: 1.5em;">ク</span> | <span style="font-size: 1.5em;">ケ</span> | <span style="font-size: 1.5em;">コ</span> |
+| **S**      | <span style="font-size: 1.5em;">サ</span>  | <span style="font-size: 1.5em;">シ</span> | <span style="font-size: 1.5em;">ス</span> | <span style="font-size: 1.5em;">セ</span> | <span style="font-size: 1.5em;">ソ</span> |
+| **T**      | <span style="font-size: 1.5em;">タ</span>  | <span style="font-size: 1.5em;">チ</span> | <span style="font-size: 1.5em;">ツ</span> | <span style="font-size: 1.5em;">テ</span> | <span style="font-size: 1.5em;">ト</span> |
+| **N**      | <span style="font-size: 1.5em;">ナ</span>  | <span style="font-size: 1.5em;">ニ</span> | <span style="font-size: 1.5em;">ヌ</span> | <span style="font-size: 1.5em;">ネ</span> | <span style="font-size: 1.5em;">ノ</span> |
+| **H**      | <span style="font-size: 1.5em;">ハ</span>  | <span style="font-size: 1.5em;">ヒ</span> | <span style="font-size: 1.5em;">フ</span> | <span style="font-size: 1.5em;">ヘ</span> | <span style="font-size: 1.5em;">ホ</span> |
+| **M**      | <span style="font-size: 1.5em;">マ</span>  | <span style="font-size: 1.5em;">ミ</span> | <span style="font-size: 1.5em;">ム</span> | <span style="font-size: 1.5em;">メ</span> | <span style="font-size: 1.5em;">モ</span> |
+| **Y**      | <span style="font-size: 1.5em;">ヤ</span>  |                                           | <span style="font-size: 1.5em;">ユ</span> |                                           | <span style="font-size: 1.5em;">ヨ</span> |
+| **R**      | <span style="font-size: 1.5em;">ラ</span>  | <span style="font-size: 1.5em;">リ</span> | <span style="font-size: 1.5em;">ル</span> | <span style="font-size: 1.5em;">レ</span> | <span style="font-size: 1.5em;">ロ</span> |
+| **W**      | <span style="font-size: 1.5em;">ワ</ span> |                                           |                                           |                                           |                                           |
+| **N**      | <span style="font-size: 1.5em;">ン</span>  |                                           |                                           |                                           |                                           |
+| **VU**     | <span style="font-size: 1.5em;">ヴ</span>  |                                           |                                           |                                           |                                           |
 
 ## Hiragana table
 
