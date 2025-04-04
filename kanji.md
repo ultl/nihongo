@@ -1,89 +1,89 @@
 # N5 Kanji
 
-| Kanji | Hiragana   | Romaji    | Example Phrase                  |
-| ----- | ---------- | --------- | ------------------------------- |
-| 言    | いう       | iu        | 言う (いう) - To say            |
-| 手    | て         | te        | 手紙 (てがみ) - Letter          |
-| 自    | じ         | ji        | 自分 (じぶん) - Oneself         |
-| 者    | もの       | mono      | 医者 (いしゃ) - Doctor          |
-| 事    | こと       | koto      | 仕事 (しごと) - Work            |
-| 思    | おもう     | omou      | 思う (おもう) - To think        |
-| 会    | あう       | au        | 会う (あう) - To meet           |
-| 家    | いえ       | ie        | 家 (いえ) - House               |
-| 的    | てき       | teki      | 目的 (もくてき) - Purpose       |
-| 方    | かた       | kata      | 方法 (ほうほう) - Method        |
-| 地    | ち         | chi       | 地図 (ちず) - Map               |
-| 目    | め         | me        | 目的 (もくてき) - Goal          |
-| 場    | ば         | ba        | 場所 (ばしょ) - Place           |
-| 代    | だい       | dai       | 時代 (じだい) - Era             |
-| 私    | わたし     | watashi   | 私 (わたし) - I                 |
-| 立    | たつ       | tatsu     | 立つ (たつ) - To stand          |
-| 物    | もの       | mono      | 食べ物 (たべもの) - Food        |
-| 田    | た         | ta        | 田んぼ (たんぼ) - Rice field    |
-| 体    | からだ     | karada    | 体 (からだ) - Body              |
-| 動    | うごく     | ugoku     | 動く (うごく) - To move         |
-| 社    | しゃ       | sha       | 会社 (かいしゃ) - Company       |
-| 知    | しる       | shiru     | 知る (しる) - To know           |
-| 理    | り         | ri        | 理由 (りゆう) - Reason          |
-| 同    | おなじ     | onaji     | 同じ (おなじ) - Same            |
-| 心    | こころ     | kokoro    | 心 (こころ) - Heart             |
-| 発    | はつ       | hatsu     | 発音 (はつおん) - Pronunciation |
-| 作    | つくる     | tsukuru   | 作る (つくる) - To make         |
-| 新    | あたらしい | atarashii | 新しい (あたらしい) - New       |
-| 世    | せ         | se        | 世界 (せかい) - World           |
-| 度    | ど         | do        | 一度 (いちど) - Once            |
-| 明    | あかるい   | akarui    | 明るい (あかるい) - Bright      |
-| 力    | ちから     | chikara   | 力 (ちから) - Power             |
-| 意    | い         | i         | 意味 (いみ) - Meaning           |
-| 用    | よう       | you       | 使用 (しよう) - Use             |
-| 主    | しゅ       | shu       | 主人 (しゅじん) - Master        |
-| 通    | とおる     | tooru     | 通る (とおる) - To pass         |
-| 文    | ぶん       | bun       | 文法 (ぶんぽう) - Grammar       |
-| 屋    | や         | ya        | 本屋 (ほんや) - Bookstore       |
-| 業    | ぎょう     | gyou      | 事業 (じぎょう) - Business      |
-| 持    | もつ       | motsu     | 持つ (もつ) - To hold           |
-| 道    | みち       | michi     | 道 (みち) - Road                |
-| 身    | み         | mi        | 身体 (しんたい) - Body          |
-| 不    | ふ         | fu        | 不便 (ふべん) - Inconvenient    |
-| 口    | くち       | kuchi     | 口 (くち) - Mouth               |
-| 多    | おおい     | ooi       | 多い (おおい) - Many            |
-| 野    | の         | no        | 野菜 (やさい) - Vegetable       |
-| 考    | かんがえる | kangaeru  | 考える (かんがえる) - To think  |
-| 開    | あける     | akeru     | 開ける (あける) - To open       |
-| 教    | おしえる   | oshieru   | 教える (おしえる) - To teach    |
-| 近    | ちかい     | chikai    | 近い (ちかい) - Near            |
-| 以    | い         | i         | 以上 (いじょう) - More than     |
-| 問    | もん       | mon       | 問題 (もんだい) - Problem       |
-| 正    | ただしい   | tadashii  | 正しい (ただしい) - Correct     |
-| 真    | ま         | ma        | 真実 (しんじつ) - Truth         |
-| 味    | あじ       | aji       | 味 (あじ) - Taste               |
-| 界    | かい       | kai       | 世界 (せかい) - World           |
-| 無    | む         | mu        | 無理 (むり) - Impossible        |
-| 少    | すこし     | sukoshi   | 少し (すこし) - A little        |
-| 海    | うみ       | umi       | 海 (うみ) - Sea                 |
-| 切    | きる       | kiru      | 切る (きる) - To cut            |
-| 重    | おもい     | omoi      | 重い (おもい) - Heavy           |
-| 集    | あつめる   | atsumeru  | 集める (あつめる) - To collect  |
-| 員    | いん       | in        | 会員 (かいいん) - Member        |
-| 公    | こう       | kou       | 公園 (こうえん) - Park          |
-| 画    | が         | ga        | 映画 (えいが) - Movie           |
-| 死    | しぬ       | shinu     | 死ぬ (しぬ) - To die            |
-| 安    | やすい     | yasui     | 安い (やすい) - Cheap           |
-| 親    | おや       | oya       | 親 (おや) - Parent              |
-| 強    | つよい     | tsuyoi    | 強い (つよい) - Strong          |
-| 使    | つかう     | tsukau    | 使う (つかう) - To use          |
-| 朝    | あさ       | asa       | 朝 (あさ) - Morning             |
-| 題    | だい       | dai       | 問題 (もんだい) - Question      |
-| 仕    | し         | shi       | 仕事 (しごと) - Work            |
-| 京    | きょう     | kyou      | 東京 (とうきょう) - Tokyo       |
-| 足    | あし       | ashi      | 足 (あし) - Foot                |
-| 品    | しな       | shina     | 品物 (しなもの) - Goods         |
-| 着    | きる       | kiru      | 着る (きる) - To wear           |
-| 別    | べつ       | betsu     | 別れる (わかれる) - To separate |
-| 音    | おと       | oto       | 音 (おと) - Sound               |
-| 元    | もと       | moto      | 元気 (げんき) - Healthy         |
-| 特    | とく       | toku      | 特別 (とくべつ) - Special       |
-| 風    | かぜ       | kaze      | 風 (かぜ) - Wind                |
+| Kanji | Hiragana   | Romaji    | Part of Speech | Example Phrase                  |
+| ----- | ---------- | --------- | -------------- | ------------------------------- |
+| 言    | いう       | iu        | Verb           | 言う (いう) - To say            |
+| 手    | て         | te        | Noun           | 手紙 (てがみ) - Letter          |
+| 自    | じ         | ji        | Noun           | 自分 (じぶん) - Oneself         |
+| 者    | もの       | mono      | Noun           | 医者 (いしゃ) - Doctor          |
+| 事    | こと       | koto      | Noun           | 仕事 (しごと) - Work            |
+| 思    | おもう     | omou      | Verb           | 思う (おもう) - To think        |
+| 会    | あう       | au        | Verb           | 会う (あう) - To meet           |
+| 家    | いえ       | ie        | Noun           | 家 (いえ) - House               |
+| 的    | てき       | teki      | Adjective      | 目的 (もくてき) - Purpose       |
+| 方    | かた       | kata      | Noun           | 方法 (ほうほう) - Method        |
+| 地    | ち         | chi       | Noun           | 地図 (ちず) - Map               |
+| 目    | め         | me        | Noun           | 目的 (もくてき) - Goal          |
+| 場    | ば         | ba        | Noun           | 場所 (ばしょ) - Place           |
+| 代    | だい       | dai       | Noun           | 時代 (じだい) - Era             |
+| 私    | わたし     | watashi   | Pronoun        | 私 (わたし) - I                 |
+| 立    | たつ       | tatsu     | Verb           | 立つ (たつ) - To stand          |
+| 物    | もの       | mono      | Noun           | 食べ物 (たべもの) - Food        |
+| 田    | た         | ta        | Noun           | 田んぼ (たんぼ) - Rice field    |
+| 体    | からだ     | karada    | Noun           | 体 (からだ) - Body              |
+| 動    | うごく     | ugoku     | Verb           | 動く (うごく) - To move         |
+| 社    | しゃ       | sha       | Noun           | 会社 (かいしゃ) - Company       |
+| 知    | しる       | shiru     | Verb           | 知る (しる) - To know           |
+| 理    | り         | ri        | Noun           | 理由 (りゆう) - Reason          |
+| 同    | おなじ     | onaji     | Adjective      | 同じ (おなじ) - Same            |
+| 心    | こころ     | kokoro    | Noun           | 心 (こころ) - Heart             |
+| 発    | はつ       | hatsu     | Noun           | 発音 (はつおん) - Pronunciation |
+| 作    | つくる     | tsukuru   | Verb           | 作る (つくる) - To make         |
+| 新    | あたらしい | atarashii | Adjective      | 新しい (あたらしい) - New       |
+| 世    | せ         | se        | Noun           | 世界 (せかい) - World           |
+| 度    | ど         | do        | Noun           | 一度 (いちど) - Once            |
+| 明    | あかるい   | akarui    | Adjective      | 明るい (あかるい) - Bright      |
+| 力    | ちから     | chikara   | Noun           | 力 (ちから) - Power             |
+| 意    | い         | i         | Noun           | 意味 (いみ) - Meaning           |
+| 用    | よう       | you       | Noun           | 使用 (しよう) - Use             |
+| 主    | しゅ       | shu       | Noun           | 主人 (しゅじん) - Master        |
+| 通    | とおる     | tooru     | Verb           | 通る (とおる) - To pass         |
+| 文    | ぶん       | bun       | Noun           | 文法 (ぶんぽう) - Grammar       |
+| 屋    | や         | ya        | Noun           | 本屋 (ほんや) - Bookstore       |
+| 業    | ぎょう     | gyou      | Noun           | 事業 (じぎょう) - Business      |
+| 持    | もつ       | motsu     | Verb           | 持つ (もつ) - To hold           |
+| 道    | みち       | michi     | Noun           | 道 (みち) - Road                |
+| 身    | み         | mi        | Noun           | 身体 (しんたい) - Body          |
+| 不    | ふ         | fu        | Prefix         | 不便 (ふべん) - Inconvenient    |
+| 口    | くち       | kuchi     | Noun           | 口 (くち) - Mouth               |
+| 多    | おおい     | ooi       | Adjective      | 多い (おおい) - Many            |
+| 野    | の         | no        | Noun           | 野菜 (やさい) - Vegetable       |
+| 考    | かんがえる | kangaeru  | Verb           | 考える (かんがえる) - To think  |
+| 開    | あける     | akeru     | Verb           | 開ける (あける) - To open       |
+| 教    | おしえる   | oshieru   | Verb           | 教える (おしえる) - To teach    |
+| 近    | ちかい     | chikai    | Adjective      | 近い (ちかい) - Near            |
+| 以    | い         | i         | Prefix         | 以上 (いじょう) - More than     |
+| 問    | もん       | mon       | Noun           | 問題 (もんだい) - Problem       |
+| 正    | ただしい   | tadashii  | Adjective      | 正しい (ただしい) - Correct     |
+| 真    | ま         | ma        | Noun           | 真実 (しんじつ) - Truth         |
+| 味    | あじ       | aji       | Noun           | 味 (あじ) - Taste               |
+| 界    | かい       | kai       | Noun           | 世界 (せかい) - World           |
+| 無    | む         | mu        | Prefix         | 無理 (むり) - Impossible        |
+| 少    | すこし     | sukoshi   | Adverb         | 少し (すこし) - A little        |
+| 海    | うみ       | umi       | Noun           | 海 (うみ) - Sea                 |
+| 切    | きる       | kiru      | Verb           | 切る (きる) - To cut            |
+| 重    | おもい     | omoi      | Adjective      | 重い (おもい) - Heavy           |
+| 集    | あつめる   | atsumeru  | Verb           | 集める (あつめる) - To collect  |
+| 員    | いん       | in        | Noun           | 会員 (かいいん) - Member        |
+| 公    | こう       | kou       | Noun           | 公園 (こうえん) - Park          |
+| 画    | が         | ga        | Noun           | 映画 (えいが) - Movie           |
+| 死    | しぬ       | shinu     | Verb           | 死ぬ (しぬ) - To die            |
+| 安    | やすい     | yasui     | Adjective      | 安い (やすい) - Cheap           |
+| 親    | おや       | oya       | Noun           | 親 (おや) - Parent              |
+| 強    | つよい     | tsuyoi    | Adjective      | 強い (つよい) - Strong          |
+| 使    | つかう     | tsukau    | Verb           | 使う (つかう) - To use          |
+| 朝    | あさ       | asa       | Noun           | 朝 (あさ) - Morning             |
+| 題    | だい       | dai       | Noun           | 問題 (もんだい) - Question      |
+| 仕    | し         | shi       | Noun           | 仕事 (しごと) - Work            |
+| 京    | きょう     | kyou      | Noun           | 東京 (とうきょう) - Tokyo       |
+| 足    | あし       | ashi      | Noun           | 足 (あし) - Foot                |
+| 品    | しな       | shina     | Noun           | 品物 (しなもの) - Goods         |
+| 着    | きる       | kiru      | Verb           | 着る (きる) - To wear           |
+| 別    | べつ       | betsu     | Verb           | 別れる (わかれる) - To separate |
+| 音    | おと       | oto       | Noun           | 音 (おと) - Sound               |
+| 元    | もと       | moto      | Noun           | 元気 (げんき) - Healthy         |
+| 特    | とく       | toku      | Adjective      | 特別 (とくべつ) - Special       |
+| 風    | かぜ       | kaze      | Noun           | 風 (かぜ) - Wind                |
 
 # N4 Kanji
 
