@@ -30,19 +30,7 @@ _For places, use に or へ with verbs like \[おくります\], \[でんわを�
 
 - かいしゃへでんわをかけます。 (I called the company.)
 
-### 4. Noun (person) に もらいます
-
-**Meaning**: To receive something from someone.  
-**Examples**:
-
-- きむらさんはやまださんにはなをもらいます。 (Kimura received flowers from Mr. Yamada.)
-- カリナさんに CD をかりました。 (I borrowed a CD from Ms. Karina.)
-
-_Use 「から」 instead of 「に」 for organizations:_
-
-- ぎんこうからおかねをかりました。 (I borrowed money from the bank.)
-
-### 5. もう Verb ました
+### 4. もう Verb ました
 
 **Meaning**: Already did something.  
 **Examples**:
@@ -52,3 +40,20 @@ _Use 「から」 instead of 「に」 for organizations:_
   - いいえ、まだです。 (No, not yet.)
 
 _Negative answers use まだです, not Verb ませんでした._
+
+### 5. S + Indirect Object + Direct Object + Verb
+
+**Meaning: Indicates the action of giving or sending something to someone.**
+
+**Examples:**
+I gave a book to my friend.
+
+English (S+V+O+to sb): I gave a book to my friend.
+Japanese (S+to sb+O+V): 私は友達に本をあげました。
+Watashi wa tomodachi ni hon wo agemashita.
+
+She sent a letter to her mother.
+
+English: She sent a letter to her mother.
+Japanese: 彼女は母親に手紙を送りました。
+Kanojo wa haha-oya ni tegami wo okurimashita.
