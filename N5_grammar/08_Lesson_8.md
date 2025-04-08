@@ -19,9 +19,16 @@ Adjectives describe the nature, state, or emotions of things and people. They ca
 
 **Examples:**
 
-- ワットせんせい は しんせつ です。  
+- きれいな → きれいです (It's beautiful/clean)
+- 元気な → 元気です (It's energetic/fine)
+- 便利な → 便利です (It's convenient)
+- 静かな → 静かです (It's quiet)
+- 静かな部屋 (shizuka na heya) = a quiet room
+- 部屋は静かです (heya wa shizuka desu) = The room is quiet
+
+* ワットせんせい は しんせつ です。  
   _(Mr. Watt is kind.)_
-- ふじさん は たかい です。  
+* ふじさん は たかい です。  
   _(Mount Fuji is high.)_
 
 ### Negative Form
