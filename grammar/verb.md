@@ -2,17 +2,15 @@
 
 ## Types of Verbs
 
-Japanese verbs fall into three main categories:
+1. U-verbs (Godan): These verbs end with a 'u' sound, excluding those ending in iru/eru. Examples include 飲む (nomu).
+2. Ru-verbs (Ichidan): These verbs end with る (ru), specifically those ending in iru/eru. Examples include 食べる (taberu).
+3. Irregular verbs: These are special cases, consisting of する (suru) and 来る (kuru).
 
-1. U-verbs (Godan): End with an 'u' sound following a consonant (e.g., 飲む - nomu)
-2. Ru-verbs (Ichidan): End with る (ru) after a vowel (e.g., 食べる - taberu)
-3. Irregular verbs: Special cases (する and 来る)
-
-| Type               | Description               | Examples                                                                                                                                     | Conjugation Rule                     |
-| ------------------ | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-| U-verbs (Godan)    | End with u sound          | 飲む (nomu - to drink) → 飲みます (nomimasu)<br>行く (iku - to go) → 行きます (ikimasu)<br>話す (hanasu - to speak) → 話します (hanashimasu) | Change u → i + masu for polite form  |
-| Ru-verbs (Ichidan) | End with る (ru)          | 食べる (taberu - to eat) → 食べます (tabemasu)<br>見る (miru - to see) → 見ます (mimasu)<br>起きる (okiru - to wake up) → 起きます (okimasu) | Remove る + add masu for polite form |
-| Irregular Verbs    | Only する and 来る (kuru) | する (suru - to do) → します (shimasu)<br>来る (kuru - to come) → 来ます (kimasu)                                                            | Must memorize conjugations           |
+| Type               | Description                | Examples                                                                                                                                     | Conjugation Rule                     |
+| ------------------ | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+| U-verbs (Godan)    | End with u sound           | 飲む (nomu - to drink) → 飲みます (nomimasu)<br>行く (iku - to go) → 行きます (ikimasu)<br>話す (hanasu - to speak) → 話します (hanashimasu) | Change u → i + masu for polite form  |
+| Ru-verbs (Ichidan) | End with る (ru) - iru/eru | 食べる (taberu - to eat) → 食べます (tabemasu)<br>見る (miru - to see) → 見ます (mimasu)<br>起きる (okiru - to wake up) → 起きます (okimasu) | Remove る + add masu for polite form |
+| Irregular Verbs    | Only する and 来る (kuru)  | する (suru - to do) → します (shimasu)<br>来る (kuru - to come) → 来ます (kimasu)                                                            | Must memorize conjugations           |
 
 ## Key Conjugation Forms
 
