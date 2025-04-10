@@ -2,10 +2,10 @@
 
 | No. | Vocabulary                 | Romaji                   | Kanji                  | Part of Speech | Meaning                                                                                                            |
 | --- | -------------------------- | ------------------------ | ---------------------- | -------------- | ------------------------------------------------------------------------------------------------------------------ |
-| 1   | わかります                 | wakarimasu               | 分かります             | verb           | understand                                                                                                         |
+| 1   | わかる                     | wakaru                   | 分かる                 | verb           | understand                                                                                                         |
 | 2   | きらいな                   | kiraana                  | 嫌いな                 | na-adj         | dislike                                                                                                            |
 | 3   | すきな                     | sukina                   | 好きな                 | na-adj         | like                                                                                                               |
-| 4   | あります                   | arimasu                  |                        | verb           | have                                                                                                               |
+| 4   | ある                       | aru                      |                        | verb           | have                                                                                                               |
 | 5   | じょうずな                 | jōzuna                   | 上手な                 | na-adj         | good at                                                                                                            |
 | 6   | へたな                     | hetana                   | 下手な                 | na-adj         | poor at                                                                                                            |
 | 7   | りょうり                   | ryōri                    | 料理                   | noun           | dish (cooked food), cooking                                                                                        |
@@ -36,7 +36,7 @@
 | 32  | おくさん                   | okusan                   | 奥さん                 | noun           | (someone else's) wife                                                                                              |
 | 33  | つま / かない              | tsuma / kanai            | 妻/ 家内               | noun           | (my) wife                                                                                                          |
 | 34  | こども                     | kodomo                   | 子供                   | noun           | child                                                                                                              |
-| 35  | よく (わかります）         | yoku (wakarimasu)        |                        | adverb         | well, much                                                                                                         |
+| 35  | よく (わかる）             | yoku (wakaru)            |                        | adverb         | well, much                                                                                                         |
 | 36  | だいがく                   | daigaku                  |                        | noun           | university                                                                                                         |
 | 37  | たくさん                   | takusan                  | 大学                   | adverb         | many, much                                                                                                         |
 | 38  | すこし                     | sukoshi                  | 少し                   | adverb         | a little, a few                                                                                                    |
