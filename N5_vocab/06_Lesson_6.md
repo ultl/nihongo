@@ -6,9 +6,10 @@
 | 4   | たべる                 | **食べる**           | eat                          | taberu               | Verb           | **ご飯を食べます。**         |
 | 5   | みる                   | **見る**             | see, look at, watch          | miru                 | Verb           | **映画を見ます。**           |
 | 6   | きく                   | **聞く**             | hear, listen                 | kiku                 | Verb           | **音楽を聞きます。**         |
-| 7   | よむ                   | **読む**             | read                         | yomu                 | Verb           | **本を読みます。**           |
-| 8   | かく                   | **書く**             | write, draw, paint           | kaku                 | Verb           | **手紙を書きます。**         |
-| 9   | かう                   | **買う**             | buy                          | kau                  | Verb           | **野菜を買います。**         |
+| 7   | うたう                 | **歌う**             | sing                         | utau                 | Verb           | **歌を歌います。**           |
+| 8   | よむ                   | **読む**             | read                         | yomu                 | Verb           | **本を読みます。**           |
+| 9   | かく                   | **書く**             | write, draw, paint           | kaku                 | Verb           | **手紙を書きます。**         |
+| 10  | かう                   | **買う**             | buy                          | kau                  | Verb           | **野菜を買います。**         |
 | 10  | とる                   | **撮る**             | take [a photo]               | toru                 | Verb           | **写真を撮ります。**         |
 | 11  | しゃしんをとります。   | **写真を撮ります。** | take [a photo]               | shashin o torimasu   | Phrase         | **写真を撮ります。**         |
 | 12  | します                 |                      | do                           | shimasu              | Verb           | **宿題をします。**           |
