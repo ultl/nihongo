@@ -1,15 +1,15 @@
 | No. | Vocabulary             | Kanji                | Meaning                      | Romaji               | Part of Speech | Example                      |
 | --- | ---------------------- | -------------------- | ---------------------------- | -------------------- | -------------- | ---------------------------- |
-| 1   | すいます               | **吸います**         | smoke                        | suimasu              | Verb           | **タバコを吸います。**       |
+| 1   | すう                   | **吸う**             | smoke                        | suu                  | Verb           | **タバコを吸います。**       |
 | 2   | たばこをすいます。     |                      | smoke a cigarette            | tabako o suimasu     | Phrase         | **タバコを吸います。**       |
-| 3   | のみます               | **飲みます**         | drink                        | nomimasu             | Verb           | **水を飲みます。**           |
-| 4   | たべます               | **食べます**         | eat                          | tabemasu             | Verb           | **ご飯を食べます。**         |
-| 5   | みます                 | **見ます**           | see, look at, watch          | mimasu               | Verb           | **映画を見ます。**           |
-| 6   | ききます               | **聞きます**         | hear, listen                 | kikimasu             | Verb           | **音楽を聞きます。**         |
-| 7   | よみます               | **読みます**         | read                         | yomimasu             | Verb           | **本を読みます。**           |
-| 8   | かきます               | **書きます**         | write, draw, paint           | kakimasu             | Verb           | **手紙を書きます。**         |
-| 9   | かいます               | **買います**         | buy                          | kaimasu              | Verb           | **野菜を買います。**         |
-| 10  | とります               | **撮ります**         | take [a photo]               | torimasu             | Verb           | **写真を撮ります。**         |
+| 3   | のむ                   | **飲む**             | drink                        | nomu                 | Verb           | **水を飲みます。**           |
+| 4   | たべる                 | **食べる**           | eat                          | taberu               | Verb           | **ご飯を食べます。**         |
+| 5   | みる                   | **見る**             | see, look at, watch          | miru                 | Verb           | **映画を見ます。**           |
+| 6   | きく                   | **聞く**             | hear, listen                 | kiku                 | Verb           | **音楽を聞きます。**         |
+| 7   | よむ                   | **読む**             | read                         | yomu                 | Verb           | **本を読みます。**           |
+| 8   | かく                   | **書く**             | write, draw, paint           | kaku                 | Verb           | **手紙を書きます。**         |
+| 9   | かう                   | **買う**             | buy                          | kau                  | Verb           | **野菜を買います。**         |
+| 10  | とる                   | **撮る**             | take [a photo]               | toru                 | Verb           | **写真を撮ります。**         |
 | 11  | しゃしんをとります。   | **写真を撮ります。** | take [a photo]               | shashin o torimasu   | Phrase         | **写真を撮ります。**         |
 | 12  | します                 |                      | do                           | shimasu              | Verb           | **宿題をします。**           |
 | 13  | あいます               | **会います**         | meet                         | aimasu               | Verb           | **友達に会います。**         |
