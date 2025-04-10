@@ -1,4 +1,4 @@
-## Katakana table
+# Katakana table
 
 | **Romaji** | **A**                                      | **I**                                     | **U**                                     | **E**                                     | **O**                                     |
 | ---------- | ------------------------------------------ | ----------------------------------------- | ----------------------------------------- | ----------------------------------------- | ----------------------------------------- |
@@ -15,7 +15,7 @@
 | **N**      | <span style="font-size: 1.5em;">ン</span>  |                                           |                                           |                                           |                                           |
 | **VU**     | <span style="font-size: 1.5em;">ヴ</span>  |                                           |                                           |                                           |                                           |
 
-## Hiragana table
+# Hiragana table
 
 | **Romaji** | **A**                                       | **I**                                     | **U**                                     | **E**                                     | **O**                                     |
 | ---------- | ------------------------------------------- | ----------------------------------------- | ----------------------------------------- | ----------------------------------------- | ----------------------------------------- |
@@ -33,7 +33,7 @@
 | **VU**     | <span style="font-size: 1.5em;">う゛</span> |                                           |                                           |                                           |                                           |
 | **N**      | <span style="font-size: 1.5em;">ん</span>   |                                           |                                           |                                           |                                           |
 
-## Kana Transformation Rules
+# Kana Transformation Rules (Chouon)
 
 | **Transformation** | **From** | **To** | **Example**                                                                                     |
 | ------------------ | -------- | ------ | ----------------------------------------------------------------------------------------------- |
@@ -57,3 +57,22 @@
 |                    | d        | j      | <span style="font-size: 1.5em;">ぢ</span> (ji) → <span style="font-size: 1.5em;">ぢゃ</span> (ja)   |
 |                    | b        | by     | <span style="font-size: 1.5em;">び</span> (bi) → <span style="font-size: 1.5em;">びゃ</span> (bya)  |
 |                    | p        | py     | <span style="font-size: 1.5em;">ぴ</span> (pi) → <span style="font-size: 1.5em;">ぴゃ</span> (pya)  |
+
+# Sokuon
+
+Here is a comprehensive table outlining the key principles and rules for using sokuon (the small っ/ッ) in Japanese:
+
+| Principle                | Description                                                        | Examples                                                                                                    |
+| ------------------------ | ------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
+| Consonant Gemination     | Doubles the following consonant, creating a brief pause            | かっこいい (kakkoii) - cool<br>きって (kitte) - stamp                                                       |
+| Common Consonants        | Most frequently occurs before k, s, t, and p sounds                | がっこう (gakkō) - school<br>いっしょ (issho) - together<br>きって (kitte) - stamp<br>はっぱ (happa) - leaf |
+| Restricted Usage         | Generally doesn't appear before vowels, n, or at the end of words  | ✓ にっき (nikki) - diary<br>✗ にっあき (ni'aki)                                                             |
+| Word Boundaries          | Often appears at morpheme boundaries in compound words             | 日+本 → にっぽん (Nippon)<br>物+語 → ものがたり (monogatari)                                                |
+| Verb Te-forms            | Used in te-forms of certain verbs ending in -tsu, -ru, -u, and -ku | 待つ → 待って (matte)<br>切る → 切って (kitte)<br>買う → 買って (katte)<br>書く → 書いて (kaite)            |
+| Loanword Adaptation      | Used in foreign loanwords to represent consonant clusters          | バッグ (baggu) - bag<br>アップル (appuru) - apple                                                           |
+| Sentence-final Particles | Can be used with certain particles for emphasis                    | よ → よっ (yo') - emphatic ending                                                                           |
+| Onomatopoeia             | Frequently appears in sound-symbolic words                         | がっしり (gasshiri) - solidly<br>すっきり (sukkiri) - refreshingly                                          |
+| Emphatic Expression      | Used colloquially to emphasize qualities                           | かっわいい (kawwaii) - super cute<br>すっごい (suggoi) - really amazing                                     |
+| Contractions             | Appears in casual contractions of longer expressions               | ~ている → ~てる → ~ってる<br>ではない → じゃない → じゃっない                                               |
+| Pitch Accent             | Can affect the pitch accent pattern of words                       | はし (hashi, low-high) - bridge<br>はっし (hasshi, high-low) - chopsticks                                   |
+| Dialects                 | Usage patterns may vary in different Japanese dialects             | Standard: きっと (kitto)<br>Some dialects: きっと → きと                                                    |

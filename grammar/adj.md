@@ -54,3 +54,20 @@ Add か (ka) at the end of any sentence
 
 ❌ ピザを すき です (Pizza wo suki desu)
 ✅ ピザが すき です (Pizza ga suki desu)
+
+### Negating Adjectives
+
+#### I-Adjectives
+
+1. Remove final い
+2. Add くない (kunai)
+3. Add です (desu) for polite form
+
+Example: おいしい → おいしくないです (not delicious)
+
+#### Na-Adjectives
+
+1. Remove な
+2. Add じゃないです or ではないです
+
+Example: きれいな → きれいじゃないです (not beautiful)
