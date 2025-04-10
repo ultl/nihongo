@@ -2,6 +2,12 @@
 
 ## Types of Verbs
 
+Japanese verbs fall into three main categories:
+
+1. U-verbs (Godan): End with an 'u' sound following a consonant (e.g., 飲む - nomu)
+2. Ru-verbs (Ichidan): End with る (ru) after a vowel (e.g., 食べる - taberu)
+3. Irregular verbs: Special cases (する and 来る)
+
 | Type               | Description               | Examples                                                                                                                                     | Conjugation Rule                     |
 | ------------------ | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
 | U-verbs (Godan)    | End with u sound          | 飲む (nomu - to drink) → 飲みます (nomimasu)<br>行く (iku - to go) → 行きます (ikimasu)<br>話す (hanasu - to speak) → 話します (hanashimasu) | Change u → i + masu for polite form  |
