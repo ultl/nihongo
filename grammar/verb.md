@@ -19,24 +19,50 @@
 | Masu Form | Polite Present  | Change u → i + masu<br>書く (kaku - to write) → 書きます (kakimasu)<br>読む (yomu - to read) → 読みます (yomimasu) | Remove る + add masu<br>食べる (taberu - to eat) → 食べます (tabemasu)<br>寝る (neru - to sleep) → 寝ます (nemasu) | Used with teachers/strangers |
 | Te Form   | Connecting Form | Special rules per ending<br>書く (kaku - to write) → 書いて (kaite)<br>飲む (nomu - to drink) → 飲んで (nonde)     | Remove る + add て<br>食べる (taberu - to eat) → 食べて (tabete)<br>見る (miru - to see) → 見て (mite)             | Links multiple actions       |
 
-## Base Conjugations (食べる - taberu - to eat)
+# Affirmative and Negative Forms in Japanese
 
-| Form     | Conjugation               |
-| -------- | ------------------------- |
-| Past     | 食べました (tabemashita)  |
-| Negative | 食べません (tabemasen)    |
-| Want to  | 食べたい (tabetai)        |
-| Let's    | 食べましょう (tabemashou) |
+## To Be (です/だ - desu/da) in Present Tense - Negative and Affirmative Forms
 
-## Usage Tips
+| Politeness Level | Affirmative | Negative                       | Example                                 |
+| ---------------- | ----------- | ------------------------------ | --------------------------------------- |
+| Formal/Polite    | です (desu) | ではありません (dewa arimasen) | 学生ではありません (I am not a student) |
+| Casual/Polite    | です (desu) | じゃありません (ja arimasen)   | 学生じゃありません (I am not a student) |
+| Casual           | だ (da)     | じゃない (ja nai)              | 学生じゃない (I'm not a student)        |
+| Very Casual      | だ (da)     | じゃねぇ (ja nee)              | 学生じゃねぇ (I ain't a student)        |
 
-1. Start with masu form for basic politeness
-2. Te form essential for complex sentences
+## "To Be" (です/だ) in Past Tense - Negative and Affirmative Forms
 
-- Example: 食べて飲んで寝ます (tabete nonde nemasu) (I eat, drink, and sleep)
+| Politeness Level | Affirmative      | Negative                                     | Example                                                                       |
+| ---------------- | ---------------- | -------------------------------------------- | ----------------------------------------------------------------------------- |
+| Formal/Polite    | でした (deshita) | ではありませんでした (dewa arimasen deshita) | 学生でした (I was a student) / 学生ではありませんでした (I was not a student) |
+| Casual/Polite    | でした (deshita) | じゃありませんでした (ja arimasen deshita)   | 学生でした (I was a student) / 学生じゃありませんでした (I was not a student) |
+| Casual           | だった (datta)   | じゃなかった (ja nakatta)                    | 学生だった (I was a student) / 学生じゃなかった (I wasn't a student)          |
+| Very Casual      | だった (datta)   | じゃなかった (ja nakatta)                    | 学生だった (I was a student) / 学生じゃなかった (I wasn't a student)          |
 
-3. Can stack conjugations for more meanings
+Note that for the very casual form, じゃなかった is most common, though regional variants like じゃなかったよ (with the よ particle for emphasis) might be heard in conversation.
 
-- Example: 食べたくない (tabetakunai) (don't want to eat)
+## Regular Verbs
 
-4. Practice each type separately before combining
+| Politeness Level | Verb Type      | Affirmative              | Negative                             | Example                                         |
+| ---------------- | -------------- | ------------------------ | ------------------------------------ | ----------------------------------------------- |
+| Formal/Polite    | Godan (食べる) | 食べます (tabemasu)      | 食べません (tabemasen)               | 肉を食べません (I don't eat meat)               |
+| Formal/Polite    | Ichidan (見る) | 見ます (mimasu)          | 見ません (mimasen)                   | 映画を見ません (I don't watch movies)           |
+| Casual           | Godan (食べる) | 食べる (taberu)          | 食べない (tabenai)                   | 肉を食べない (I don't eat meat)                 |
+| Casual           | Ichidan (見る) | 見る (miru)              | 見ない (minai)                       | 映画を見ない (I don't watch movies)             |
+| Past Polite      | Godan (食べる) | 食べました (tabemashita) | 食べませんでした (tabemasen deshita) | 肉を食べませんでした (I didn't eat meat)        |
+| Past Polite      | Ichidan (見る) | 見ました (mimashita)     | 見ませんでした (mimasen deshita)     | 映画を見ませんでした (I didn't watch the movie) |
+| Past Casual      | Godan (食べる) | 食べた (tabeta)          | 食べなかった (tabenakatta)           | 肉を食べなかった (I didn't eat meat)            |
+| Past Casual      | Ichidan (見る) | 見た (mita)              | 見なかった (minakatta)               | 映画を見なかった (I didn't watch the movie)     |
+
+## Irregular Verbs
+
+| Politeness Level | Verb           | Affirmative           | Negative                          | Example                                      |
+| ---------------- | -------------- | --------------------- | --------------------------------- | -------------------------------------------- |
+| Formal/Polite    | する (to do)   | します (shimasu)      | しません (shimasen)               | 仕事をしません (I don't work)                |
+| Formal/Polite    | 来る (to come) | 来ます (kimasu)       | 来ません (kimasen)                | 明日来ません (I won't come tomorrow)         |
+| Casual           | する (to do)   | する (suru)           | しない (shinai)                   | 仕事をしない (I don't work)                  |
+| Casual           | 来る (to come) | 来る (kuru)           | 来ない (konai)                    | 明日来ない (I won't come tomorrow)           |
+| Past Polite      | する (to do)   | しました (shimashita) | しませんでした (shimasen deshita) | 仕事をしませんでした (I didn't work)         |
+| Past Polite      | 来る (to come) | 来ました (kimashita)  | 来ませんでした (kimasen deshita)  | 昨日来ませんでした (I didn't come yesterday) |
+| Past Casual      | する (to do)   | した (shita)          | しなかった (shinakatta)           | 仕事をしなかった (I didn't work)             |
+| Past Casual      | 来る (to come) | 来た (kita)           | 来なかった (konakatta)            | 昨日来なかった (I didn't come yesterday)     |
