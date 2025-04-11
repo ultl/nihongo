@@ -14,3 +14,10 @@ This lesson summarizes grammar points related to [あります] and [います].
 | は + ありませんか                                 | Polite request                     | Shows polite attitude                                 | チリソースはありませんか<br>(Do you have chili sauce?)                                                                              |
 
 Note: です can substitute あります/います when those verbs are understood from context.
+
+## YA and TO
+
+| Conjunction | Explanation                                         | Example                                                                                                             |
+| ----------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| と (to)     | Connects two nouns with the meaning "and"           | りんご**と**バナナを買いました。<br>Ringo **to** banana o kaimashita.<br>_I bought apples **and** bananas._         |
+| や (ya)     | Similar to と but implies an incomplete list; "and" | 本**や**雑誌を読みます。<br>Hon **ya** zasshi o yomimasu.<br>_I read books **and** magazines (among other things)._ |
