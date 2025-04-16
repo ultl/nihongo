@@ -10,3 +10,29 @@
 | ごちゅうもん は                                                | You will only eat anything               | Used by staff when asking customers. ご shows respect.              | -                                                                                                                                                                                                           |
 
 Note: ほしい and たいです cannot be used to indicate another person's desire or to invite listeners.
+
+# Common Kanji Patterns
+
+## 感 (kan): Creates words related to feelings, sensations, emotions
+
+感情 (kanjō) = emotion
+感謝 (kansha) = gratitude
+感覚 (kankaku) = sense/sensation
+
+## 間 (kan): Creates words related to space, interval, or time
+
+時間 (jikan) = time
+空間 (kūkan) = space
+中間 (chūkan) = middle/between
+
+## 館 (kan): Creates words for buildings or establishments
+
+旅館 (ryokan) = traditional inn
+大使館 (taishikan) = embassy
+会館 (kaikan) = meeting hall
+
+## 観 (kan): Creates words related to viewpoints or perspectives
+
+観点 (kanten) = viewpoint
+楽観 (rakkan) = optimism
+悲観 (hikan) = pessimism
