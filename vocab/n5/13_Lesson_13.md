@@ -42,3 +42,116 @@
 | 38  | ぎゅうどん                   | 牛どん               | gyuudon                | Noun           | Beef rice dish                             |
 | 39  | しょうしょう　おまちください | 少々お待ちください。 | shoushou omachikudasai | Expression     | please wait a moment                       |
 | 40  | べつべつに                   | 別々に               | betsubetsu ni          | Adverb         | put them separately                        |
+
+# Analysis of "おなかがすきました" (Onaka ga sukimashita)
+
+- **お (o)**: Honorific/polite prefix
+- **なか (naka)**: Stomach/belly
+- **が (ga)**: Subject marker particle
+- **すきました (sukimashita)**: Past tense of すく (suku) meaning "to become empty"
+
+## Grammatical Breakdown (for verb すく)
+
+- **Base form**: すく (suku)
+- **Stem form**: すき (suki)
+- **Polite present**: すきます (sukimasu)
+- **Polite past**: すきました (sukimashita)
+  Potential Confusion
+
+---
+
+It's worth noting that すきました could be confused with:
+
+- **好き (suki)** - "to like" - This is an adjective, not a verb, so すきました would not be the correct conjugation. The proper past expression would be 好きでした (suki deshita).
+- In casual speech, the same verb would be expressed as すいた (suita) in past tense.
+
+# Analysis of "おなかがいっぱいです" (Onaka ga ippai desu)
+
+## Breakdown of Components
+
+- **お (o)**: Honorific/polite prefix
+- **なか (naka)**: Stomach/belly
+- **が (ga)**: Subject marker particle
+- **いっぱい (ippai)**: Full/filled
+- **です (desu)**: Copula ("to be") in polite form
+
+## Related Expressions
+
+- **Casual form**: おなかがいっぱい (onaka ga ippai)
+- **Past tense**: おなかがいっぱいでした (onaka ga ippai deshita)
+- **Negative form**: おなかがいっぱいではありません (onaka ga ippai dewa arimasen)
+- **Opposite expression**: おなかがすきました (onaka ga sukimashita) - "I am hungry"
+
+## Cultural Notes
+
+- The term いっぱい (ippai) originally comes from 一杯 meaning "one cup/full cup"
+- This phrase is a common and polite way to indicate you've had enough to eat
+- In very casual settings, simply saying いっぱい (ippai) can convey the same meaning
+- For more formal situations, お腹が一杯でございます (onaka ga ippai de gozaimasu) would be used
+
+# Analysis of "のどがかわきました" (Nodo ga kawakimashita)
+
+This Japanese expression means "I am thirsty" and is written in hiragana as のどがかわきました. In kanji, it would be written as 喉が渇きました.
+
+## Breakdown of Components
+
+- **のど (nodo)**: Throat
+- **が (ga)**: Subject marker particle
+- **かわきました (kawakimashita)**: Past tense of かわく (kawaku) meaning "to become dry"
+
+## Related Expressions
+
+- **Present polite**: のどがかわきます (nodo ga kawakimasu) - "I am getting thirsty"
+- **Casual past**: のどがかわいた (nodo ga kawaita) - "I'm thirsty" (casual)
+- **Very casual**: のどかわいた (nodo kawaita) - "Thirsty" (very casual)
+- **More formal**: のどが渇いております (nodo ga kawaite orimasu) - "I am thirsty" (more formal)
+- **Related phrase**: 水がほしいです (mizu ga hoshii desu) - "I want water"
+
+# Analysis of "そうしましょう" (Sou shimashou)
+
+## Breakdown of Components
+
+- **そう (sou)**: "That way," "like that," "so"
+- **しましょう (shimashou)**: "Let's do" (volitional form of する/suru)
+
+## Verb Analysis
+
+- **Base verb**: する (suru) - "to do"
+- **Stem**: し (shi)
+- **Polite form**: します (shimasu)
+- **Volitional ending**: ～ましょう (-mashou) - "let's" form
+
+# Analysis of "ご注文は" (Gochuumon wa)
+
+The phrase "gochuumonha" refers to ご注文は in Japanese, which is commonly used in service settings when talking about orders.
+
+## Breakdown of Components
+
+- **ご (go)**: Honorific/polite prefix
+- **注文 (chuumon)**: Order (as in restaurant or purchase order)
+- **は (wa/ha)**: Topic marker particle (pronounced "wa" but written "ha" in hiragana)
+
+## Romanization Note
+
+In your query "gochuumonha," the particle は is romanized as "ha" based on its hiragana spelling. However, this particle is actually pronounced "wa" in Japanese, so the standard romanization would be "gochuumon wa."
+
+## Related Expressions
+
+- **Without honorific**: 注文は (chuumon wa) - less polite version
+- **Question form**: ご注文は何ですか？ (Gochuumon wa nan desu ka?) - "What would you like to order?"
+- **Confirmation**: ご注文は以上ですか？ (Gochuumon wa ijou desu ka?) - "Is that all for your order?"
+- **With different particle**: ご注文を承ります (Gochuumon wo uketamawari masu) - "We will take your order"
+
+# "少々お待ちください" (shōshō omachi kudasai).
+
+- "Please wait a moment" or "Please wait a little while."
+- 少々 (shōshō): means "a little" or "a moment"
+- お待ち (omachi): the polite form of "to wait" (待つ/matsu), with the honorific prefix "o"
+- ください (kudasai): a polite request form meaning "please"
+
+# "betsubetsuni" (別々に - betsubetsu ni)
+
+1.  **別々 (betsubetsu)** - means "separate" or "different from each other"
+2.  **に (ni)** - a particle that functions as an adverbial marke
+
+Note: The word uses the kanji 別 (betsu) meaning "separate" repeated twice to emphasize the distinct or individual nature of whatever is being described.
