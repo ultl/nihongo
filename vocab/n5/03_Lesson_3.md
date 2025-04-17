@@ -11,7 +11,7 @@
 | 7   | どちら              |        | dochira             | over here                            |
 | 8   | きょうしつ          | 教室   | kyoushitsu          | classroom                            |
 | 9   | しょくどう          | 食堂   | shokudou            | canteen                              |
-| 10  | じむしょ            | 事務所 | jimusho             | office                               |
+| 10  | じむしょ            | 事務所 | jimusho (!=jisho)   | office                               |
 | 11  | かいぎしつ          | 会議室 | kaigishitsu         | meeting                              |
 | 12  | うけつけ            | 受付   | uketsuke            | reception                            |
 | 13  | ロビー              |        | robii               | Hall                                 |

@@ -50,3 +50,25 @@
 | 46  | フランス                     |                                  | France                                         |
 | 47  | ブラジル                     |                                  | Brazil                                         |
 | 48  | さくらだいがく               | さくら大学                       | Sakura University                              |
+
+## "Shitsurei desuga" (失礼ですが) is a polite Japanese expression commonly used in everyday conversation.
+
+### Linguistic Breakdown
+
+- 失礼 (shitsurei) = "rudeness" or "impoliteness"
+- です (desu) = copula ("is/am/are")
+- が (ga) = conjunction ("but")
+
+### Literal translation
+
+"It is rude, but..." or "I am being rude, but..."
+
+## "どうぞよろしくお願いします" (dōzo yoroshiku onegaishimasu).
+
+- どうぞ (dōzo) = "please" or "by all means"
+- よろしく (yoroshiku) = "favorably" or "well"
+- お願いします (onegaishimasu) = "I request" or "I ask
+
+      お (o): An honorific prefix that adds politeness
+      願い (negai): Means "wish," "request," or "desire"
+      します (shimasu): The polite form of "to do"
