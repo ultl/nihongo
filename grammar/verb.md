@@ -2,9 +2,12 @@
 
 ## Types of Verbs
 
-1. U-verbs (Godan): These verbs end with a 'u' sound, excluding those ending in iru/eru. Examples include 飲む (nomu).
-2. Ru-verbs (Ichidan): These verbs end with る (ru), specifically those ending in iru/eru. Examples include 食べる (taberu).
-3. Irregular verbs: These are special cases, consisting of する (suru) and 来る (kuru).
+1. U-verbs (Godan): These verbs end with a 'u' sound, excluding those ending in
+   iru/eru. Examples include 飲む (nomu).
+2. Ru-verbs (Ichidan): These verbs end with る (ru), specifically those ending
+   in iru/eru. Examples include 食べる (taberu).
+3. Irregular verbs: These are special cases, consisting of する (suru) and 来る
+   (kuru).
 
 | Type               | Description                | Examples                                                                                                                                     | Conjugation Rule                     |
 | ------------------ | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
@@ -39,7 +42,9 @@
 | Casual           | だった (datta)   | じゃなかった (ja nakatta)                    | 学生だった (I was a student) / 学生じゃなかった (I wasn't a student)          |
 | Very Casual      | だった (datta)   | じゃなかった (ja nakatta)                    | 学生だった (I was a student) / 学生じゃなかった (I wasn't a student)          |
 
-Note that for the very casual form, じゃなかった is most common, though regional variants like じゃなかったよ (with the よ particle for emphasis) might be heard in conversation.
+Note that for the very casual form, じゃなかった is most common, though regional
+variants like じゃなかったよ (with the よ particle for emphasis) might be heard
+in conversation.
 
 ## Regular Verbs
 
@@ -66,3 +71,50 @@ Note that for the very casual form, じゃなかった is most common, though re
 | Past Polite      | 来る (to come) | 来ました (kimashita)  | 来ませんでした (kimasen deshita)  | 昨日来ませんでした (I didn't come yesterday) |
 | Past Casual      | する (to do)   | した (shita)          | しなかった (shinakatta)           | 仕事をしなかった (I didn't work)             |
 | Past Casual      | 来る (to come) | 来た (kita)           | 来なかった (konakatta)            | 昨日来なかった (I didn't come yesterday)     |
+
+# Japanese Te-form Conjugation Rules
+
+## Type I Verbs (Godan/U-verbs)
+
+| Dictionary Ending | Change to     | Examples                                      |
+| ----------------- | ------------- | --------------------------------------------- |
+| う (-u)           | って (-tte)   | 買う (kau) → 買って (katte) - to buy          |
+| つ (-tsu)         | って (-tte)   | 待つ (matsu) → 待って (matte) - to wait       |
+| る (-ru)          | って (-tte)   | 取る (toru) → 取って (totte) - to take        |
+| ぶ (-bu)          | んで (-nde)   | 遊ぶ (asobu) → 遊んで (asonde) - to play      |
+| む (-mu)          | んで (-nde)   | 読む (yomu) → 読んで (yonde) - to read        |
+| ぬ (-nu)          | んで (-nde)   | 死ぬ (shinu) → 死んで (shinde) - to die       |
+| く (-ku)          | いて (-ite)   | 書く (kaku) → 書いて (kaite) - to write       |
+| ぐ (-gu)          | いで (-ide)   | 泳ぐ (oyogu) → 泳いで (oyoide) - to swim      |
+| す (-su)          | して (-shite) | 話す (hanasu) → 話して (hanashite) - to speak |
+
+## Type II Verbs (Ichidan/Ru-verbs)
+
+| Dictionary Ending | Change to | Examples                                     |
+| ----------------- | --------- | -------------------------------------------- |
+| る (-ru)          | て (-te)  | 食べる (taberu) → 食べて (tabete) - to eat   |
+|                   |           | 見る (miru) → 見て (mite) - to see           |
+|                   |           | 起きる (okiru) → 起きて (okite) - to wake up |
+
+## Type III Verbs (Irregular Verbs)
+
+| Verb        | Te-form      | Meaning |
+| ----------- | ------------ | ------- |
+| する (suru) | して (shite) | to do   |
+| 来る (kuru) | 来て (kite)  | to come |
+
+## How to Identify Verb Types
+
+- **Type I (Godan/U-verbs)**: Most verbs ending in う, つ, る, ぶ, む, ぬ, く,
+  ぐ, or す
+- **Type II (Ichidan/Ru-verbs)**: Most verbs ending in いる or える
+- **Type III**: Only する and 来る are irregular
+
+## Common Uses of Te-form
+
+1. Connecting actions: "I eat breakfast and go to school" →
+   朝ご飯を食べて、学校に行きます
+2. Making requests: "Please wait" → 待ってください
+3. Progressive tense: "I am reading" → 読んでいます
+4. Permission: "May I go?" → 行ってもいいですか
+5. Giving reasons: "Because it's raining..." → 雨が降っているので...
