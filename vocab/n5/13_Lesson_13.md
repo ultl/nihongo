@@ -54,3 +54,37 @@
 | ご注文は             | Gochuumon wa          | As for your order    | - ご (go): Honorific prefix<br>- 注文 (chuumon): Order<br>- は (wa): Topic marker                                                                             | - Note: は is written "ha" in hiragana but pronounced "wa"                                                      | - Without honorific: 注文は<br>- Question: ご注文は何ですか？<br>- Confirmation: ご注文は以上ですか？<br>- With different particle: ご注文を承ります                             |
 | 少々お待ちください   | Shōshō omachi kudasai | Please wait a moment | - 少々 (shōshō): A little, a moment<br>- お待ち (omachi): Polite form of "to wait"<br>- ください (kudasai): Please                                            | - お待ち comes from 待つ (matsu) with honorific prefix                                                          |                                                                                                                                                                                  |
 | 別々に               | Betsubetsu ni         | Separately           | - 別々 (betsubetsu): Separate<br>- に (ni): Adverbial marker                                                                                                  | - Uses kanji 別 (betsu) repeated twice to emphasize the distinct nature                                         |                                                                                                                                                                                  |
+
+# Practice Passage Using Lesson 13 Vocabulary
+
+## Weekend Plans (しゅうまつのよてい)
+
+しゅうまつに わたしは ともだちと しやくしょの ちかくの ひろい プールで およぐ
+つもりです。プールの となりには びじゅつかん が あります。ごぜんちゅうは
+びじゅつかんで びじゅつを みて、それから ひるごろ プールに はいる つもりです。
+
+ともだちは「のどが かわきました。どこか のみものを かいましょうか？」と
+いいました。 わたしは「そうですね。わたしも おなかが すきました。なにか
+たべましょう」と こたえました。
+
+プールの あとで、わたしたちは かわの ちかくの せまい きっさてんに はいりました。
+「ごちゅうもんは？」と ウェイターが ききました。 「ぎゅうどんを ください」と
+わたしが いいました。 「べつべつに かいけいを おねがいします」と ともだちが
+いいました。 「しょうしょう おまちください」と ウェイターが こたえました。
+
+しょくじした あとで、おなかが いっぱいに なりました。とても
+つかれていたので、こうえんを さんぽしました。こうえんでは たくさんの
+こどもたちが あそんで いました。ともだちは ロシアじんで、にほんごの とうろくを
+したいと いいました。かれは けいざいの かいぎの ために にほんに
+きていて、らいしゅう だれかと けっこんする ので、とても いそがしいです。
+
+「にほんでは なにが ほしいですか？」と わたしが ききました。 「スキーが
+したいです。でも、つりも したいです」と かれが こたえました。
+「そうしましょう！らいしゅうまつ、あなたを やまに むかえに いきます」と わたしが
+いいました。
+
+かれは うれしそうでしたが、すこし さびしい かおも していました。「たいへんな
+ことが ありますか？」と きくと、「いいえ、ただ かいものを しなければ
+ならないのです」と いいました。
+
+そして、わたしたちは きっさてんを でて、それぞれの いえに かえりました。

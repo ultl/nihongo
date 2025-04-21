@@ -42,7 +42,7 @@
 | 38  | となり                 | tonari             | 隣     | Noun           | Next, next door                                   | となりに住んでいます。(Lives next door.)                                           |
 | 39  | ちかく                 | chikaku            | 近く   | Noun           | Near, vicinity                                    | 駅の近くです。(It's near the station.)                                             |
 | 40  | あいだ                 | aida               | 間     | Noun           | Between, among                                    | 本と鉛筆の間にあります。(It's between the book and pencil.)                        |
-| 41  | ～や～「など」         | ~ya~(nado)         |        | Particle       | ~,~ and so on                                     | 本や雑誌など (books, magazines, etc.)                                              |
+| 41  | ～や～「など」         | ~~ya~~(nado)       |        | Particle       | ~~,~~ and so on                                   | 本や雑誌など (books, magazines, etc.)                                              |
 | 42  | いちばん～             | ichiban~           |        | Adverb         | the most ~ ( いちばん うえ: the top )             | いちばん好きです。(I like it the most.)                                            |
 | 43  | ーだんめ               | -danme             | ー段目 | Suffix         | The -th shelf (だん is the counter for shelves)   | 3 段目にあります。(It's on the third shelf.)                                       |
 | 44  | 「どうも」すみません。 | (doumo)sumimasen   |        | Expression     | Thank you                                         | どうもすみません。(Thank you very much.)                                           |
@@ -51,3 +51,21 @@
 | 47  | スパイス コーナー      | supaisu koonaa     |        | Noun           | Spice corner                                      | スパイスコーナーでカレー粉を買います。(I'll buy curry powder at the spice corner.) |
 | 48  | 東京ディズニーランド   | tokyo dizuniirando |        | Noun           | Tokyo Disneyland                                  | 東京ディズニーランドに行きます。(I'll go to Tokyo Disneyland.)                     |
 | 49  | ユニューや ストア      | yunyuuya sutoa     |        | Noun           | Fictitious supermarket                            | ユニューやストアで買い物をします。(I'll shop at Yunyuya Store.)                    |
+
+## Practice Passage Using Lesson 10 Vocabulary
+
+今日は東京ディズニーランドの近くにあるユニューやストアに行きました。このビルはとても高いです。ストアの中にはいろいろなものがあります。
+
+入口のとなりにポストがあります。店の奥にスパイスコーナーがあります。そこでチリソースを買いました。レジは一階の右にあります。
+
+私は冷蔵庫を探していました。店員さんに「冷蔵庫はどこですか」と聞きました。
+「すみません、冷蔵庫は2階にあります」と店員さんが言いました。
+「どうもすみません」と言って、2階に行きました。
+
+2階には男の人と女の人がいます。男の子と女の子もいます。子供たちの近くには犬がいますが、猫はいません。
+
+テーブルとベッドのあいだに冷蔵庫があります。その冷蔵庫の上に箱があります。箱の中に電池とフィルムとスイッチがあります。
+
+窓の外には木があります。窓の前には棚があります。3段目に本があります。ドアの左にいちばん大きい本屋があります。
+
+買い物の後で、公園で休みました。公園の前には喫茶店があります。バスのりばは喫茶店の前にあります。千葉県に帰るバスに乗りました。
