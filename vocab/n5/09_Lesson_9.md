@@ -6,7 +6,8 @@
 | 2   | きらいな                   | kiraana                  | 嫌いな                 | na-adj         | dislike (魚が嫌いです: I dislike fish)                                                               |
 | 3   | すきな                     | sukina                   | 好きな                 | na-adj         | like (コーヒーが好きです: I like coffee)                                                             |
 | 4   | ある                       | aru                      |                        | verb           | have (お金があります: I have money)                                                                  |
-| 5   | じょうずな                 | jōzuna                   | 上手な                 | na-adj         | good at (日本語が上手です: I'm good at Japanese)                                                     |
+| 5   | きれいな                   | kireina                  | 綺麗な                 | na-adj         | beautiful, clean (この部屋はきれいです: This room is clean)                                          |
+| 6   | じょうずな                 | jōzuna                   | 上手な                 | na-adj         | good at (日本語が上手です: I'm good at Japanese)                                                     |
 | 6   | へたな                     | hetana                   | 下手な                 | na-adj         | poor at (料理が下手です: I'm poor at cooking)                                                        |
 | 7   | りょうり                   | ryōri                    | 料理                   | noun           | dish, cooking (料理を作ります: I make food)                                                          |
 | 8   | のみもの                   | nomimono                 | 飲み物                 | noun           | drinks (飲み物を買います: I buy drinks)                                                              |
