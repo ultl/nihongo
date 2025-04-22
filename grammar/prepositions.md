@@ -1,6 +1,6 @@
 # Prepositions
 
-<img src="https://o.quizlet.com/1Rj5Veh04zRhrenvsxL7Eg_b.png" />
+![location](a_pic/location.webp)
 
 # Japanese Location Preposition Principles
 
