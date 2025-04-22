@@ -42,6 +42,15 @@
 | 38  | おつり                  | お釣り              | otsuri                 | Noun           |                 | change (money)                          | おつりです。                                       |
 | 39  | これでおねがいします    | これでお願いします  | kore de onegai shimasu | Expression     |                 | I'll pay with this                      | 「1000円です。」「これでお願いします。」           |
 
+## Analysis of "kore de onegai shimasu" (これでお願いします)
+
+### Components:
+
+- **kore (これ)**: Demonstrative pronoun meaning "this"
+- **de (で)**: Particle indicating means or method
+- **onegai (お願い)**: Request or "please"
+- **shimasu (します)**: Polite form of the verb "to do"
+
 ## Practice Passage Using Lesson 14 Vocabulary
 
 きょうは あついです。エアコンを つけてください。あとで でんきを けしましょう。
