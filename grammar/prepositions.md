@@ -1,6 +1,6 @@
 # Prepositions
 
-![location](a_pic/location.webp)
+![Japanese location particles and prepositions diagram](a_pic/location.webp)
 
 # Japanese Location Preposition Principles
 
