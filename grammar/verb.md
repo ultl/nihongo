@@ -1,120 +1,44 @@
-# Japanese Verb Conjugation Guide
+# Japanese Verb Forms: Dictionary → Masu → Te-form
 
-## Types of Verbs
+# Group 1: Godan Verbs (U-verbs)
 
-1. U-verbs (Godan): These verbs end with a 'u' sound, excluding those ending in
-   iru/eru. Examples include 飲む (nomu).
-2. Ru-verbs (Ichidan): These verbs end with る (ru), specifically those ending
-   in iru/eru. Examples include 食べる (taberu).
-3. Irregular verbs: These are special cases, consisting of する (suru) and 来る
-   (kuru).
+| Dictionary Form      | Masu-form                                      | Te-form       | Example                                                     |
+| -------------------- | ---------------------------------------------- | ------------- | ----------------------------------------------------------- |
+| ~う/つ/る (u/tsu/ru) | ~います (imasu)                                | ~って (tte)   | 買う → 買います → 買って (kau → kaimasu → katte)            |
+| ~く (ku)             | ~きます (kimasu)                               | ~いて (ite)   | 書く → 書きます → 書いて (kaku → kakimasu → kaite)          |
+| ~ぐ (gu)             | ~ぎます (gimasu)                               | ~いで (ide)   | 泳ぐ → 泳ぎます → 泳いで (oyogu → oyogimasu → oyoide)       |
+| ~す (su)             | ~します (shimasu)                              | ~して (shite) | 話す → 話します → 話して (hanasu → hanashimasu → hanashite) |
+| ~ぬ/ぶ/む (nu/bu/mu) | ~にます/~びます/~みます (nimasu/bimasu/mimasu) | ~んで (nde)   | 読む → 読みます → 読んで (yomu → yomimasu → yonde)          |
 
-| Type               | Description                | Examples                                                                                                                                     | Conjugation Rule                     |
-| ------------------ | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-| U-verbs (Godan)    | End with u sound           | 飲む (nomu - to drink) → 飲みます (nomimasu)<br>行く (iku - to go) → 行きます (ikimasu)<br>話す (hanasu - to speak) → 話します (hanashimasu) | Change u → i + masu for polite form  |
-| Ru-verbs (Ichidan) | End with る (ru) - iru/eru | 食べる (taberu - to eat) → 食べます (tabemasu)<br>見る (miru - to see) → 見ます (mimasu)<br>起きる (okiru - to wake up) → 起きます (okimasu) | Remove る + add masu for polite form |
-| Irregular Verbs    | Only する and 来る (kuru)  | する (suru - to do) → します (shimasu)<br>来る (kuru - to come) → 来ます (kimasu)                                                            | Must memorize conjugations           |
+## Group 2: Ichidan Verbs (RU-verbs)
 
-## Key Conjugation Forms
+| Dictionary      | Masu-form        | Te-form        | Example                    |
+| --------------- | ---------------- | -------------- | -------------------------- |
+| ~る (いる/える) | Remove る + ます | Remove る + て | たべる → たべます → たべて |
+|                 |                  |                | みる → みます → みて       |
 
-| Form      | Description     | U-verbs                                                                                                            | Ru-verbs                                                                                                           | Usage                        |
-| --------- | --------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ | ---------------------------- |
-| Masu Form | Polite Present  | Change u → i + masu<br>書く (kaku - to write) → 書きます (kakimasu)<br>読む (yomu - to read) → 読みます (yomimasu) | Remove る + add masu<br>食べる (taberu - to eat) → 食べます (tabemasu)<br>寝る (neru - to sleep) → 寝ます (nemasu) | Used with teachers/strangers |
-| Te Form   | Connecting Form | Special rules per ending<br>書く (kaku - to write) → 書いて (kaite)<br>飲む (nomu - to drink) → 飲んで (nonde)     | Remove る + add て<br>食べる (taberu - to eat) → 食べて (tabete)<br>見る (miru - to see) → 見て (mite)             | Links multiple actions       |
+## Group 3: Irregular Verbs
 
-# Affirmative and Negative Forms in Japanese
+| Dictionary | Masu-form | Te-form |
+| ---------- | --------- | ------- |
+| する       | します    | して    |
+| くる       | きます    | きて    |
 
-## To Be (です/だ - desu/da) in Present Tense - Negative and Affirmative Forms
+## Masu-form Conjugations
 
-| Politeness Level | Affirmative | Negative                       | Example                                 |
-| ---------------- | ----------- | ------------------------------ | --------------------------------------- |
-| Formal/Polite    | です (desu) | ではありません (dewa arimasen) | 学生ではありません (I am not a student) |
-| Casual/Polite    | です (desu) | じゃありません (ja arimasen)   | 学生じゃありません (I am not a student) |
-| Casual           | だ (da)     | じゃない (ja nai)              | 学生じゃない (I'm not a student)        |
-| Very Casual      | だ (da)     | じゃねぇ (ja nee)              | 学生じゃねぇ (I ain't a student)        |
+| Verb Type | Present + | Present - | Past +    | Past -          | Volitional  |
+| --------- | --------- | --------- | --------- | --------------- | ----------- |
+| Godan     | ~います   | ~いません | ~いました | ~いませんでした | ~いましょう |
+| Ichidan   | ~ます     | ~ません   | ~ました   | ~ませんでした   | ~ましょう   |
+| する      | します    | しません  | しました  | しませんでした  | しましょう  |
+| くる      | きます    | きません  | きました  | きませんでした  | きましょう  |
 
-## "To Be" (です/だ) in Past Tense - Negative and Affirmative Forms
+## Te-form Conjugations
 
-| Politeness Level | Affirmative      | Negative                                     | Example                                                                       |
-| ---------------- | ---------------- | -------------------------------------------- | ----------------------------------------------------------------------------- |
-| Formal/Polite    | でした (deshita) | ではありませんでした (dewa arimasen deshita) | 学生でした (I was a student) / 学生ではありませんでした (I was not a student) |
-| Casual/Polite    | でした (deshita) | じゃありませんでした (ja arimasen deshita)   | 学生でした (I was a student) / 学生じゃありませんでした (I was not a student) |
-| Casual           | だった (datta)   | じゃなかった (ja nakatta)                    | 学生だった (I was a student) / 学生じゃなかった (I wasn't a student)          |
-| Very Casual      | だった (datta)   | じゃなかった (ja nakatta)                    | 学生だった (I was a student) / 学生じゃなかった (I wasn't a student)          |
-
-Note that for the very casual form, じゃなかった is most common, though regional
-variants like じゃなかったよ (with the よ particle for emphasis) might be heard
-in conversation.
-
-## Regular Verbs
-
-| Politeness Level | Verb Type      | Affirmative              | Negative                             | Example                                         |
-| ---------------- | -------------- | ------------------------ | ------------------------------------ | ----------------------------------------------- |
-| Formal/Polite    | Godan (食べる) | 食べます (tabemasu)      | 食べません (tabemasen)               | 肉を食べません (I don't eat meat)               |
-| Formal/Polite    | Ichidan (見る) | 見ます (mimasu)          | 見ません (mimasen)                   | 映画を見ません (I don't watch movies)           |
-| Casual           | Godan (食べる) | 食べる (taberu)          | 食べない (tabenai)                   | 肉を食べない (I don't eat meat)                 |
-| Casual           | Ichidan (見る) | 見る (miru)              | 見ない (minai)                       | 映画を見ない (I don't watch movies)             |
-| Past Polite      | Godan (食べる) | 食べました (tabemashita) | 食べませんでした (tabemasen deshita) | 肉を食べませんでした (I didn't eat meat)        |
-| Past Polite      | Ichidan (見る) | 見ました (mimashita)     | 見ませんでした (mimasen deshita)     | 映画を見ませんでした (I didn't watch the movie) |
-| Past Casual      | Godan (食べる) | 食べた (tabeta)          | 食べなかった (tabenakatta)           | 肉を食べなかった (I didn't eat meat)            |
-| Past Casual      | Ichidan (見る) | 見た (mita)              | 見なかった (minakatta)               | 映画を見なかった (I didn't watch the movie)     |
-
-## Irregular Verbs
-
-| Politeness Level | Verb           | Affirmative           | Negative                          | Example                                      |
-| ---------------- | -------------- | --------------------- | --------------------------------- | -------------------------------------------- |
-| Formal/Polite    | する (to do)   | します (shimasu)      | しません (shimasen)               | 仕事をしません (I don't work)                |
-| Formal/Polite    | 来る (to come) | 来ます (kimasu)       | 来ません (kimasen)                | 明日来ません (I won't come tomorrow)         |
-| Casual           | する (to do)   | する (suru)           | しない (shinai)                   | 仕事をしない (I don't work)                  |
-| Casual           | 来る (to come) | 来る (kuru)           | 来ない (konai)                    | 明日来ない (I won't come tomorrow)           |
-| Past Polite      | する (to do)   | しました (shimashita) | しませんでした (shimasen deshita) | 仕事をしませんでした (I didn't work)         |
-| Past Polite      | 来る (to come) | 来ました (kimashita)  | 来ませんでした (kimasen deshita)  | 昨日来ませんでした (I didn't come yesterday) |
-| Past Casual      | する (to do)   | した (shita)          | しなかった (shinakatta)           | 仕事をしなかった (I didn't work)             |
-| Past Casual      | 来る (to come) | 来た (kita)           | 来なかった (konakatta)            | 昨日来なかった (I didn't come yesterday)     |
-
-# Japanese Te-form Conjugation Rules
-
-## Type I Verbs (Godan/U-verbs)
-
-| Dictionary Ending | Change to     | Examples                                      |
-| ----------------- | ------------- | --------------------------------------------- |
-| う (-u)           | って (-tte)   | 買う (kau) → 買って (katte) - to buy          |
-| つ (-tsu)         | って (-tte)   | 待つ (matsu) → 待って (matte) - to wait       |
-| る (-ru)          | って (-tte)   | 取る (toru) → 取って (totte) - to take        |
-| ぶ (-bu)          | んで (-nde)   | 遊ぶ (asobu) → 遊んで (asonde) - to play      |
-| む (-mu)          | んで (-nde)   | 読む (yomu) → 読んで (yonde) - to read        |
-| ぬ (-nu)          | んで (-nde)   | 死ぬ (shinu) → 死んで (shinde) - to die       |
-| く (-ku)          | いて (-ite)   | 書く (kaku) → 書いて (kaite) - to write       |
-| ぐ (-gu)          | いで (-ide)   | 泳ぐ (oyogu) → 泳いで (oyoide) - to swim      |
-| す (-su)          | して (-shite) | 話す (hanasu) → 話して (hanashite) - to speak |
-
-## Type II Verbs (Ichidan/Ru-verbs)
-
-| Dictionary Ending | Change to | Examples                                     |
-| ----------------- | --------- | -------------------------------------------- |
-| る (-ru)          | て (-te)  | 食べる (taberu) → 食べて (tabete) - to eat   |
-|                   |           | 見る (miru) → 見て (mite) - to see           |
-|                   |           | 起きる (okiru) → 起きて (okite) - to wake up |
-
-## Type III Verbs (Irregular Verbs)
-
-| Verb        | Te-form      | Meaning |
-| ----------- | ------------ | ------- |
-| する (suru) | して (shite) | to do   |
-| 来る (kuru) | 来て (kite)  | to come |
-
-## How to Identify Verb Types
-
-- **Type I (Godan/U-verbs)**: Most verbs ending in う, つ, る, ぶ, む, ぬ, く,
-  ぐ, or す
-- **Type II (Ichidan/Ru-verbs)**: Most verbs ending in いる or える
-- **Type III**: Only する and 来る are irregular
-
-## Common Uses of Te-form
-
-1. Connecting actions: "I eat breakfast and go to school" →
-   朝ご飯を食べて、学校に行きます
-2. Making requests: "Please wait" → 待ってください
-3. Progressive tense: "I am reading" → 読んでいます
-4. Permission: "May I go?" → 行ってもいいですか
-5. Giving reasons: "Because it's raining..." → 雨が降っているので...
+| Use         | Pattern                      | Example                                           |
+| ----------- | ---------------------------- | ------------------------------------------------- |
+| Request     | Te-form + ください           | みて + ください → みてください                    |
+| Permission  | Te-form + も + いいです      | たべて + も + いいです → たべてもいいです         |
+| Prohibition | Te-form + は + いけません    | はなして + は + いけません → はなしてはいけません |
+| Progressive | Te-form + います             | よんで + います → よんでいます                    |
+| Sequential  | Te-form + から + next action | かって + から → かってからいきます                |
