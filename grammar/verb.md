@@ -43,3 +43,18 @@
 | Prohibition | Te-form + は + いけません    | はなして + は + いけません → はなしてはいけません |
 | Progressive | Te-form + います             | よんで + います → よんでいます                    |
 | Sequential  | Te-form + から + next action | かって + から → かってからいきます                |
+
+# When to Use に vs を in Japanese
+
+| Pattern                   | Particle | Examples                                                                                                          |
+| ------------------------- | -------- | ----------------------------------------------------------------------------------------------------------------- |
+| **Intransitive Verbs**    | に       | 友達に会う (meet a friend)<br>間違いに気づく (notice a mistake)<br>ドアに触る (touch a door)                      |
+| **Transitive Verbs**      | を       | 本を読む (read a book)<br>ご飯を食べる (eat food)<br>車を運転する (drive a car)                                   |
+| **Direction/Destination** | に       | 学校に行く (go to school)<br>部屋に入る (enter a room)<br>東京に住む (live in Tokyo)                              |
+| **Emotions/Reactions**    | に       | 音に驚く (be surprised by sound)<br>彼に怒る (get angry at him)<br>決定に失望する (be disappointed with decision) |
+| **Communication**         | に       | 友達に電話する (call a friend)<br>先生に質問する (ask teacher)<br>彼女に手紙を書く (write letter to her)          |
+| **Passive & Causative**   | に       | 犬に噛まれた (bitten by dog)<br>子供に本を読ませる (make child read)                                              |
+
+The key distinction: を marks direct objects affected by transitive actions,
+while に typically marks targets, destinations, recipients, or indirect
+relationships.
