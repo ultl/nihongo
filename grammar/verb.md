@@ -1,10 +1,11 @@
 # Japanese Verb Forms: Dictionary → Masu → Te-form
 
-# Group 1: Godan Verbs (U-verbs)
+## Group 1: Godan Verbs (U-verbs)
 
 | Dictionary Form      | Masu-form                                      | Te-form       | Example                                                     |
 | -------------------- | ---------------------------------------------- | ------------- | ----------------------------------------------------------- |
 | ~う/つ/る (u/tsu/ru) | ~います (imasu)                                | ~って (tte)   | 買う → 買います → 買って (kau → kaimasu → katte)            |
+| ~つ (tsu)            | ~ちます (chimasu)                              | ~って (tte)   | 待つ → 待ちます → 待って (matsu → machimasu → matte)        |
 | ~く (ku)             | ~きます (kimasu)                               | ~いて (ite)   | 書く → 書きます → 書いて (kaku → kakimasu → kaite)          |
 | ~ぐ (gu)             | ~ぎます (gimasu)                               | ~いで (ide)   | 泳ぐ → 泳ぎます → 泳いで (oyogu → oyogimasu → oyoide)       |
 | ~す (su)             | ~します (shimasu)                              | ~して (shite) | 話す → 話します → 話して (hanasu → hanashimasu → hanashite) |
@@ -12,7 +13,7 @@
 
 ## Group 2: Ichidan Verbs (RU-verbs)
 
-| Dictionary      | Masu-form        | Te-form        | Example                    |
+| Dictionary Form | Masu-form        | Te-form        | Example                    |
 | --------------- | ---------------- | -------------- | -------------------------- |
 | ~る (いる/える) | Remove る + ます | Remove る + て | たべる → たべます → たべて |
 |                 |                  |                | みる → みます → みて       |
