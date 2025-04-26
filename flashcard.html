@@ -1,0 +1,545 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Japanese Learning Tool</title>
+    <style>
+        :root {
+            --primary: #e74c3c;
+            --secondary: #3498db;
+            --background: #f9f9f9;
+            --card-bg: #ffffff;
+            --text: #333333;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        body {
+            background-color: var(--background);
+            color: var(--text);
+            line-height: 1.6;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+        
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+            padding: 20px;
+            border-bottom: 1px solid #eee;
+        }
+        
+        h1 {
+            color: var(--primary);
+            margin-bottom: 10px;
+        }
+        
+        .mode-selector {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 30px;
+        }
+        
+        .mode-btn {
+            padding: 10px 20px;
+            margin: 0 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: var(--secondary);
+            color: white;
+            cursor: pointer;
+            font-size: 16px;
+            transition: all 0.3s;
+        }
+        
+        .mode-btn.active {
+            background-color: var(--primary);
+        }
+        
+        .mode-btn:hover {
+            opacity: 0.9;
+            transform: translateY(-2px);
+        }
+        
+        .upload-section {
+            padding: 20px;
+            background-color: var(--card-bg);
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            margin-bottom: 30px;
+        }
+        
+        .file-input {
+            display: block;
+            margin: 20px 0;
+            width: 100%;
+        }
+        
+        .flashcard-container, .translation-container {
+            display: none;
+            padding: 30px;
+            background-color: var(--card-bg);
+            border-radius: 8px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+            position: relative;
+            min-height: 300px;
+        }
+        
+        .flashcard {
+            perspective: 1000px;
+            height: 250px;
+            cursor: pointer;
+        }
+        
+        .card {
+            width: 100%;
+            height: 100%;
+            position: relative;
+            transform-style: preserve-3d;
+            transition: transform 0.6s;
+        }
+        
+        .card.flipped {
+            transform: rotateY(180deg);
+        }
+        
+        .card-front, .card-back {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            backface-visibility: hidden;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+            text-align: center;
+            border-radius: 8px;
+        }
+        
+        .card-front {
+            background-color: var(--primary);
+            color: white;
+        }
+        
+        .card-back {
+            background-color: var(--secondary);
+            color: white;
+            transform: rotateY(180deg);
+        }
+        
+        .japanese {
+            font-size: 28px;
+            margin-bottom: 10px;
+        }
+        
+        .romaji {
+            font-size: 18px;
+            font-style: italic;
+            margin-bottom: 8px;
+        }
+        
+        .meaning {
+            font-size: 20px;
+            margin-bottom: 15px;
+        }
+        
+        .example {
+            font-size: 16px;
+            padding: 10px;
+            background-color: rgba(255, 255, 255, 0.2);
+            border-radius: 5px;
+            width: 90%;
+        }
+        
+        .navigation {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
+        
+        .nav-btn {
+            padding: 8px 15px;
+            border: none;
+            border-radius: 5px;
+            background-color: var(--secondary);
+            color: white;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        
+        .nav-btn:hover {
+            opacity: 0.9;
+        }
+        
+        .translation-input {
+            width: 100%;
+            padding: 12px;
+            margin-top: 20px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+        
+        .check-btn {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            background-color: var(--primary);
+            color: white;
+            cursor: pointer;
+            margin-top: 15px;
+            font-size: 16px;
+            width: 100%;
+        }
+        
+        .feedback {
+            margin-top: 20px;
+            padding: 10px;
+            border-radius: 5px;
+            text-align: center;
+        }
+        
+        .correct {
+            background-color: #2ecc71;
+            color: white;
+        }
+        
+        .incorrect {
+            background-color: #e74c3c;
+            color: white;
+        }
+        
+        .no-file {
+            text-align: center;
+            padding: 40px;
+            color: #777;
+        }
+        
+        /* Responsive adjustments */
+        @media (max-width: 600px) {
+            .mode-selector {
+                flex-direction: column;
+                align-items: center;
+            }
+            
+            .mode-btn {
+                margin: 5px 0;
+                width: 80%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Japanese Learning Tool</h1>
+            <p>Upload your markdown file and practice Japanese vocabulary and translations!</p>
+        </header>
+        
+        <div class="upload-section">
+            <h2>Upload Your Study Material</h2>
+            <input type="file" id="fileInput" class="file-input" accept=".md, .txt">
+            <p>Your file should contain Japanese vocabulary, hiragana, romaji, meanings, and examples.</p>
+        </div>
+        
+        <div class="mode-selector">
+            <button id="flashcardMode" class="mode-btn active">Flashcard Mode</button>
+            <button id="translationMode" class="mode-btn">Translation Practice</button>
+        </div>
+        
+        <div id="flashcardContainer" class="flashcard-container">
+            <div class="no-file">Please upload a file to start learning</div>
+        </div>
+        
+        <div id="translationContainer" class="translation-container">
+            <div class="no-file">Please upload a file to start translation practice</div>
+        </div>
+    </div>
+
+    <script>
+        // DOM Elements
+        const fileInput = document.getElementById('fileInput');
+        const flashcardMode = document.getElementById('flashcardMode');
+        const translationMode = document.getElementById('translationMode');
+        const flashcardContainer = document.getElementById('flashcardContainer');
+        const translationContainer = document.getElementById('translationContainer');
+        
+        // Data storage
+        let vocabularyItems = [];
+        let currentCardIndex = 0;
+        let currentTranslationIndex = 0;
+        
+        // Event Listeners
+        fileInput.addEventListener('change', handleFileUpload);
+        flashcardMode.addEventListener('click', () => switchMode('flashcard'));
+        translationMode.addEventListener('click', () => switchMode('translation'));
+        
+        // Initially set flashcard mode as active
+        switchMode('flashcard');
+        
+        // Function to handle file upload
+        function handleFileUpload(event) {
+            const file = event.target.files[0];
+            if (!file) return;
+            
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                const content = e.target.result;
+                parseMarkdownContent(content);
+                
+                // Initialize both modes with the new data
+                initializeFlashcards();
+                initializeTranslationPractice();
+            };
+            reader.readAsText(file);
+        }
+        
+        // Function to parse markdown content
+        function parseMarkdownContent(content) {
+            vocabularyItems = [];
+            
+            // Split content by lines
+            const lines = content.split('\n');
+            
+            let currentItem = {};
+            let isCollectingExample = false;
+            
+            for (let i = 0; i < lines.length; i++) {
+                const line = lines[i].trim();
+                
+                // Skip empty lines
+                if (!line) continue;
+                
+                // Check for new vocabulary item (usually starts with a heading)
+                if (line.startsWith('# ') || line.startsWith('## ') || 
+                    (i > 0 && lines[i-1].trim() === '' && !isCollectingExample)) {
+                    
+                    // Save previous item if it exists
+                    if (Object.keys(currentItem).length > 0) {
+                        vocabularyItems.push(currentItem);
+                    }
+                    
+                    // Start new item
+                    currentItem = {};
+                    isCollectingExample = false;
+                    
+                    // Try to extract the Japanese word from the heading
+                    const headingMatch = line.match(/^#+\s+(.+)/);
+                    if (headingMatch) {
+                        currentItem.japanese = headingMatch[1];
+                    }
+                } 
+                // Check for specific attributes
+                else if (line.startsWith('- Hiragana:') || line.startsWith('- hiragana:')) {
+                    currentItem.hiragana = line.split(':')[1].trim();
+                }
+                else if (line.startsWith('- Romaji:') || line.startsWith('- romaji:')) {
+                    currentItem.romaji = line.split(':')[1].trim();
+                }
+                else if (line.startsWith('- Meaning:') || line.startsWith('- meaning:')) {
+                    currentItem.meaning = line.split(':')[1].trim();
+                }
+                else if (line.startsWith('- Vietnamese:') || line.startsWith('- vietnamese:')) {
+                    currentItem.vietnamese = line.split(':')[1].trim();
+                }
+                else if (line.startsWith('- Example:') || line.startsWith('- example:')) {
+                    currentItem.example = line.split(':')[1].trim();
+                    isCollectingExample = true;
+                }
+                // Collect multi-line examples
+                else if (isCollectingExample) {
+                    currentItem.example = (currentItem.example || '') + ' ' + line;
+                }
+                // If it's just a simple line, it might be the word itself
+                else if (!currentItem.japanese) {
+                    currentItem.japanese = line;
+                }
+            }
+            
+            // Add the last item
+            if (Object.keys(currentItem).length > 0) {
+                vocabularyItems.push(currentItem);
+            }
+            
+            // Filter out incomplete items
+            vocabularyItems = vocabularyItems.filter(item => 
+                item.japanese && (item.meaning || item.hiragana || item.romaji)
+            );
+            
+            console.log("Parsed vocabulary items:", vocabularyItems);
+        }
+        
+        // Function to switch between modes
+        function switchMode(mode) {
+            if (mode === 'flashcard') {
+                flashcardMode.classList.add('active');
+                translationMode.classList.remove('active');
+                flashcardContainer.style.display = 'block';
+                translationContainer.style.display = 'none';
+            } else {
+                flashcardMode.classList.remove('active');
+                translationMode.classList.add('active');
+                flashcardContainer.style.display = 'none';
+                translationContainer.style.display = 'block';
+            }
+        }
+        
+        // Function to initialize flashcards
+        function initializeFlashcards() {
+            if (vocabularyItems.length === 0) {
+                flashcardContainer.innerHTML = '<div class="no-file">No valid vocabulary items found. Please check your file format.</div>';
+                return;
+            }
+            
+            currentCardIndex = 0;
+            renderFlashcard();
+        }
+        
+        // Function to render a flashcard
+        function renderFlashcard() {
+            if (vocabularyItems.length === 0) return;
+            
+            const item = vocabularyItems[currentCardIndex];
+            
+            const flashcardHTML = `
+                <div class="flashcard">
+                    <div class="card" onclick="flipCard(this)">
+                        <div class="card-front">
+                            <div class="japanese">${item.japanese || ''}</div>
+                            <div class="romaji">${item.romaji || ''}</div>
+                            <p>Click to see the meaning</p>
+                        </div>
+                        <div class="card-back">
+                            <div class="meaning">${item.meaning || ''}</div>
+                            <div class="example">${item.example || ''}</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="navigation">
+                    <button onclick="previousCard()" class="nav-btn">Previous</button>
+                    <span>${currentCardIndex + 1} / ${vocabularyItems.length}</span>
+                    <button onclick="nextCard()" class="nav-btn">Next</button>
+                </div>
+            `;
+            
+            flashcardContainer.innerHTML = flashcardHTML;
+        }
+        
+        // Function to flip the flashcard
+        function flipCard(card) {
+            card.classList.toggle('flipped');
+        }
+        
+        // Function to go to the previous card
+        function previousCard() {
+            if (currentCardIndex > 0) {
+                currentCardIndex--;
+                renderFlashcard();
+            }
+        }
+        
+        // Function to go to the next card
+        function nextCard() {
+            if (currentCardIndex < vocabularyItems.length - 1) {
+                currentCardIndex++;
+                renderFlashcard();
+            }
+        }
+        
+        // Function to initialize translation practice
+        function initializeTranslationPractice() {
+            if (vocabularyItems.length === 0) {
+                translationContainer.innerHTML = '<div class="no-file">No valid vocabulary items found. Please check your file format.</div>';
+                return;
+            }
+            
+            // Filter items that have both Vietnamese and Japanese
+            const translationItems = vocabularyItems.filter(item => 
+                item.vietnamese && item.japanese
+            );
+            
+            if (translationItems.length === 0) {
+                translationContainer.innerHTML = '<div class="no-file">No items with Vietnamese translations found. Please check your file format.</div>';
+                return;
+            }
+            
+            // Shuffle the items for practice
+            shuffleArray(translationItems);
+            
+            vocabularyItems = translationItems;
+            currentTranslationIndex = 0;
+            renderTranslationChallenge();
+        }
+        
+        // Function to render a translation challenge
+        function renderTranslationChallenge() {
+            if (vocabularyItems.length === 0) return;
+            
+            const item = vocabularyItems[currentTranslationIndex];
+            
+            const translationHTML = `
+                <h3>Translate to Japanese:</h3>
+                <div class="vietnamese-sentence">${item.vietnamese}</div>
+                <input type="text" class="translation-input" id="translationInput" placeholder="Type your Japanese translation here...">
+                <button onclick="checkTranslation()" class="check-btn">Check Answer</button>
+                <div id="feedback" class="feedback"></div>
+                <div class="navigation">
+                    <button onclick="previousTranslation()" class="nav-btn">Previous</button>
+                    <span>${currentTranslationIndex + 1} / ${vocabularyItems.length}</span>
+                    <button onclick="nextTranslation()" class="nav-btn">Next</button>
+                </div>
+            `;
+            
+            translationContainer.innerHTML = translationHTML;
+        }
+        
+        // Function to check the translation
+        function checkTranslation() {
+            const input = document.getElementById('translationInput').value.trim();
+            const correctAnswer = vocabularyItems[currentTranslationIndex].japanese.trim();
+            const feedback = document.getElementById('feedback');
+            
+            if (input.toLowerCase() === correctAnswer.toLowerCase()) {
+                feedback.innerHTML = `<div class="correct">Correct! Well done!</div>`;
+            } else {
+                feedback.innerHTML = `<div class="incorrect">Incorrect. The correct answer is: "${correctAnswer}"</div>`;
+            }
+        }
+        
+        // Function to go to the previous translation
+        function previousTranslation() {
+            if (currentTranslationIndex > 0) {
+                currentTranslationIndex--;
+                renderTranslationChallenge();
+            }
+        }
+        
+        // Function to go to the next translation
+        function nextTranslation() {
+            if (currentTranslationIndex < vocabularyItems.length - 1) {
+                currentTranslationIndex++;
+                renderTranslationChallenge();
+            }
+        }
+        
+        // Utility function to shuffle an array
+        function shuffleArray(array) {
+            for (let i = array.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [array[i], array[j]] = [array[j], array[i]];
+            }
+        }
+    </script>
+</body>
+</html>
