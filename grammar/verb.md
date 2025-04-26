@@ -58,3 +58,44 @@
 The key distinction: を marks direct objects affected by transitive actions,
 while に typically marks targets, destinations, recipients, or indirect
 relationships.
+
+## に (ni)
+
+- **Destination/Direction**: Used to indicate where someone or something is
+  going
+  - 学校に行きます。(Gakkō ni ikimasu.) - I go to school.
+  - 東京に帰ります。(Tōkyō ni kaerimasu.) - I will return to Tokyo.
+- **Existence/Location**: Used to indicate where someone or something exists
+  - 猫は部屋にいます。(Neko wa heya ni imasu.) - The cat is in the room.
+  - 本は机の上にあります。(Hon wa tsukue no ue ni arimasu.) - The book is on the
+    desk.
+- **Time**: Used to indicate specific time points
+  - 7時に起きます。(Shichi-ji ni okimasu.) - I wake up at 7 o'clock.
+  - 月曜日に会議があります。(Getsuyōbi ni kaigi ga arimasu.) - There is a
+    meeting on Monday.
+- **Recipient**: Used to indicate the person receiving something
+  - 友達にプレゼントをあげました。(Tomodachi ni purezento o agemashita.) - I
+    gave a present to my friend.
+
+## で (de)
+
+- **Location of Action**: Used to indicate where an action takes place
+  - 公園で遊びます。(Kōen de asobimasu.) - I play in the park.
+  - レストランで食べました。(Resutoran de tabemashita.) - I ate at the
+    restaurant.
+- **Means/Method**: Used to indicate how something is done
+  - バスで行きます。(Basu de ikimasu.) - I go by bus.
+  - 日本語で話します。(Nihongo de hanashimasu.) - I speak in Japanese.
+- **Material/Ingredient**: Used to indicate what something is made of
+  - 木で作りました。(Ki de tsukurimashita.) - I made it with wood.
+- **Reason/Cause**: Used to indicate a reason (in certain constructions)
+  - 風邪で休みました。(Kaze de yasumimashita.) - I took a day off because of a
+    cold.
+
+## Key Distinction
+
+The simplest way to remember the difference:
+
+- に (ni): Indicates destination, location of existence, or time points
+- で (de): Indicates location where an action occurs or means/method of doing
+  something
