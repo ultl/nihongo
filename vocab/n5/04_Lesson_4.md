@@ -61,3 +61,10 @@
 | 57  | バンコク             |                    |               | Bangkok                         | バンコクに旅行します。           | bankoku             | Noun           |
 | 58  | ロサンゼルス         |                    |               | Los Angeles                     | ロサンゼルスに行きます。         | rosanzerusu         | Noun           |
 | 59  | えーと               |                    |               | well, let me see                | えーと、どうしようかな。         | eeto                | Interjection   |
+
+# Note
+
+CHIKETTO (borrowed word: ticket) is used for movies, concerts and other similar
+events. KIPPU is used for tickets on the train mostly. There is another word for
+tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
+(boarding pass), JOUSHAKEN (train pass).
