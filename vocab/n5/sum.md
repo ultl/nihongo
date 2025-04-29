@@ -1,3 +1,5 @@
+# Minna no nihongo Lesson 16
+
 | No. | Vocabulary                | Romaji                  | Kanji               | Part of Speech                | Meaning                                                         | Example                                                                                             |
 | --- | ------------------------- | ----------------------- | ------------------- | ----------------------------- | --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | 1   | のります [でんしゃに～]   | norimasu [densha ni~]   | 乗ります [電車に～] | Verb (乗る・のる)             | Go on [ship].                                                   | バスにのります。(I get on the bus.)                                                                 |
@@ -105,6 +107,8 @@
 | 49  | またこんどおねがいします   | mata kondo onegaishimasu | また今度お願いします。 | expression     | Please ask me again some other time. (また今度お願いします: Let's do it another time)                |
 
 
+# Minna no nihongo Lesson 17
+
 | No. | Vocabulary              | Kanji                | Dictionary Form  | Romaji           | Part of Speech | Meaning                   | Example                            |
 | --- | ----------------------- | -------------------- | ---------------- | ---------------- | -------------- | ------------------------- | ---------------------------------- |
 | 1   | おぼえます              | 覚えます             | おぼえる         | oboemasu         | Verb           | remember                  | 新しい言葉を覚えました。           |
@@ -146,6 +150,8 @@
 | 37  | のど                    |                      | -                | nodo             | Noun           | throat                    | のどが痛いです。                   |
 | 38  | おだいじに              |                      | -                | odaiji ni        | Expression     | Get well soon             | お大事に。早く良くなってください。 |
 
+
+# Minna no nihongo Lesson 16
 
 | No. | Vocabulary                | Romaji                  | Kanji               | Part of Speech                | Meaning                                                         | Example                                                                                             |
 | --- | ------------------------- | ----------------------- | ------------------- | ----------------------------- | --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
@@ -681,6 +687,13 @@ gaido**）でコンサートのチケットを買います (かいます)。
 | 57  | バンコク             |                    |               | Bangkok                         | バンコクに旅行します。           | bankoku             | Noun           |
 | 58  | ロサンゼルス         |                    |               | Los Angeles                     | ロサンゼルスに行きます。         | rosanzerusu         | Noun           |
 | 59  | えーと               |                    |               | well, let me see                | えーと、どうしようかな。         | eeto                | Interjection   |
+
+# Note
+
+CHIKETTO (borrowed word: ticket) is used for movies, concerts and other similar
+events. KIPPU is used for tickets on the train mostly. There is another word for
+tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
+(boarding pass), JOUSHAKEN (train pass).
 
 
 # Minna No Nihongo Lesson 3 Vocabulary

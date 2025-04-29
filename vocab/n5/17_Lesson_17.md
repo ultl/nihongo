@@ -1,3 +1,5 @@
+# Minna no nihongo Lesson 17
+
 | No. | Vocabulary              | Kanji                | Dictionary Form  | Romaji           | Part of Speech | Meaning                   | Example                            |
 | --- | ----------------------- | -------------------- | ---------------- | ---------------- | -------------- | ------------------------- | ---------------------------------- |
 | 1   | おぼえます              | 覚えます             | おぼえる         | oboemasu         | Verb           | remember                  | 新しい言葉を覚えました。           |
