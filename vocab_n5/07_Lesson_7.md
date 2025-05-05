@@ -1,4 +1,4 @@
-# Minna No Nihongo Lesson 7 Vocabulary
+# Lesson 7 Vocabulary
 
 | No. | Vocabulary   | Kanji    | Meaning              | Romaji          | Part of Speech | Example                                         |
 | --- | ------------ | -------- | -------------------- | --------------- | -------------- | ----------------------------------------------- |

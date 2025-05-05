@@ -1,4 +1,4 @@
-# Minna No Nihongo Lesson 5 Vocabulary
+# Lesson 5 Vocabulary
 
 | No. | Vocabulary       | Kanji    | Romaji           | Meaning                                | Part of Speech | Nai-form (Informal) | Te-form  | Example Sentence                                                                                            |
 | --- | ---------------- | -------- | ---------------- | -------------------------------------- | -------------- | ------------------- | -------- | ----------------------------------------------------------------------------------------------------------- |

@@ -1,4 +1,4 @@
-# Minna No Nihongo Lesson 18 Vocabulary
+# Lesson 18 Vocabulary
 
 | No. | Vocabulary             | Dictionary Form | Nai-Form       | Te-Form      | Kanji      | Part of Speech   | Meaning                          |
 | --- | ---------------------- | --------------- | -------------- | ------------ | ---------- | ---------------- | -------------------------------- |

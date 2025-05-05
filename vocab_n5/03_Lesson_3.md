@@ -1,4 +1,4 @@
-# Minna No Nihongo Lesson 3 Vocabulary
+# Lesson 3 Vocabulary
 
 | No. | Vocabulary          | Kanji  | Romaji              | Meaning                              | Part of Speech |
 | --- | ------------------- | ------ | ------------------- | ------------------------------------ | -------------- |

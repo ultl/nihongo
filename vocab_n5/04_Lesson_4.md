@@ -1,4 +1,4 @@
-# Minna No Nihongo Lesson 4 Vocabulary
+# Lesson 4 Vocabulary
 
 | No. | Vocabulary           | Kanji              | Original Form | Nai-form         | Te-form        | Meaning                         | Example                          | Romaji              | Part of Speech |
 | --- | -------------------- | ------------------ | ------------- | ---------------- | -------------- | ------------------------------- | -------------------------------- | ------------------- | -------------- |

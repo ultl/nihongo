@@ -1,4 +1,4 @@
-# Minna no Nihongo 1 - Lesson 8 Vocabulary
+# Lesson 8 Vocabulary
 
 | No. | Vocabulary                     | Kanji                        | Meaning                             | Romaji                              | Part of Speech | Example                                |
 | --- | ------------------------------ | ---------------------------- | ----------------------------------- | ----------------------------------- | -------------- | -------------------------------------- |

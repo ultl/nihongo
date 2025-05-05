@@ -1,4 +1,4 @@
-# Minna No Nihongo Lesson 2 Vocabulary
+# Lesson 2 Vocabulary
 
 Minna No Nihongo Lesson 2 Vocabulary
 

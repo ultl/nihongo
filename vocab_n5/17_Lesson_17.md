@@ -1,4 +1,4 @@
-Lesson 17
+# Lesson 17 Vocabulary
 
 | No. | Vocabulary              | Kanji                | Dictionary Form  | Nai Form           | Te Form          | Romaji           | Part of Speech | Meaning                   | Example                            |
 | --- | ----------------------- | -------------------- | ---------------- | ------------------ | ---------------- | ---------------- | -------------- | ------------------------- | ---------------------------------- |
