@@ -107,3 +107,9 @@
 | Term 1              | Term 2                      | Meaning                                               |
 | ------------------- | --------------------------- | ----------------------------------------------------- |
 | **ミルク** (miruku) | **ぎゅうにゅう** (gyuunyuu) | Both mean "milk" (foreign loanword vs. Japanese word) |
+
+## kippu vs chiketto
+
+| Term 1                          | Term 2                                     | Meaning                                            |
+| ------------------------------- | ------------------------------------------ | -------------------------------------------------- |
+| **きっぷ** (kippu) - for trains | **ちけっと** (chiketto) for concerts, etc. | Both mean "ticket" (Japanese vs. foreign loanword) |

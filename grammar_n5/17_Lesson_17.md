@@ -1,114 +1,79 @@
-Lesson 17 we will learn more the verb form [ない] and some accompanying
-structures.
+# Lesson 17: Japanese Verb Forms: Dictionary → Masu → Te-form -> Nai-form
 
-## 1. The ない form of the verb
+# 1. The verb form [ない]
 
-The form of the verb when accompanied by [ない] is called the form [ない] of the
-verb.
+## Group 1: Godan Verbs (U-verbs)
 
-For example, [かかない] is the [ない] form of the verb [かきます].
+| Dictionary Form      | Masu-form                                      | Te-form       | Nai-form                | Example                                                                            |
+| -------------------- | ---------------------------------------------- | ------------- | ----------------------- | ---------------------------------------------------------------------------------- |
+| ~う/つ/る (u/tsu/ru) | ~います (imasu)                                | ~って (tte)   | ~わない                 | 買う → 買います → 買って → 買わない (kau → kaimasu → katte → kawanai)              |
+| ~つ (tsu)            | ~ちます (chimasu)                              | ~って (tte)   | ~たない                 | 待つ → 待ちます → 待って → 待たない (matsu → machimasu → matte → matanai)          |
+| ~く (ku)             | ~きます (kimasu)                               | ~いて (ite)   | ~かない                 | 書く → 書きます → 書いて → 書かない (kaku → kakimasu → kaite → kakanai)            |
+| ~ぐ (gu)             | ~ぎます (gimasu)                               | ~いで (ide)   | ~がない                 | 泳ぐ → 泳ぎます → 泳いで → 泳がない (oyogu → oyogimasu → oyoide → oyoganai)        |
+| ~す (su)             | ~します (shimasu)                              | ~して (shite) | ~さない                 | 話す → 話します → 話して → 話さない (hanasu → hanashimasu → hanashite → hanasanai) |
+| ~ぬ/ぶ/む (nu/bu/mu) | ~にます/~びます/~みます (nimasu/bimasu/mimasu) | ~んで (nde)   | ~なない/~ばない/~まない | 読む → 読みます → 読んで → 読まない (yomu → yomimasu → yonde → yomanai)            |
 
-## 2. Share the verb [ない]
+## Group 2: Ichidan Verbs (RU-verbs)
 
-### Group I verb
+| Dictionary Form | Masu-form        | Te-form        | Nai-form         | Example                               |
+| --------------- | ---------------- | -------------- | ---------------- | ------------------------------------- |
+| ~る (いる/える) | Remove る + ます | Remove る + て | Remove る + ない | たべる → たべます → たべて → たべない |
+|                 |                  |                |                  | みる → みます → みて → みない         |
 
-| Verb       | Form [ない] |
-| ---------- | ----------- |
-| かきます   | かかない    |
-| ききます   | きかない    |
-| およぎます | およがない  |
-| のみます   | のまない    |
-| あそびます | あそばない  |
-| まちます   | またない    |
-| とります   | とらない    |
-| あいます   | あわない    |
-| はなします | はなさない  |
+## Group 3: Irregular Verbs
 
-### Group II verbs
+| Dictionary | Masu-form | Te-form | Nai-form |
+| ---------- | --------- | ------- | -------- |
+| する       | します    | して    | しない   |
+| くる       | きます    | きて    | こない   |
 
-For this group verb the form [ない] is the same as [ます]
+# 2. The verb form [ない] + なければなりません
 
-For example:
+| Aspect    | Description                                                |
+| --------- | ---------------------------------------------------------- |
+| Meaning   | Must do something; obligation                              |
+| Usage     | Denotes an obligation regardless of the person's intention |
+| Formation | Verb in [ない] form → remove [い] + [ければなりません]     |
 
-| Verb     | Form [ない] |
-| -------- | ----------- |
-| たべます | たべない    |
-| いれます | いれない    |
+| Example                                            | Meaning                               |
+| -------------------------------------------------- | ------------------------------------- |
+| くすりをのまなければなりません。                   | Have to take medicine.                |
+| まいにちにほんごをべんきょうしなければなりません。 | Every day (I) have to learn Japanese. |
 
-### Group III verbs
+# 3. The verb form [ない] + なくてもいいです
 
-For the verb [します], the form [ない] is the same as [ます], and the verb
-[きます] is [こ(ない)]
+| Aspect    | Description                                          |
+| --------- | ---------------------------------------------------- |
+| Meaning   | Don't need to do; not necessary                      |
+| Usage     | Denotes that the action is unnecessary               |
+| Formation | Verb in [ない] form → remove [い] + [くてもいいです] |
 
-For example:
+| Example                                        | Meaning                                             |
+| ---------------------------------------------- | --------------------------------------------------- |
+| あすこなくてもいいです。                       | You don't need to come tomorrow.                    |
+| どようびのごごべんきょうしなくてもいいですか。 | Is it okay if we don't study on Saturday afternoon? |
 
-| Verb             | Form [ない]      |
-| ---------------- | ---------------- |
-| べんきょうします | べんきょうしない |
-| きます           | こない           |
+# 4. Noun (object) は
 
-## 3. The verb form [ない] + ないでください
+| Aspect | Description                                    |
+| ------ | ---------------------------------------------- |
+| Usage  | Places the object as the topic to emphasize it |
+| Note   | The object marker [を] is replaced with [は]   |
 
-Meaning: Don't do it ~\
-Usage: When you want to advise or ask someone not to do something
+| Example                            | Meaning                                      |
+| ---------------------------------- | -------------------------------------------- |
+| ここににもつをおかないでください。 | Do not leave luggage here.                   |
+| にもつはここにおかないでください。 | As for luggage, please do not leave it here. |
 
-For example:
+# 5. The noun (time) + までに + The verb
 
-- わたしはげんきですから、しんぱいしないでください。 I'm fine so don't worry.
+| Aspect  | Description                                                       |
+| ------- | ----------------------------------------------------------------- |
+| Meaning | By/before (a deadline)                                            |
+| Usage   | Indicates an action must be completed before a specified deadline |
+| Note    | [までに] differs from the particles [まで] and [に] alone         |
 
-- ここでしゃしんをとらないでください. Please do not take photos here
-
-## 4. The verb form [ない] + なければなりません
-
-Meaning: yes …, obligatory …\
-Usage: denotes an obligation as an obligation, regardless of the intention of
-the employee.\
-verb conjugate [ない], remove [い] + [ければなりません]
-
-For example:
-
-- くすり)をのまなければなりません。 Have to take medicine.
-
-- まいにちにほんごをべんきょうしなければなりません。 Every day (me) have to
-  learn Japanese.
-
-## 5. The verb [ない] + なくてもいいです
-
-Meaning: Not to do ~\
-Usage: denotes the unnecessary of the behavior that the verb describes
-
-- verb conjugate [ない] remove [い]
-
-For example:
-
-- あすこなくてもいいです。 You can't come tomorrow.
-
-- どようびのごごべんきょうしなくてもいいですか。 Can we not study on Saturday
-  afternoon?
-
-## 6. Noun (object) は
-
-How to use:\
-Put the object as a topic to emphasize the desire to express it.\
-As the subject is promoted, the object [を] of the object has been replaced with
-[は]
-
-For example:
-
-- ここににもつをおかないでください。 Do not leave luggage here
-
-- にもつはここにおかないでください。 Luggage, please do not leave here
-
-## 7. The noun (time) + までに + The verb
-
-Meaning: Before\
-Usage: action or work must be performed before the deadline specified by
-[までに]\
-[までに] is different from the auxiliary [まで] and auxiliary [に]
-
-For example:
-
-- かいぎは５じまでにおわります。 The meeting will end before 5 o'clock
-
-- どようびまでにほんをかえさなければなりません。 Must return books before by
-  Saturday
+| Example                                        | Meaning                                |
+| ---------------------------------------------- | -------------------------------------- |
+| かいぎは５じまでにおわります。                 | The meeting will end before 5 o'clock. |
+| どようびまでにほんをかえさなければなりません。 | Must return books by Saturday.         |

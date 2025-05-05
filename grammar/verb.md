@@ -2,28 +2,28 @@
 
 ## Group 1: Godan Verbs (U-verbs)
 
-| Dictionary Form      | Masu-form                                      | Te-form       | Example                                                     |
-| -------------------- | ---------------------------------------------- | ------------- | ----------------------------------------------------------- |
-| ~う/つ/る (u/tsu/ru) | ~います (imasu)                                | ~って (tte)   | 買う → 買います → 買って (kau → kaimasu → katte)            |
-| ~つ (tsu)            | ~ちます (chimasu)                              | ~って (tte)   | 待つ → 待ちます → 待って (matsu → machimasu → matte)        |
-| ~く (ku)             | ~きます (kimasu)                               | ~いて (ite)   | 書く → 書きます → 書いて (kaku → kakimasu → kaite)          |
-| ~ぐ (gu)             | ~ぎます (gimasu)                               | ~いで (ide)   | 泳ぐ → 泳ぎます → 泳いで (oyogu → oyogimasu → oyoide)       |
-| ~す (su)             | ~します (shimasu)                              | ~して (shite) | 話す → 話します → 話して (hanasu → hanashimasu → hanashite) |
-| ~ぬ/ぶ/む (nu/bu/mu) | ~にます/~びます/~みます (nimasu/bimasu/mimasu) | ~んで (nde)   | 読む → 読みます → 読んで (yomu → yomimasu → yonde)          |
+| Dictionary Form      | Masu-form                                      | Te-form       | Nai-form                | Example                                                                            |
+| -------------------- | ---------------------------------------------- | ------------- | ----------------------- | ---------------------------------------------------------------------------------- |
+| ~う/つ/る (u/tsu/ru) | ~います (imasu)                                | ~って (tte)   | ~わない                 | 買う → 買います → 買って → 買わない (kau → kaimasu → katte → kawanai)              |
+| ~つ (tsu)            | ~ちます (chimasu)                              | ~って (tte)   | ~たない                 | 待つ → 待ちます → 待って → 待たない (matsu → machimasu → matte → matanai)          |
+| ~く (ku)             | ~きます (kimasu)                               | ~いて (ite)   | ~かない                 | 書く → 書きます → 書いて → 書かない (kaku → kakimasu → kaite → kakanai)            |
+| ~ぐ (gu)             | ~ぎます (gimasu)                               | ~いで (ide)   | ~がない                 | 泳ぐ → 泳ぎます → 泳いで → 泳がない (oyogu → oyogimasu → oyoide → oyoganai)        |
+| ~す (su)             | ~します (shimasu)                              | ~して (shite) | ~さない                 | 話す → 話します → 話して → 話さない (hanasu → hanashimasu → hanashite → hanasanai) |
+| ~ぬ/ぶ/む (nu/bu/mu) | ~にます/~びます/~みます (nimasu/bimasu/mimasu) | ~んで (nde)   | ~なない/~ばない/~まない | 読む → 読みます → 読んで → 読まない (yomu → yomimasu → yonde → yomanai)            |
 
 ## Group 2: Ichidan Verbs (RU-verbs)
 
-| Dictionary Form | Masu-form        | Te-form        | Example                    |
-| --------------- | ---------------- | -------------- | -------------------------- |
-| ~る (いる/える) | Remove る + ます | Remove る + て | たべる → たべます → たべて |
-|                 |                  |                | みる → みます → みて       |
+| Dictionary Form | Masu-form        | Te-form        | Nai-form         | Example                               |
+| --------------- | ---------------- | -------------- | ---------------- | ------------------------------------- |
+| ~る (いる/える) | Remove る + ます | Remove る + て | Remove る + ない | たべる → たべます → たべて → たべない |
+|                 |                  |                |                  | みる → みます → みて → みない         |
 
 ## Group 3: Irregular Verbs
 
-| Dictionary | Masu-form | Te-form |
-| ---------- | --------- | ------- |
-| する       | します    | して    |
-| くる       | きます    | きて    |
+| Dictionary | Masu-form | Te-form | Nai-form |
+| ---------- | --------- | ------- | -------- |
+| する       | します    | して    | しない   |
+| くる       | きます    | きて    | こない   |
 
 ## Masu-form Conjugations
 
