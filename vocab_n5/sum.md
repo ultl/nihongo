@@ -769,6 +769,44 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 27  | ぜひ                   |                 |                |              |              |            | adverb           | certain                          |
 
 
+# Lesson 23 Vocabulary
+
+| No. | Vocabulary                 | Kanji        | Romaji               | Te-form      | Tai-form       | Part of Speech | Meaning                           | Example                                                                                   |
+| --- | -------------------------- | ------------ | -------------------- | ------------ | -------------- | -------------- | --------------------------------- | ----------------------------------------------------------------------------------------- |
+| 1   | ききます「先生に」         | 聞きます     | kikimasu             | きいて       | ききたい       | Verb (ru)      | ask (teacher)                     | 先生に質問をききます。(I'll ask the teacher a question.)                                  |
+| 2   | みち                       | 道           | michi                | -            | -              | Noun           | Street                            | この道をまっすぐ行ってください。(Please go straight along this street.)                   |
+| 3   | こうさてん                 | 交差点       | kōsaten              | -            | -              | Noun           | crossroads                        | 次の交差点を右に曲がってください。(Please turn right at the next crossroads.)             |
+| 4   | しんごう                   | 信号         | shingō               | -            | -              | Noun           | traffic light                     | 信号が赤になりました。(The traffic light turned red.)                                     |
+| 5   | ひっこしします             | 引越しします | hikkoshi shimasu     | ひっこしして | ひっこししたい | Verb (suru)    | moving house                      | 来月新しいアパートに引越しします。(I'm moving to a new apartment next month.)             |
+| 6   | まわします                 | 回します     | mawashimasu          | まわして     | まわしたい     | Verb (u)       | screw up                          | ボリュームをまわして音を大きくします。(Turn up the volume by rotating the knob.)          |
+| 7   | ひきます                   | 引きます     | hikimasu             | ひいて       | ひきたい       | Verb (u)       | drag                              | 重い箱を引きます。(I'll drag the heavy box.)                                              |
+| 8   | かえます                   | 変えます     | kaemasu              | かえて       | かえたい       | Verb (ru)      | change                            | 服を変えます。(I'll change my clothes.)                                                   |
+| 9   | さわります                 | 触ります     | sawarimasu           | さわって     | さわりたい     | Verb (u)       | touch, touch                      | 熱いから触らないでください。(Don't touch it because it's hot.)                            |
+| 10  | でます                     | 出ます       | demasu               | でて         | でたい         | Verb (ru)      | out, come out                     | 家を出ます。(I'll leave the house.)                                                       |
+| 11  | うごきます                 | 動きます     | ugokimasu            | うごいて     | うごきたい     | Verb (u)       | motion, run                       | 機械が動きません。(The machine doesn't run.)                                              |
+| 12  | あるきます                 | 歩きます     | arukimasu            | あるいて     | あるきたい     | Verb (u)       | walk (in the street)              | 公園を歩きます。(I'll walk in the park.)                                                  |
+| 13  | わたります                 | 渡ります     | watarimasu           | わたって     | わたりたい     | Verb (u)       | cross (bridge)                    | 橋を渡ります。(I'll cross the bridge.)                                                    |
+| 14  | きをつけます               | 気を付けます | ki o tsukemasu       | きをつけて   | きをつけたい   | Expression     | be careful                        | 道を歩くとき、車に気をつけます。(Be careful of cars when walking on the street.)          |
+| 15  | でんきや                   | 電気屋       | denkiya              | -            | -              | Noun           | electrical store                  | 電気屋で新しい冷蔵庫を買いました。(I bought a new refrigerator at the electrical store.)  |
+| 16  | こしょう                   | 故障         | koshō                | -            | -              | Noun           | broken                            | テレビが故障しました。(The TV is broken.)                                                 |
+| 17  | ―や                        | ー屋         | -ya                  | -            | -              | Suffix         | store-                            | 魚屋で新鮮な魚を買いました。(I bought fresh fish at the fish store.)                      |
+| 18  | サイズ                     |              | saizu                | -            | -              | Noun           | size                              | このシャツのサイズは小さいです。(This shirt's size is too small.)                         |
+| 19  | おと                       | 音           | oto                  | -            | -              | Noun           | sound                             | 変な音がします。(There's a strange sound.)                                                |
+| 20  | きかい                     | 機械         | kikai                | -            | -              | Noun           | machines                          | この機械の使い方を教えてください。(Please teach me how to use this machine.)              |
+| 21  | つまみ                     |              | tsumami              | -            | -              | Noun           | knob                              | ラジオのつまみを回してください。(Please turn the radio's knob.)                           |
+| 22  | かど                       | 角           | kado                 | -            | -              | Noun           | corner                            | 角を曲がると郵便局があります。(There is a post office when you turn the corner.)          |
+| 23  | はし                       | 橋           | hashi                | -            | -              | Noun           | bridge                            | この橋は古いです。(This bridge is old.)                                                   |
+| 24  | ちゅうしゃじょう           | 駐車場       | chūshajō             | -            | -              | Noun           | parking                           | 駐車場に車を止めました。(I parked my car in the parking lot.)                             |
+| 25  | おしょうがつ               | お正月       | o-shōgatsu           | -            | -              | Noun           | new Year                          | お正月に実家に帰ります。(I'll return to my parents' home for New Year.)                   |
+| 26  | ごちそうさまでした         |              | gochisōsama deshita  | -            | -              | Expression     | Thank you for the meal            | 食事の後で「ごちそうさまでした」と言います。(After a meal, we say "gochisōsama deshita".) |
+| 27  | ーめ                       | ー目         | -me                  | -            | -              | Suffix         | -th / -number (denotes the order) | 3つ目の建物が郵便局です。(The third building is the post office.)                         |
+| 28  | たてもの                   | 建物         | tatemono             | -            | -              | Noun           | building                          | この建物は古いです。(This building is old.)                                               |
+| 29  | がいこくじんとうろくしょう | 外国人登録証 | gaikokujin tōrokushō | -            | -              | Noun           | Alien registration card           | 外国人登録証を持っていますか。(Do you have your alien registration card?)                 |
+| 30  | かんりにん                 | 管理人       | kanrinin             | -            | -              | Noun           | caretaker                         | 管理人はどこですか。(Where is the caretaker?)                                             |
+| 31  | かんり                     | 管理         | kanri                | -            | -              | Noun           | management                        | このビルの管理は大変です。(The management of this building is difficult.)                 |
+| 32  | かんりにんしょ             | 管理人証     | kanrinin shō         | -            | -              | Noun           | caretaker certificate             | 管理人証を見せてください。(Please show me your caretaker certificate.)                    |
+
+
 # Lesson 10 Vocabulary
 
 | No. | Vocabulary             | Romaji             | Kanji  | Part of Speech | Te-Form    | Nai-Form (Informal) | Masu-Form    | Meaning                                           | Example                                                                            |
@@ -927,6 +965,37 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 28  | むり「な」       | 無理「な」 | muri (na)       | Na-adjective   | むりではない         | むりじゃない         | むりで             | むりだった           | impossible, unreasonable | それは無理な要求です。(That is an unreasonable request.)                                    |
 | 29  | からだにいい     | 体にいい   | karada ni ii    | Expression     | からだによくない     | からだによくない     | からだによくて     | からだによかった     | good for health          | 野菜は体にいいです。(Vegetables are good for your health.)                                  |
 | 30  | ケーキ           | ケーキ     | kēki            | Noun           | -                    | -                    | -                  | -                    | cake                     | 誕生日にケーキを食べました。(I ate cake on my birthday.)                                    |
+
+
+# Lesson 22 Vocabulary
+
+| No. | Vocabulary               | Kanji            | Romaji              | Te-form  | Tai-form   | Part of Speech | Meaning                                                     | Example                                                                                              |
+| --- | ------------------------ | ---------------- | ------------------- | -------- | ---------- | -------------- | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| 1   | きます「シャツを～」     | 着ます           | kimasu              | きて     | きたい     | Verb           | wearing (a shirt,..)                                        | シャツを着ます。(I wear a shirt.)                                                                    |
+| 2   | はきます「くつを～」     |                  | hakimasu            | はいて   | はきたい   | Verb           | wear (shoes,…)                                              | くつをはきます。(I wear shoes.)                                                                      |
+| 3   | かぶります「ぼうしを～」 |                  | kaburimasu          | かぶって | かぶりたい | Verb           | wear (the hat,…)                                            | ぼうしをかぶります。(I wear a hat.)                                                                  |
+| 4   | かけます「めがねを～」   |                  | kakemasu            | かけて   | かけたい   | Verb           | wear (glasses,…)                                            | めがねをかけます。(I wear glasses.)                                                                  |
+| 5   | うまれます               | 生まれます       | umaremasu           | うまれて | うまれたい | Verb           | born                                                        | わたしは東京でうまれました。(I was born in Tokyo.)                                                   |
+| 6   | コートー                 |                  | kōtō                | -        | -          | Noun           | coat                                                        | 冬はコートーをきます。(I wear a coat in winter.)                                                     |
+| 7   | スーツ                   |                  | sūtsu               | -        | -          | Noun           | com-reads                                                   | 会社でスーツをきます。(I wear a suit at the company.)                                                |
+| 8   | セーター                 |                  | sētā                | -        | -          | Noun           | Sweater                                                     | 寒いときセーターをきます。(I wear a sweater when it's cold.)                                         |
+| 9   | ぼうし                   | 帽子             | bōshi               | -        | -          | Noun           | hat                                                         | 夏にぼうしをかぶります。(I wear a hat in summer.)                                                    |
+| 10  | めがね                   | 眼鏡             | megane              | -        | -          | Noun           | glasses                                                     | 本を読むときめがねをかけます。(I wear glasses when reading books.)                                   |
+| 11  | よく                     | ～人             | yoku                | -        | -          | Adverb         | often                                                       | よく映画を見ます。(I often watch movies.)                                                            |
+| 12  | おめでとうございます     |                  | omedetō gozaimasu   | -        | -          | Expression     | Congratulations                                             | お誕生日おめでとうございます。(Happy birthday.)                                                      |
+| 13  | こちら                   |                  | kochira             | -        | -          | Pronoun        | this (the historical expression of "こ れ")                 | こちらは田中さんです。(This is Mr. Tanaka.)                                                          |
+| 14  | やちん                   | 家賃             | yachin              | -        | -          | Noun           | house money                                                 | やちんは毎月払います。(I pay rent every month.)                                                      |
+| 15  | うーん。                 | 会社員           | ūn                  | -        | -          | Expression     | let me see / yes / how                                      | うーん、どうしようかな。(Hmm, what should I do?)                                                     |
+| 16  | ダイニングキッチン       |                  | dainingu kitchin    | -        | -          | Noun           | kitchen with dining room                                    | このアパートにはダイニングキッチンがあります。(This apartment has a kitchen with dining room.)       |
+| 17  | わしつ                   |                  | washitsu            | -        | -          | Noun           | Japanese style dining room                                  | わしつでお茶を飲みました。(I drank tea in the Japanese-style room.)                                  |
+| 18  | おしいれ                 | 押し入れ         | oshiire             | -        | -          | Noun           | room for pillows and blankets in Japanese style dining room | ふとんをおしいれにしまいます。(I put the futon in the closet.)                                       |
+| 19  | ふとん                   | 布団             | futon               | -        | -          | Noun           | blankets                                                    | 夜はふとんで寝ます。(I sleep on a futon at night.)                                                   |
+| 20  | アパート                 |                  | apāto               | -        | -          | Noun           | apartment                                                   | 大学の近くにアパートを借りました。(I rented an apartment near the university.)                       |
+| 21  | パリ                     |                  | pari                | -        | -          | Noun           | Pa-ri                                                       | いつかパリに行きたいです。(I want to go to Paris someday.)                                           |
+| 22  | ばんりのちょうじょう     | 万里の長城       | banri no chōjō      | -        | -          | Noun           | Great Wall                                                  | 中国でばんりのちょうじょうを見ました。(I saw the Great Wall in China.)                               |
+| 23  | よかかいはつセンター     | 余暇開発センター | yoka kaihatsu sentā | -        | -          | Noun           | Entertainment development center for residents              | よかかいはつセンターでスポーツをします。(I do sports at the leisure development center.)             |
+| 24  | レジャーはくしょ         | レジャー白書     | rejā hakusho        | -        | -          | Noun           | white paper on spending free time                           | レジャーはくしょによると、旅行が人気です。(According to the leisure white paper, travel is popular.) |
+| 25  | かんこうち               | 観光地           | kankōchi            | -        | -          | Noun           | tourist spot                                                | かんこうちを見学します。(I will visit the tourist spot.)                                             |
 
 
 # Lesson 8 Vocabulary
