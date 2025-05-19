@@ -1,3 +1,57 @@
+# Lesson 28 Vocabulary
+
+| No. | Vocabulary                         | Kanji                            | Romaji                          | Te-form        | Nai-form         | Part of Speech | Meaning                              | Example                                                                                             |
+| --- | ---------------------------------- | -------------------------------- | ------------------------------- | -------------- | ---------------- | -------------- | ------------------------------------ | --------------------------------------------------------------------------------------------------- |
+| 1   | うれます                           | 売れます                         | uremasu                         | うれて         | うれない         | Verb (ru)      | to be sold                           | この本はよく売れます。(This book sells well.)                                                       |
+| 2   | おどります                         | 踊ります                         | odorimasu                       | おどって       | おどらない       | Verb (u)       | to dance                             | パーティーで踊りました。(I danced at the party.)                                                    |
+| 3   | かみます                           |                                  | kamimasu                        | かんで         | かまない         | Verb (u)       | to chew, to bite                     | 食べ物をよくかんでください。(Please chew your food well.)                                           |
+| 4   | えらびます                         | 選びます                         | erabimasu                       | えらんで       | えらばない       | Verb (u)       | to choose, to select                 | レストランをえらびました。(I chose a restaurant.)                                                   |
+| 5   | かよいます                         | 通います                         | kayoimasu                       | かよって       | かよわない       | Verb (u)       | to commute, to attend (school, etc.) | 大学に通っています。(I attend university.)                                                          |
+| 6   | メモします                         | メモします                       | memo shimasu                    | メモして       | メモしない       | Verb (suru)    | to take notes, to write down         | 電話番号をメモしました。(I wrote down the phone number.)                                            |
+| 7   | まじめ                             | 真面目                           | majime                          | -              | -                | Na-adjective   | serious, diligent, honest            | 彼はまじめな学生です。(He is a serious student.)                                                    |
+| 8   | ねっしん                           | 熱心                             | nesshin                         | -              | -                | Na-adjective   | enthusiasm, eagerness                | ねっしんに勉強しています。(I'm studying enthusiastically.)                                          |
+| 9   | えらい                             | 偉い                             | erai                            | -              | -                | I-adjective    | great, admirable, remarkable         | 先生はえらい人です。(The teacher is an admirable person.)                                           |
+| 10  | ちょうどいい                       | 丁度いい                         | chōdo ii                        | -              | -                | Expression     | just right, perfect fit              | このサイズはちょうどいいです。(This size is just right.)                                            |
+| 11  | やさしい                           | 優しい                           | yasashii                        | -              | やさしくない     | I-adjective    | kind, gentle, easy                   | 母はやさしい人です。(My mother is a kind person.)                                                   |
+| 12  | しゅうかん                         | 習慣                             | shūkan                          | -              | -                | Noun           | custom, habit                        | 毎朝走るのは私の習慣です。(Running every morning is my habit.)                                      |
+| 13  | けいけん                           | 経験                             | keiken                          | -              | -                | Noun           | experience                           | 日本での経験は素晴らしかった。(My experience in Japan was wonderful.)                               |
+| 14  | ちから                             | 力                               | chikara                         | -              | -                | Noun           | power, strength, ability             | 彼は力が強いです。(He has great strength.)                                                          |
+| 15  | にんき                             | 人気                             | ninki                           | -              | -                | Noun           | popularity, fame                     | この映画は人気があります。(This movie is popular.)                                                  |
+| 16  | かたち                             | 形                               | katachi                         | -              | -                | Noun           | shape, form                          | この雲の形は面白いです。(The shape of this cloud is interesting.)                                   |
+| 17  | いろ                               | 色                               | iro                             | -              | -                | Noun           | color                                | この服の色が好きです。(I like the color of this clothing.)                                          |
+| 18  | あじ                               | 味                               | aji                             | -              | -                | Noun           | taste, flavor                        | このスープの味は良いです。(The taste of this soup is good.)                                         |
+| 19  | ガム                               |                                  | gamu                            | -              | -                | Noun           | chewing gum                          | ガムをかんでいます。(I'm chewing gum.)                                                              |
+| 20  | しなもの                           | 品物                             | shinamono                       | -              | -                | Noun           | goods, article, item                 | この品物はいくらですか？(How much is this item?)                                                    |
+| 21  | ねだん                             | 値段                             | nedan                           | -              | -                | Noun           | price, cost                          | 値段が高すぎます。(The price is too high.)                                                          |
+| 22  | きゅうりょう                       | 給料                             | kyūryō                          | -              | -                | Noun           | salary, wages                        | 給料が上がりました。(My salary increased.)                                                          |
+| 23  | ボーナス                           |                                  | bōnasu                          | -              | -                | Noun           | bonus                                | 今年のボーナスは多いです。(This year's bonus is large.)                                             |
+| 24  | ばんぐみ                           | 番組                             | bangumi                         | -              | -                | Noun           | TV/radio program                     | 面白い番組を見ました。(I watched an interesting program.)                                           |
+| 25  | ドラマ                             |                                  | dorama                          | -              | -                | Noun           | drama, TV series                     | 日本のドラマが好きです。(I like Japanese dramas.)                                                   |
+| 26  | しょうせつ                         | 小説                             | shōsetsu                        | -              | -                | Noun           | novel                                | 新しい小説を読んでいます。(I'm reading a new novel.)                                                |
+| 27  | しょうせつか                       | 小説家                           | shōsetsuka                      | -              | -                | Noun           | novelist                             | 彼は有名な小説家です。(He is a famous novelist.)                                                    |
+| 28  | かしゅ                             | 歌手                             | kashu                           | -              | -                | Noun           | singer                               | その歌手の声が好きです。(I like that singer's voice.)                                               |
+| 29  | かんりにん                         | 管理人                           | kanrinin                        | -              | -                | Noun           | caretaker, manager                   | 管理人に相談しました。(I consulted with the caretaker.)                                             |
+| 30  | むすこ                             | 息子                             | musuko                          | -              | -                | Noun           | son (one's own)                      | 私の息子は大学生です。(My son is a university student.)                                             |
+| 31  | むすこさん                         | 息子さん                         | musuko-san                      | -              | -                | Noun           | son (someone else's)                 | 田中さんの息子さんは医者です。(Mr. Tanaka's son is a doctor.)                                       |
+| 32  | むすめ                             | 娘                               | musume                          | -              | -                | Noun           | daughter (one's own)                 | 私の娘は高校生です。(My daughter is a high school student.)                                         |
+| 33  | むすめさん                         | 娘さん                           | musume-san                      | -              | -                | Noun           | daughter (someone else's)            | 山田さんの娘さんは先生です。(Ms. Yamada's daughter is a teacher.)                                   |
+| 34  | じぶん                             | 自分                             | jibun                           | -              | -                | Noun           | oneself, myself, yourself            | 自分のことは自分でします。(I do my own things by myself.)                                           |
+| 35  | しょうらい                         | 将来                             | shōrai                          | -              | -                | Noun           | future, prospects                    | 将来の夢は何ですか？(What is your future dream?)                                                    |
+| 36  | しばらく                           |                                  | shibaraku                       | -              | -                | Adverb         | for a while, for some time           | しばらくお待ちください。(Please wait for a while.)                                                  |
+| 37  | たいてい                           |                                  | taitei                          | -              | -                | Adverb         | usually, generally                   | 私はたいてい8時に起きます。(I usually wake up at 8.)                                                |
+| 38  | それに                             |                                  | soreni                          | -              | -                | Conjunction    | besides, moreover                    | 彼は親切です。それに、頭もいいです。(He is kind. Besides, he is smart.)                             |
+| 39  | それで                             |                                  | sorede                          | -              | -                | Conjunction    | and so, therefore                    | 雨が降っていた。それで、家にいました。(It was raining. Therefore, I stayed home.)                   |
+| 40  | 「ちょっと」おねがいがあるんですが | 「ちょっと」お願いがあるんですが | "chotto" onegai ga arun desu ga | -              | -                | Expression     | I have a small favor to ask          | ちょっとお願いがあるんですが、手伝ってくれますか？(I have a small favor to ask, could you help me?) |
+| 41  | ホームステイ                       |                                  | hōmusutei                       | -              | -                | Noun           | homestay                             | 日本でホームステイをしました。(I did a homestay in Japan.)                                          |
+| 42  | かいわ                             | 会話                             | kaiwa                           | -              | -                | Noun           | conversation, dialogue               | 日本語で会話をしました。(I had a conversation in Japanese.)                                         |
+| 43  | おしゃべりします                   | おしゃべりします                 | oshaberi shimasu                | おしゃべりして | おしゃべりしない | Verb (suru)    | to chat, to make small talk          | 友達とおしゃべりしました。(I chatted with my friend.)                                               |
+| 44  | おしらせ                           | お知らせ                         | oshirase                        | -              | -                | Noun           | notice, announcement                 | 重要なお知らせがあります。(There is an important announcement.)                                     |
+| 45  | ひにち                             | 日にち                           | hinichi                         | -              | -                | Noun           | date, day                            | 日にちを決めましょう。(Let's decide on a date.)                                                     |
+| 46  | ど                                 | 土                               | do                              | -              | -                | Noun           | Saturday                             | 土曜日は仕事がありません。(I don't have work on Saturday.)                                          |
+| 47  | たいいくかん                       | 体育館                           | taiikukan                       | -              | -                | Noun           | gymnasium, sports center             | 体育館でバスケットボールをしました。(I played basketball in the gymnasium.)                         |
+| 48  | むりょう                           | 無料                             | muryō                           | -              | -                | Na-adjective   | free of charge, no cost              | このサービスは無料です。(This service is free of charge.)                                           |
+
+
 # Lesson 5 Vocabulary
 
 | No. | Vocabulary       | Kanji    | Romaji           | Meaning                                | Part of Speech | Nai-form (Informal) | Te-form  | Example Sentence                                                                                            |
@@ -56,6 +110,7 @@
 | 52  | とっきゅう       | 特急     | tokkyuu          | limited express train                  | Noun           |                     |          | 特急で旅行します。 (I will travel by limited express train.)                                                |
 | 53  | つぎの           | 次の     | tsugi no         | next                                   | Adjective      |                     |          | 次の駅で降ります。 (I will get off at the next station.)                                                    |
 | 54  | どういたしまして |          | douitashimashite | you're welcome                         | Expression     |                     |          | ありがとうと言われたら、どういたしましてと言います。 (When someone says thank you, you say you're welcome.) |
+
 
 # Lesson 1
 
@@ -132,6 +187,7 @@
       願い (negai): Means "wish," "request," or "desire"
       します (shimasu): The polite form of "to do"
 
+
 # Lesson 18 Vocabulary
 
 | No. | Vocabulary             | Dictionary Form | Nai-Form       | Te-Form      | Ta-Form      | Kanji      | Part of Speech   | Meaning                          |
@@ -163,6 +219,7 @@
 | 25  | ぼくじょう             |                 |                |              |              | 牧場       | noun             | farm                             |
 | 26  | ほんとうですか         |                 |                |              |              | 本当ですか | expression       | really?                          |
 | 27  | ぜひ                   |                 |                |              |              |            | adverb           | certain                          |
+
 
 # Lesson 19 Vocabulary
 
@@ -198,6 +255,64 @@
 | 28  | むり「な」       | 無理「な」 | muri (na)       | Na-adjective   | むりではない         | むりじゃない         | むりで             | むりだった           | impossible, unreasonable | それは無理な要求です。(That is an unreasonable request.)                                    |
 | 29  | からだにいい     | 体にいい   | karada ni ii    | Expression     | からだによくない     | からだによくない     | からだによくて     | からだによかった     | good for health          | 野菜は体にいいです。(Vegetables are good for your health.)                                  |
 | 30  | ケーキ           | ケーキ     | kēki            | Noun           | -                    | -                    | -                  | -                    | cake                     | 誕生日にケーキを食べました。(I ate cake on my birthday.)                                    |
+
+
+# Lesson 29 Vocabulary
+
+| No. | Vocabulary               | Romaji           | Kanji          | Te-form    | Nai-form (Informal) | Part of Speech | Meaning                                    | Example                                                                   |
+| --- | ------------------------ | ---------------- | -------------- | ---------- | ------------------- | -------------- | ------------------------------------------ | ------------------------------------------------------------------------- |
+| 1   | あきます                 | akimasu          | 開きます       | あいて     | あかない            | Verb (intrans) | to open (door)                             | ドアが自然に開きました。(The door opened naturally.)                      |
+| 2   | しまります               | shimarimasu      | 閉まります     | しまって   | しまらない          | Verb (intrans) | to close (door)                            | 風でドアが閉まりました。(The door closed because of the wind.)            |
+| 3   | つきます                 | tsukimasu        |                | ついて     | つかない            | Verb (intrans) | to turn on, to light up (lamp)             | 電気がつきました。(The light turned on.)                                  |
+| 4   | きえます                 | kiemasu          | 消えます       | きえて     | きえない            | Verb (intrans) | to turn off (light)                        | 停電で電気が消えました。(The lights went out during the power outage.)    |
+| 5   | こみます                 | komimasu         | 込みます       | こんで     | こまない            | Verb (intrans) | to be crowded                              | 電車が込んでいます。(The train is crowded.)                               |
+| 6   | すきます                 | sukimasu         |                | すいて     | すかない            | Verb (intrans) | to be empty, not crowded                   | お店がすいています。(The store is not crowded.)                           |
+| 7   | こわれます               | kowaremasu       | 壊れます       | こわれて   | こわれない          | Verb (intrans) | to break, to be broken                     | テレビが壊れました。(The TV broke.)                                       |
+| 8   | われます                 | waremasu         | 割れます       | われて     | われない            | Verb (intrans) | to break, to crack                         | ガラスが割れました。(The glass broke.)                                    |
+| 9   | おれます                 | oremasu          | 折れます       | おれて     | おれない            | Verb (intrans) | to break, to snap                          | 鉛筆が折れました。(The pencil snapped.)                                   |
+| 10  | やぶれます               | yaburemasu       | 破れます       | やぶれて   | やぶれない          | Verb (intrans) | to tear, to be torn                        | 紙が破れました。(The paper tore.)                                         |
+| 11  | よごれます               | yogoremasu       | 汚れます       | よごれて   | よごれない          | Verb (intrans) | to get dirty                               | シャツが汚れました。(The shirt got dirty.)                                |
+| 12  | つきます                 | tsukimasu        | 付きます       | ついて     | つかない            | Verb (intrans) | to stick, to be attached                   | 切手が封筒に付きました。(The stamp stuck to the envelope.)                |
+| 13  | はずれます               | hazuremasu       | 外れます       | はずれて   | はずれない          | Verb (intrans) | to come off, to be disconnected            | ボタンが外れました。(The button came off.)                                |
+| 14  | とまります               | tomarimasu       | 止まります     | とまって   | とまらない          | Verb (intrans) | to stop                                    | バスが止まりました。(The bus stopped.)                                    |
+| 15  | まちがえます             | machigaemasu     |                | まちがえて | まちがえない        | Verb (trans)   | to make a mistake                          | 電話番号をまちがえました。(I made a mistake with the phone number.)       |
+| 16  | おとします               | otoshimasu       | 落とします     | おとして   | おとさない          | Verb (trans)   | to drop                                    | キーを落としました。(I dropped my keys.)                                  |
+| 17  | かかります               | kakarimasu       | 掛かります     | かかって   | かからない          | Verb (intrans) | to hang, to take (time)                    | 絵が壁にかかっています。(The picture is hanging on the wall.)             |
+| 18  | ふきます                 | fukimasu         |                | ふいて     | ふかない            | Verb (trans)   | to wipe                                    | テーブルをふきました。(I wiped the table.)                                |
+| 19  | とりかえます             | torikaemasu      |                | とりかえて | とりかえない        | Verb (trans)   | to exchange, to replace                    | 服をとりかえました。(I exchanged the clothes.)                            |
+| 20  | かたづけます             | katazukemasu     | 片付けます     | かたづけて | かたづけない        | Verb (trans)   | to clean up, to put in order               | 部屋をかたづけました。(I cleaned up the room.)                            |
+| 21  | さら　（おさら）         | sara (osara)     | 皿             | -          | -                   | Noun           | plate, dish                                | おさらを洗いました。(I washed the plates.)                                |
+| 22  | ちゃわん　（おちゃわん） | chawan (ochawan) | 茶碗           | -          | -                   | Noun           | rice bowl, tea cup                         | お茶わんにご飯を入れました。(I put rice in the rice bowl.)                |
+| 23  | コップ                   | koppu            |                | -          | -                   | Noun           | cup, glass                                 | コップに水を入れました。(I put water in the glass.)                       |
+| 24  | ガラス                   | garasu           |                | -          | -                   | Noun           | glass (material)                           | ガラスが透明です。(The glass is transparent.)                             |
+| 25  | ふくろ                   | fukuro           | 袋             | -          | -                   | Noun           | bag, sack                                  | 袋に買い物を入れました。(I put the shopping in the bag.)                  |
+| 26  | しょるい                 | shorui           | 書類           | -          | -                   | Noun           | documents, papers                          | 書類に署名しました。(I signed the documents.)                             |
+| 27  | えだ                     | eda              | 枝             | -          | -                   | Noun           | branch, twig                               | 木の枝が折れました。(The tree branch broke.)                              |
+| 28  | えきいん                 | ekiin            | 駅員           | -          | -                   | Noun           | station attendant                          | 駅員に道を聞きました。(I asked the station attendant for directions.)     |
+| 29  | こうばん                 | kouban           | 交番           | -          | -                   | Noun           | police box, police station                 | 交番で地図を見ました。(I looked at a map at the police box.)              |
+| 30  | スピーチ                 | supiichi         |                | -          | -                   | Noun           | speech                                     | スピーチをしました。(I gave a speech.)                                    |
+| 31  | へんじ                   | henji            | 返事           | -          | -                   | Noun           | reply, response                            | メールの返事を書きました。(I wrote a reply to the email.)                 |
+| 32  | おさきにどうぞ           | osaki ni douzo   | お先にどうぞ   | -          | -                   | Expression     | Please go ahead, after you                 | ドアでお先にどうぞと言いました。(I said "please go ahead" at the door.)   |
+| 33  | げんじものがたり         | genji monogatari | 源氏物語       | -          | -                   | Noun           | The Tale of Genji (classic Japanese novel) | 源氏物語を読みました。(I read The Tale of Genji.)                         |
+| 34  | いまのでんしゃ           | ima no densha    | 今の電車       | -          | -                   | Noun Phrase    | the train just now                         | 今の電車に乗りました。(I got on the train just now.)                      |
+| 35  | わすれもの               | wasuremono       | 忘れ物         | -          | -                   | Noun           | lost article, something forgotten          | 忘れ物を探しています。(I'm looking for my lost item.)                     |
+| 36  | このくらい               | kono kurai       |                | -          | -                   | Expression     | about this much, this size                 | このくらいの大きさです。(It's about this size.)                           |
+| 37  | がわ                     | gawa             | 側             | -          | -                   | Noun           | side, direction                            | 左側に座りました。(I sat on the left side.)                               |
+| 38  | ポケット                 | poketto          |                | -          | -                   | Noun           | pocket                                     | ポケットにお金を入れました。(I put money in my pocket.)                   |
+| 39  | へん                     | hen              | 辺             | -          | -                   | Noun           | area, vicinity                             | この辺に郵便局があります。(There's a post office around here.)            |
+| 40  | おぼえていません         | oboete imasen    | 覚えていません | -          | -                   | Expression     | I don't remember                           | 名前を覚えていません。(I don't remember the name.)                        |
+| 41  | あみだな                 | amidana          | 網棚           | -          | -                   | Noun           | luggage rack                               | カバンを網棚に置きました。(I put my bag on the luggage rack.)             |
+| 42  | たしか                   | tashika          | 確か           | -          | -                   | Adverb         | certain, sure, if I remember correctly     | 確かここだったと思います。(I think it was here, if I remember correctly.) |
+| 43  | ああ、よかった           | aa, yokatta      |                | -          | -                   | Expression     | Oh, that's good, I'm relieved              | 試験に合格して、ああ、よかった。(I passed the exam. Oh, that's good.)     |
+| 44  | じしん                   | jishin           | 地震           | -          | -                   | Noun           | earthquake                                 | 地震がありました。(There was an earthquake.)                              |
+| 45  | かべ                     | kabe             | 壁             | -          | -                   | Noun           | wall                                       | 壁に絵をかけました。(I hung a picture on the wall.)                       |
+| 46  | はり                     | hari             | 針             | -          | -                   | Noun           | needle, hand (of clock)                    | 時計の針が動いています。(The hands of the clock are moving.)              |
+| 47  | さします                 | sashimasu        | 指します       | さして     | ささない            | Verb (trans)   | to point, to indicate                      | 地図を指しました。(I pointed at the map.)                                 |
+| 48  | えきまえ                 | ekimae           | 駅前           | -          | -                   | Noun           | in front of the station                    | 駅前でバスを待ちました。(I waited for the bus in front of the station.)   |
+| 49  | たおれます               | taoremasu        | 倒れます       | たおれて   | たおれない          | Verb (intrans) | to fall over, to collapse                  | 木が倒れました。(The tree fell over.)                                     |
+| 50  | にしのほう               | nishi no hou     | 西の方         | -          | -                   | Noun Phrase    | western direction, westward                | 西の方に山があります。(There's a mountain to the west.)                   |
+| 51  | もえます                 | moemasu          | 燃えます       | もえて     | もえない            | Verb (intrans) | to burn                                    | 紙が燃えています。(The paper is burning.)                                 |
+
 
 # Lesson 4 Vocabulary
 
@@ -277,6 +392,7 @@ events. KIPPU is used for tickets on the train mostly. There is another word for
 tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 (boarding pass), JOUSHAKEN (train pass).
 
+
 # Lesson 22 Vocabulary
 
 | No. | Vocabulary               | Kanji            | Romaji              | Te-form  | Tai-form   | Part of Speech | Meaning                                                     | Example                                                                                              |
@@ -306,6 +422,7 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 23  | よかかいはつセンター     | 余暇開発センター | yoka kaihatsu sentā | -        | -          | Noun           | Entertainment development center for residents              | よかかいはつセンターでスポーツをします。(I do sports at the leisure development center.)             |
 | 24  | レジャーはくしょ         | レジャー白書     | rejā hakusho        | -        | -          | Noun           | white paper on spending free time                           | レジャーはくしょによると、旅行が人気です。(According to the leisure white paper, travel is popular.) |
 | 25  | かんこうち               | 観光地           | kankōchi            | -        | -          | Noun           | tourist spot                                                | かんこうちを見学します。(I will visit the tourist spot.)                                             |
+
 
 # Lesson 16 Vocabulary
 
@@ -359,6 +476,7 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 46  | アジア                    | ajia                    |                     | Noun                          |                     |            |              | Asia                                                            | アジアに住んでいます。(I live in Asia.)                                                             |
 | 47  | ベトナム                  | betonamu                |                     | Noun                          |                     |            |              | Vietnam                                                         | ベトナムから来ました。(I came from Vietnam.)                                                        |
 
+
 # Lesson 12 Vocabulary
 
 | No. | Vocabulary          | Kanji           | Romaji            | Part of Speech | Meaning                                                                   |
@@ -411,6 +529,7 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 46  | ホンコン            |                 | honkon            | noun           | Hong Kong (ホンコンに行きました - I went to Hong Kong)                    |
 | 47  | シンガポール        |                 | shingapooru       | noun           | Singapore (シンガポールは暑いです - Singapore is hot)                     |
 
+
 # Lesson 26 Vocabulary
 
 | No. | Vocabulary         | Kanji          | Romaji          | Meaning                         | Part of Speech      | Dictionary Form  | Te-Form          | Nai-Form           | Example Sentence                                                               |
@@ -461,6 +580,7 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 44  | こわい             | 怖い           | kowai           | Scary, scary                    | i-adjective         | こわい           | こわくて         | こわくない         | ホラー映画はこわいです。Horror movies are scary.                               |
 | 45  | ちがいます         | 違う           | chigaimasu      | other, not                      | verb                | ちがう           | ちがって         | ちがわない         | それはちがいます。That's incorrect.                                            |
 | 46  | うちゅうひこうし   | 宇宙飛行士     | uchū hikōshi    | Astronaut                       | noun                | うちゅうひこうし | -                | -                  | うちゅうひこうしになりたいです。I want to become an astronaut.                 |
+
 
 # Lesson 13 Vocabulary
 
@@ -519,6 +639,7 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 少々お待ちください   | Shōshō omachi kudasai | Please wait a moment | - 少々 (shōshō): A little, a moment<br>- お待ち (omachi): Polite form of "to wait"<br>- ください (kudasai): Please                                            | - お待ち comes from 待つ (matsu) with honorific prefix                                                          |                                                                                                                                                                                  |
 | 別々に               | Betsubetsu ni         | Separately           | - 別々 (betsubetsu): Separate<br>- に (ni): Adverbial marker                                                                                                  | - Uses kanji 別 (betsu) repeated twice to emphasize the distinct nature                                         |                                                                                                                                                                                  |
 
+
 # Lesson 27 Vocabulary
 
 | No. | Vocabulary       | Kanji      | Romaji           | Part of Speech | Te-form  | Nai-form   | Meaning                                      |
@@ -575,6 +696,7 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 50  | しょうらい       | 将来       | shourai          | Noun           |          |            | future                                       |
 | 51  | ドラえもん       |            | doraemon         | Noun           |          |            | Duramen                                      |
 
+
 # Lesson 23 Vocabulary
 
 | No. | Vocabulary                 | Kanji        | Romaji               | Te-form      | Tai-form       | Part of Speech | Meaning                           | Example                                                                                   |
@@ -611,6 +733,7 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 30  | かんりにん                 | 管理人       | kanrinin             | -            | -              | Noun           | caretaker                         | 管理人はどこですか。(Where is the caretaker?)                                             |
 | 31  | かんり                     | 管理         | kanri                | -            | -              | Noun           | management                        | このビルの管理は大変です。(The management of this building is difficult.)                 |
 | 32  | かんりにんしょ             | 管理人証     | kanrinin shō         | -            | -              | Noun           | caretaker certificate             | 管理人証を見せてください。(Please show me your caretaker certificate.)                    |
+
 
 # Lesson 17 Vocabulary
 
@@ -654,6 +777,7 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 36  | [～が] いたいです       |                      | -                | -                  | -                | [~ ga] itai desu | Expression     | ~ hurts                   | 頭が痛いです。                     |
 | 37  | のど                    |                      | -                | -                  | -                | nodo             | Noun           | throat                    | のどが痛いです。                   |
 | 38  | おだいじに              |                      | -                | -                  | -                | odaiji ni        | Expression     | Get well soon             | お大事に。早く良くなってください。 |
+
 
 # Lesson 9 Vocabulary
 
@@ -710,6 +834,7 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 48  | だめですか。               | dame desuka              |                        | expression     | So you cannot (come)? (明日は来られませんか: Can't you come tomorrow?)                               |
 | 49  | またこんどおねがいします   | mata kondo onegaishimasu | また今度お願いします。 | expression     | Please ask me again some other time. (また今度お願いします: Let's do it another time)                |
 
+
 # Lesson 10 Vocabulary
 
 | No. | Vocabulary             | Romaji             | Kanji  | Part of Speech | Te-Form    | Nai-Form (Informal) | Masu-Form    | Meaning                                           | Example                                                                            |
@@ -764,6 +889,66 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 48  | 東京ディズニーランド   | tokyo dizuniirando |        | Noun           | -          | -                   | -            | Tokyo Disneyland                                  | 東京ディズニーランドに行きます。(I'll go to Tokyo Disneyland.)                     |
 | 49  | ユニューや ストア      | yunyuuya sutoa     |        | Noun           | -          | -                   | -            | Fictitious supermarket                            | ユニューやストアで買い物をします。(I'll shop at Yunyuya Store.)                    |
 
+
+# Lesson 30 Vocabulary
+
+| No. | Vocabulary                 | Kanji                  | Romaji                        | Te-Form        | Nai-Form         | Part of Speech | Meaning                          | Example                                                                            |
+| --- | -------------------------- | ---------------------- | ----------------------------- | -------------- | ---------------- | -------------- | -------------------------------- | ---------------------------------------------------------------------------------- |
+| 1   | はります                   |                        | harimasu                      | はって         | はらない         | Verb           | to paste, to stick               | ポスターを壁にはります。(I paste the poster on the wall.)                          |
+| 2   | かけます                   | 掛けます               | kakemasu                      | かけて         | かけない         | Verb           | to hang, to put up               | カレンダーを壁にかけます。(I hang the calendar on the wall.)                       |
+| 3   | かざります                 | 飾ります               | kazarimasu                    | かざって       | かざらない       | Verb           | to decorate, to adorn            | 部屋に花をかざります。(I decorate the room with flowers.)                          |
+| 4   | ならべます                 | 並べます               | narabemasu                    | ならべて       | ならべない       | Verb           | to line up, to arrange in order  | 本を棚にならべます。(I arrange the books on the shelf.)                            |
+| 5   | うえます                   | 植えます               | uemasu                        | うえて         | うえない         | Verb           | to plant (trees, flowers, etc.)  | 庭に木をうえます。(I plant a tree in the garden.)                                  |
+| 6   | もどします                 | 戻します               | modoshimasu                   | もどして       | もどさない       | Verb           | to return something, to put back | 本を図書館にもどします。(I return the book to the library.)                        |
+| 7   | まとめます                 |                        | matomemasu                    | まとめて       | まとめない       | Verb           | to put together, to summarize    | ノートをまとめます。(I summarize my notes.)                                        |
+| 8   | かたづけます               | 方づけます             | katazukemasu                  | かたづけて     | かたづけない     | Verb           | to tidy up, to clear away        | 部屋をかたづけます。(I tidy up the room.)                                          |
+| 9   | しまいます                 |                        | shimaimasu                    | しまって       | しまわない       | Verb           | to put away, to finish           | 本をひきだしにしまいます。(I put away the book in the drawer.)                     |
+| 10  | きめます                   | 決めます               | kimemasu                      | きめて         | きめない         | Verb           | to decide, to determine          | 会議の日をきめます。(I decide on the meeting date.)                                |
+| 11  | しらせます                 | 知らせます             | shirasemasu                   | しらせて       | しらせない       | Verb           | to notify, to inform             | 先生に結果をしらせます。(I inform the teacher about the result.)                   |
+| 12  | そうだんします             | 相談します             | soudanshimasu                 | そうだんして   | そうだんしない   | Verb           | to consult, to discuss           | 友達と問題についてそうだんします。(I discuss the problem with my friend.)          |
+| 13  | よしゅうします             | 予習します             | yoshuushimasu                 | よしゅうして   | よしゅうしない   | Verb           | to prepare for a lesson          | 明日の授業をよしゅうします。(I prepare for tomorrow's lesson.)                     |
+| 14  | ふくしゅうします           | 復習します             | fukushuushimasu               | ふくしゅうして | ふくしゅうしない | Verb           | to review lessons                | 毎日日本語をふくしゅうします。(I review Japanese every day.)                       |
+| 15  | そのままにします           |                        | sonomama ni shimasu           | そのままにして | そのままにしない | Phrase         | to leave as it is                | 本はそのままにします。(I leave the book as it is.)                                 |
+| 16  | おこさん                   | お子さん               | okosan                        | -              | -                | Noun           | (someone else's) child           | 田中さんのおこさんは可愛いです。(Mr. Tanaka's child is cute.)                      |
+| 17  | じゅぎょう                 | 授業                   | jugyou                        | -              | -                | Noun           | class, lesson                    | 日本語のじゅぎょうが楽しいです。(Japanese lessons are fun.)                        |
+| 18  | こうぎ                     | 講義                   | kougi                         | -              | -                | Noun           | lecture                          | 先生のこうぎは面白いです。(The teacher's lecture is interesting.)                  |
+| 19  | ミーテイング               |                        | miitingu                      | -              | -                | Noun           | meeting                          | 明日ミーティングがあります。(There is a meeting tomorrow.)                         |
+| 20  | よてい                     | 予定                   | yotei                         | -              | -                | Noun           | schedule, plan                   | 週末のよていは何ですか。(What are your weekend plans?)                             |
+| 21  | おしらせ                   | お知らせ               | oshirase                      | -              | -                | Noun           | notice, announcement             | 重要なおしらせがあります。(There is an important announcement.)                    |
+| 22  | あんないしょ               | 案内書                 | annaisho                      | -              | -                | Noun           | guidebook, manual                | あんないしょを読みました。(I read the guidebook.)                                  |
+| 23  | カレンダー                 |                        | karendaa                      | -              | -                | Noun           | calendar                         | カレンダーに予定を書きます。(I write my schedule on the calendar.)                 |
+| 24  | ポスター                   |                        | posutaa                       | -              | -                | Noun           | poster                           | 教室にポスターをはります。(I put up a poster in the classroom.)                    |
+| 25  | ごみばこ                   | ごみ箱                 | gomibako                      | -              | -                | Noun           | trash can, garbage bin           | ゴミをごみばこに捨てます。(I throw the garbage in the trash can.)                  |
+| 26  | にんぎょう                 | 人形                   | ningyou                       | -              | -                | Noun           | doll, puppet                     | 妹はにんぎょうで遊びます。(My sister plays with dolls.)                            |
+| 27  | かびん                     | 花瓶                   | kabin                         | -              | -                | Noun           | vase, flower vase                | かびんに花を入れます。(I put flowers in the vase.)                                 |
+| 28  | かがみ                     | 鏡                     | kagami                        | -              | -                | Noun           | mirror                           | かがみで髪をチェックします。(I check my hair in the mirror.)                       |
+| 29  | ひきだし                   | 引き出し               | hikidashi                     | -              | -                | Noun           | drawer                           | ひきだしに鍵を入れます。(I put the key in the drawer.)                             |
+| 30  | げんかん                   | 玄関                   | genkan                        | -              | -                | Noun           | entrance hall, foyer             | げんかんで靴を脱ぎます。(I take off my shoes at the entrance.)                     |
+| 31  | ろうか                     | 廊下                   | rouka                         | -              | -                | Noun           | corridor, hallway                | ろうかを走らないでください。(Please don't run in the hallway.)                     |
+| 32  | かべ                       | 壁                     | kabe                          | -              | -                | Noun           | wall                             | かべに写真をかけます。(I hang a picture on the wall.)                              |
+| 33  | いけ                       | 池                     | ike                           | -              | -                | Noun           | pond                             | いけに魚がいます。(There are fish in the pond.)                                    |
+| 34  | こうばん                   | 交番                   | kouban                        | -              | -                | Noun           | police box, police station       | こうばんで道を聞きました。(I asked for directions at the police box.)              |
+| 35  | もとのところ               | 元の所                 | moto no tokoro                | -              | -                | Noun           | original place                   | 本をもとのところに戻します。(I return the book to its original place.)             |
+| 36  | まわり                     | 周り                   | mawari                        | -              | -                | Noun           | surroundings, area around        | 駅のまわりにレストランがあります。(There are restaurants around the station.)      |
+| 37  | まんなか                   | 真ん中                 | mannaka                       | -              | -                | Noun           | middle, center                   | 部屋のまんなかにテーブルがあります。(There is a table in the middle of the room.)  |
+| 38  | すみ                       |                        | sumi                          | -              | -                | Noun           | corner                           | 教室のすみに本棚があります。(There is a bookshelf in the corner of the classroom.) |
+| 39  | まだ                       |                        | mada                          | -              | -                | Adverb         | still, not yet                   | 宿題はまだ終わっていません。(I haven't finished my homework yet.)                  |
+| 40  | ―ほど                      |                        | -hodo                         | -              | -                | Suffix         | about, approximately             | 3時間ほど勉強しました。(I studied for about 3 hours.)                              |
+| 41  | よていひょう               | 予定表                 | yoteihyou                     | -              | -                | Noun           | schedule, timetable              | よていひょうを確認してください。(Please check the schedule.)                       |
+| 42  | ごくろうさま               |                        | gokurousama                   | -              | -                | Expression     | thank you for your hard work     | 今日もごくろうさまでした。(Thank you for your hard work today.)                    |
+| 43  | きぼう                     | 希望                   | kibou                         | -              | -                | Noun           | hope, wish, desire               | きぼうがあれば教えてください。(Please let me know if you have any wishes.)         |
+| 44  | なにかごきぼうがありますか | 何かご希望がありますか | nanika go kibou ga arimasu ka | -              | -                | Phrase         | Do you have any requests?        | なにかごきぼうがありますか？(Do you have any requests?)                            |
+| 45  | ミュージカル               |                        | myuujikaru                    | -              | -                | Noun           | musical                          | 週末にミュージカルを見ます。(I will watch a musical this weekend.)                 |
+| 46  | それはいいですな           |                        | sore wa ii desu na            | -              | -                | Phrase         | That sounds good                 | 映画に行きませんか？それはいいですな。(Shall we go to a movie? That sounds good.)  |
+| 47  | まるい                     | 丸い                   | marui                         | まるくて       | まるくない       | Adjective      | round, circular                  | 月はまるいです。(The moon is round.)                                               |
+| 48  | つき                       | 月                     | tsuki                         | -              | -                | Noun           | moon                             | 夜、つきがきれいです。(The moon is beautiful at night.)                            |
+| 49  | ちきゅう                   | 地球                   | chikyuu                       | -              | -                | Noun           | Earth, globe                     | ちきゅうは青い惑星です。(Earth is a blue planet.)                                  |
+| 50  | うれしい                   |                        | ureshii                       | うれしくて     | うれしくない     | Adjective      | happy, glad                      | プレゼントをもらってうれしいです。(I'm happy to receive a gift.)                   |
+| 51  | いや（な）                 |                        | iya(na)                       | いやで         | いやじゃない     | Adjective      | unpleasant, disagreeable         | いやな天気です。(It's unpleasant weather.)                                         |
+| 52  | すると                     |                        | suruto                        | -              | -                | Conjunction    | then, thereupon                  | ボタンを押すと、ドアが開きます。(When you press the button, the door opens.)       |
+| 53  | めがさめます               | 目が覚めます           | mega samemasu                 | めがさめて     | めがさめない     | Verb           | to wake up, to awaken            | 朝7時にめがさめます。(I wake up at 7 in the morning.)                              |
+
+
 # Lesson 20 Vocabulary
 
 | No. | Vocabulary           | Kanji      | Romaji              | Part of Speech | Dictionary form | Nai-form       | Te-form      | Ta-form      | Meaning                                     | Example                            |
@@ -797,6 +982,7 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 27  | どうしようかな       |            | dou shiyou kana     | Expression     | -               | -              | -            | -            | What to do / let me see                     | 明日は雨だ、どうしようかな。       |
 | 28  | 良かったら           |            | yokattara           | Expression     | -               | -              | -            | -            | If you like it                              | 良かったら、一緒に行きませんか。   |
 | 29  | いろいろ             | 色々       | iroiro              | Adverb         | -               | -              | -            | -            | many things, diverse                        | いろいろな国から来ました。         |
+
 
 # Lesson 14 Vocabulary
 
@@ -860,6 +1046,7 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 - **onegai (お願い)**: Request or "please"
 - **shimasu (します)**: Polite form of the verb "to do"
 
+
 # Lesson 21 Vocabulary
 
 | No. | Vocabulary         | Kanji              | Romaji              | Part of Speech | Dictionary Form         | Te Form                   | Tai Form (Informal)           | Meaning                                              | Example                                                                             |
@@ -913,6 +1100,7 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 47  | ことがあります     | -                  | kotoga arimasu      | Expression     | ことがある              | -                         | -                             | have done something                                  | 日本に行ったことがあります。(I have been to Japan.)                                 |
 | 48  | jugyou             | 授業               | jugyou              | Noun           | 授業 (じゅぎょう)       | -                         | -                             | class                                                | 授業が始まります。(The class will start.)                                           |
 | 49  | shiken             | 試験               | shiken              | Noun           | 試験 (しけん)           | -                         | -                             | exam                                                 | 明日試験があります。(There is an exam tomorrow.)                                    |
+
 
 | No. | Vocabulary                   | Original Form | Kanji                    | Romaji                  | Part of Speech            | Te-Form        | Negative Form (informal) | Nai-Form (informal) | Meaning                        | Example                              |
 | --- | ---------------------------- | ------------- | ------------------------ | ----------------------- | ------------------------- | -------------- | ------------------------ | ------------------- | ------------------------------ | ------------------------------------ |
@@ -979,6 +1167,7 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 61  | かたち                       | -             | 形                       | katachi                 | Noun                      | -              | -                        | -                   | shape                          | 彼は形を変えました。                 |
 | 62  | かえられる                   | 変えられる    | 変えられる               | kaerareru               | Potential Verb            | 変えられて     | 変えられない             | 変えられない        | can change                     | 彼は形を変えられます。               |
 | 63  | かえられない                 | 変えられない  | 変えられない             | kaerarenai              | Potential Verb (Negative) | -              | -                        | -                   | cannot change                  | 彼は形を変えられません。             |
+
 
 # Lesson 8 Vocabulary
 
@@ -1048,6 +1237,7 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 62  | そろそろ、しつれいします       | そろそろ失礼します。         | It’s almost time to leave now.      | Sorosoro, shitsurei shimasu         | expression     | そろそろ失礼します。                   |
 | 63  | また いらっしゃってください    | またいらっしゃってください。 | Please come again.                  | Mata irasshatte kudasai             | expression     | またいらっしゃってください。           |
 
+
 # Lesson 11 Vocabulary
 
 | No. | Vocabulary            | Kanji            | Romaji            | Part of Speech | Meaning                                                                             |
@@ -1116,6 +1306,7 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 62  | それから              |                  | sorekara          | Conjunction    | And, further more                                                                   |
 | 63  | オーストラリア        |                  | ōsutoraria        | Noun           | Australia                                                                           |
 
+
 # Lesson 3 Vocabulary
 
 | No. | Vocabulary          | Kanji  | Romaji              | Meaning                              | Part of Speech |
@@ -1161,6 +1352,7 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 39  | じむしょ            |        | jimusho             | jimusho                              | noun           |
 | 40  | けんきゅう          |        | kenkyuu             | kenkyuu                              | noun           |
 | 41  | センター            |        | sentaa              | sentaa                               | noun           |
+
 
 # Lesson 7 Vocabulary
 
@@ -1209,6 +1401,7 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 41  | おみやげ     | お土産   | souvenir             | omiyage         | Noun           | お土産を買う (おみやげをかう) - Buy a souvenir  |
 | 42  | ヨーロッパ   |          | Europe               | yōroppa         | Noun           | ヨーロッパに行く - Go to Europe                 |
 
+
 # Lesson 24 Vocabulary
 
 | No. | Vocabulary                 | Kanji          | Romaji             | Part of Speech | Dictionary Form              | Te-form                       | Nai-form (Informal)              | Meaning                               | Example                                                               |
@@ -1253,6 +1446,7 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 15  | どうぞおげんきで               | どうぞ元気で                   | dōzo ogenki de                | Expression     |                               |                                |                                   | Please take care         | さようなら、どうぞおげんきで。(Goodbye, please take care of yourself.)    |
 | 16  | （いろいろ）おせわになりました | （いろいろ）お世話になりました | (iroiro) osewa ni narimashita | Expression     |                               |                                |                                   | You helped me a lot      | いろいろおせわになりました。ありがとう。(You helped me a lot. Thank you.) |
 | 17  | がんばります                   | 頑張ります                     | ganbarimasu                   | Verb           | がんばる (ganbaru)            | がんばって (ganbatte)          | がんばらない (ganbaranai)         | try                      | 試験にがんばります。(I'll do my best on the exam.)                        |
+
 
 # Lesson 6 Vocabulary
 
@@ -1318,6 +1512,7 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 57  | わかりました。         | **分かりました。**   | I see                        | wakarimashita        | Phrase         |            |            |          |                              |
 | 58  | じゃ、また。           |                      | See you [tomorrow]           | ja, mata             | Phrase         |            |            |          |                              |
 
+
 # Lesson 2 Vocabulary
 
 Minna No Nihongo Lesson 2 Vocabulary
@@ -1371,3 +1566,5 @@ Minna No Nihongo Lesson 2 Vocabulary
 | 45  | [どうも] ありがとう[ございます] |                           | Thank you [very much].                                        |
 | 46  | これから おせわになります       | これから お世話になります | I hope for your kind assistance hereafter.                    |
 | 47  | こちらこそ よろしく             |                           | I am pleased to meet you. (response to どうぞよろしく)        |
+
+
