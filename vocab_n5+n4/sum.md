@@ -1047,6 +1047,53 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 - **shimasu (します)**: Polite form of the verb "to do"
 
 
+# Lesson 31 Vocabulary
+
+| No. | Vocabulary                     | Kanji        | Romaji            | Te-form        | Nai-form         | Part of Speech      | Meaning                    | Example                                                                       |
+| --- | ------------------------------ | ------------ | ----------------- | -------------- | ---------------- | ------------------- | -------------------------- | ----------------------------------------------------------------------------- |
+| 1   | はじまります「式が～」         | 始まります   | hajimarimasu      | はじまって     | はじまらない     | Verb (intransitive) | start (ceremony ~)         | 授業は9時に始まります。(The class starts at 9.)                               |
+| 2   | つづけます                     | 続ける       | tsuzukemasu       | つづけて       | つづけない       | Verb (transitive)   | continue                   | 日本語の勉強を続けます。(I will continue studying Japanese.)                  |
+| 3   | みつけます                     | 見つめます   | mitsukemasu       | みつけて       | みつけない       | Verb (transitive)   | find                       | 鍵を見つけました。(I found the key.)                                          |
+| 4   | うけます「しけんを」           | 受けます     | ukemasu           | うけて         | うけない         | Verb (transitive)   | take (exam)                | 来週テストを受けます。(I will take the test next week.)                       |
+| 5   | にゅうがくします「だいがくに」 | 入学します   | nyuugaku shimasu  | にゅうがくして | にゅうがくしない | Suru verb           | enroll in                  | 四月に大学に入学します。(I will enroll in university in April.)               |
+| 6   | そつぎょうします「だいがくを」 | 卒業します   | sotsugyou shimasu | そつぎょうして | そつぎょうしない | Suru verb           | graduate                   | 来年大学を卒業します。(I will graduate from university next year.)            |
+| 7   | きゅうけいします               | 休憩します   | kyuukei shimasu   | きゅうけいして | きゅうけいしない | Suru verb           | take a break               | 昼ご飯の後で休憩します。(I'll take a break after lunch.)                      |
+| 8   | れんきゅう                     | 連休         | renkyuu           | -              | -                | Noun                | consecutive holidays       | ゴールデンウィークは連休です。(Golden Week is a series of holidays.)          |
+| 9   | さくぶん                       | 作文         | sakubun           | -              | -                | Noun                | essay                      | 宿題で作文を書きました。(I wrote an essay for homework.)                      |
+| 10  | てんらんかい                   | 展覧会       | tenrankai         | -              | -                | Noun                | exhibition                 | 美術館で展覧会を見ました。(I saw an exhibition at the art museum.)            |
+| 11  | けっこんしき                   | 結婚式       | kekkonshiki       | -              | -                | Noun                | wedding ceremony           | 友達の結婚式に行きました。(I went to my friend's wedding ceremony.)           |
+| 12  | 「お」そうしき                 | 「お」葬式   | (o)soushiki       | -              | -                | Noun                | funeral                    | おじいさんのお葬式に参加しました。(I attended my grandfather's funeral.)      |
+| 13  | しき                           | 式           | shiki             | -              | -                | Noun                | ceremony                   | 入学式は4月です。(The entrance ceremony is in April.)                         |
+| 14  | ほんしゃ                       | 本社         | honsha            | -              | -                | Noun                | headquarters               | 会社の本社は東京にあります。(The company headquarters is in Tokyo.)           |
+| 15  | してん                         | 支店         | shiten            | -              | -                | Noun                | branch                     | この銀行の支店は全国にあります。(This bank has branches nationwide.)          |
+| 16  | きょうかい                     | 教会         | kyoukai           | -              | -                | Noun                | church                     | 日曜日に教会に行きます。(I go to church on Sundays.)                          |
+| 17  | だいがくいん                   | 大学院       | daigakuin         | -              | -                | Noun                | graduate school            | 大学院で研究をしています。(I'm doing research in graduate school.)            |
+| 18  | どうぶつえん                   | 動物園       | doubutsuen        | -              | -                | Noun                | zoo                        | 週末に動物園に行きました。(I went to the zoo on the weekend.)                 |
+| 19  | おんせん                       | 温泉         | onsen             | -              | -                | Noun                | hot spring                 | 冬に温泉に入るのが好きです。(I like to bathe in hot springs in winter.)       |
+| 20  | おきゃく「さん」               | お客「さん」 | okyaku(san)       | -              | -                | Noun                | customer                   | お客さんが店に来ました。(A customer came to the store.)                       |
+| 21  | だれか                         |              | dareka            | -              | -                | Pronoun             | someone                    | だれかがドアをノックしています。(Someone is knocking on the door.)            |
+| 22  | ～のほう                       | ～の　方     | ~no hou           | -              | -                | Expression          | direction of ~             | 駅のほうに歩いています。(I'm walking toward the station.)                     |
+| 23  | ずっと                         |              | zutto             | -              | -                | Adverb              | all the time, continuously | ずっと雨が降っています。(It has been raining continuously.)                   |
+| 24  | のこります                     | 残ります     | nokorimasu        | のこって       | のこらない       | Verb (intransitive) | remain                     | 仕事が終わった後も会社に残ります。(I stay at the company after work is done.) |
+| 25  | つきに                         | 月に         | tsuki ni          | -              | -                | Expression          | per month                  | 月に一回映画を見ます。(I watch a movie once a month.)                         |
+| 26  | ふつうの                       | 普通の       | futsuu no         | -              | -                | Na-adjective        | normal, ordinary           | これは普通の鉛筆です。(This is an ordinary pencil.)                           |
+| 27  | インターネット                 |              | intaanetto        | -              | -                | Noun                | internet                   | インターネットで調べました。(I looked it up on the internet.)                 |
+| 28  | むら                           | 村           | mura              | -              | -                | Noun                | village                    | 山の近くに小さい村があります。(There is a small village near the mountain.)   |
+| 29  | えいがかん                     | 映画館       | eigakan           | -              | -                | Noun                | movie theater              | 友達と映画館に行きました。(I went to the movie theater with my friend.)       |
+| 30  | いや「な」                     | 嫌「な」     | iya(na)           | -              | -                | Na-adjective        | unpleasant, disagreeable   | いやな臭いがします。(There's an unpleasant smell.)                            |
+| 31  | そら                           | 空           | sora              | -              | -                | Noun                | sky                        | 空が青いです。(The sky is blue.)                                              |
+| 32  | とじます                       | 閉じます     | tojimasu          | とじて         | とじない         | Verb (transitive)   | close                      | 本を読み終わって閉じました。(I finished reading the book and closed it.)      |
+| 33  | とかい                         | 都会         | tokai             | -              | -                | Noun                | city                       | 都会の生活は忙しいです。(City life is busy.)                                  |
+| 34  | こどもたち                     | 子供たち     | kodomotachi       | -              | -                | Noun                | children                   | 子供たちが公園で遊んでいます。(Children are playing in the park.)             |
+| 35  | じゆうに                       | 自由に       | jiyuu ni          | -              | -                | Adverbial phrase    | freely                     | ここでは自由に話せます。(You can speak freely here.)                          |
+| 36  | せかいじゅう                   | 世界中       | sekaijuu          | -              | -                | Noun                | throughout the world       | 世界中の人々が音楽を楽しみます。(People throughout the world enjoy music.)    |
+| 37  | あつまります                   | 集まります   | atsumarimasu      | あつまって     | あつまらない     | Verb (intransitive) | gather                     | パーティーに多くの人が集まりました。(Many people gathered at the party.)      |
+| 38  | うつくしい                     | 美しい       | utsukushii        | -              | うつくしくない   | I-adjective         | beautiful                  | 富士山は美しい山です。(Mt. Fuji is a beautiful mountain.)                     |
+| 39  | しぜん                         | 自然         | shizen            | -              | -                | Noun                | nature                     | 自然の中で過ごすのが好きです。(I like spending time in nature.)               |
+| 40  | すばらしさ                     |              | subarashisa       | -              | -                | Noun                | greatness, splendor        | 音楽の素晴らしさを感じました。(I felt the greatness of the music.)            |
+| 41  | きがつきます                   | 気が付きます | ki ga tsukimasu   | きがついて     | きがつかない     | Expression          | notice, realize            | 間違いに気が付きました。(I noticed the mistake.)                              |
+
+
 # Lesson 21 Vocabulary
 
 | No. | Vocabulary         | Kanji              | Romaji              | Part of Speech | Dictionary Form         | Te Form                   | Tai Form (Informal)           | Meaning                                              | Example                                                                             |
