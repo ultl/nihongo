@@ -20,9 +20,9 @@
 | 16  | ひとり                | 一人             | hitori            | Counter        | One person                                                                          |
 | 17  | ふたり                | 二人             | futari            | Counter        | two person                                                                          |
 | 18  | ～にん                | ～人             | ~nin              | Counter        | ～ people                                                                           |
-| 19  | ～だい                | ～だい           | ~dai              | Counter        | ～ Counter for machines , cars, etc.)                                               |
-| 20  | ～まい                | ～まい           | ~mai              | Counter        | ～ Counters for paper, stamps, etc.)                                                |
-| 21  | ～かい                | ～かい           | ~kai              | Counter        | ～ Times                                                                            |
+| 19  | ～だい                | ～台             | ~dai              | Counter        | ～ Counter for machines , cars, etc.)                                               |
+| 20  | ～まい                | ～枚             | ~mai              | Counter        | ～ Counters for paper, stamps, etc.)                                                |
+| 21  | ～かい                | ～回             | ~kai              | Counter        | ～ Times                                                                            |
 | 22  | りんご                | りんご           | ringo             | Noun           | Apple                                                                               |
 | 23  | みかん                | みかん           | mikan             | Noun           | Mandarin Orange                                                                     |
 | 24  | サンドイッチ          |                  | sandoitchi        | Noun           | sandwich                                                                            |
