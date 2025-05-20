@@ -1,545 +1,265 @@
-# N5 Kanji
+# Japanese Kanji and Associated Vocabulary
 
-| Kanji | Hiragana   | Romaji    | Part of Speech | Example Phrase                  |
-| ----- | ---------- | --------- | -------------- | ------------------------------- |
-| 言    | いう       | iu        | Verb           | 言う (いう) - To say            |
-| 手    | て         | te        | Noun           | 手紙 (てがみ) - Letter          |
-| 自    | じ         | ji        | Noun           | 自分 (じぶん) - Oneself         |
-| 者    | もの       | mono      | Noun           | 医者 (いしゃ) - Doctor          |
-| 事    | こと       | koto      | Noun           | 仕事 (しごと) - Work            |
-| 思    | おもう     | omou      | Verb           | 思う (おもう) - To think        |
-| 会    | あう       | au        | Verb           | 会う (あう) - To meet           |
-| 家    | いえ       | ie        | Noun           | 家 (いえ) - House               |
-| 的    | てき       | teki      | Adjective      | 目的 (もくてき) - Purpose       |
-| 方    | かた       | kata      | Noun           | 方法 (ほうほう) - Method        |
-| 地    | ち         | chi       | Noun           | 地図 (ちず) - Map               |
-| 目    | め         | me        | Noun           | 目的 (もくてき) - Goal          |
-| 場    | ば         | ba        | Noun           | 場所 (ばしょ) - Place           |
-| 代    | だい       | dai       | Noun           | 時代 (じだい) - Era             |
-| 私    | わたし     | watashi   | Pronoun        | 私 (わたし) - I                 |
-| 立    | たつ       | tatsu     | Verb           | 立つ (たつ) - To stand          |
-| 物    | もの       | mono      | Noun           | 食べ物 (たべもの) - Food        |
-| 田    | た         | ta        | Noun           | 田んぼ (たんぼ) - Rice field    |
-| 体    | からだ     | karada    | Noun           | 体 (からだ) - Body              |
-| 動    | うごく     | ugoku     | Verb           | 動く (うごく) - To move         |
-| 社    | しゃ       | sha       | Noun           | 会社 (かいしゃ) - Company       |
-| 知    | しる       | shiru     | Verb           | 知る (しる) - To know           |
-| 理    | り         | ri        | Noun           | 理由 (りゆう) - Reason          |
-| 同    | おなじ     | onaji     | Adjective      | 同じ (おなじ) - Same            |
-| 心    | こころ     | kokoro    | Noun           | 心 (こころ) - Heart             |
-| 発    | はつ       | hatsu     | Noun           | 発音 (はつおん) - Pronunciation |
-| 作    | つくる     | tsukuru   | Verb           | 作る (つくる) - To make         |
-| 新    | あたらしい | atarashii | Adjective      | 新しい (あたらしい) - New       |
-| 世    | せ         | se        | Noun           | 世界 (せかい) - World           |
-| 度    | ど         | do        | Noun           | 一度 (いちど) - Once            |
-| 明    | あかるい   | akarui    | Adjective      | 明るい (あかるい) - Bright      |
-| 力    | ちから     | chikara   | Noun           | 力 (ちから) - Power             |
-| 意    | い         | i         | Noun           | 意味 (いみ) - Meaning           |
-| 用    | よう       | you       | Noun           | 使用 (しよう) - Use             |
-| 主    | しゅ       | shu       | Noun           | 主人 (しゅじん) - Master        |
-| 通    | とおる     | tooru     | Verb           | 通る (とおる) - To pass         |
-| 文    | ぶん       | bun       | Noun           | 文法 (ぶんぽう) - Grammar       |
-| 屋    | や         | ya        | Noun           | 本屋 (ほんや) - Bookstore       |
-| 業    | ぎょう     | gyou      | Noun           | 事業 (じぎょう) - Business      |
-| 持    | もつ       | motsu     | Verb           | 持つ (もつ) - To hold           |
-| 道    | みち       | michi     | Noun           | 道 (みち) - Road                |
-| 身    | み         | mi        | Noun           | 身体 (しんたい) - Body          |
-| 不    | ふ         | fu        | Prefix         | 不便 (ふべん) - Inconvenient    |
-| 口    | くち       | kuchi     | Noun           | 口 (くち) - Mouth               |
-| 多    | おおい     | ooi       | Adjective      | 多い (おおい) - Many            |
-| 野    | の         | no        | Noun           | 野菜 (やさい) - Vegetable       |
-| 考    | かんがえる | kangaeru  | Verb           | 考える (かんがえる) - To think  |
-| 開    | あける     | akeru     | Verb           | 開ける (あける) - To open       |
-| 教    | おしえる   | oshieru   | Verb           | 教える (おしえる) - To teach    |
-| 近    | ちかい     | chikai    | Adjective      | 近い (ちかい) - Near            |
-| 以    | い         | i         | Prefix         | 以上 (いじょう) - More than     |
-| 問    | もん       | mon       | Noun           | 問題 (もんだい) - Problem       |
-| 正    | ただしい   | tadashii  | Adjective      | 正しい (ただしい) - Correct     |
-| 真    | ま         | ma        | Noun           | 真実 (しんじつ) - Truth         |
-| 味    | あじ       | aji       | Noun           | 味 (あじ) - Taste               |
-| 界    | かい       | kai       | Noun           | 世界 (せかい) - World           |
-| 無    | む         | mu        | Prefix         | 無理 (むり) - Impossible        |
-| 少    | すこし     | sukoshi   | Adverb         | 少し (すこし) - A little        |
-| 海    | うみ       | umi       | Noun           | 海 (うみ) - Sea                 |
-| 切    | きる       | kiru      | Verb           | 切る (きる) - To cut            |
-| 重    | おもい     | omoi      | Adjective      | 重い (おもい) - Heavy           |
-| 集    | あつめる   | atsumeru  | Verb           | 集める (あつめる) - To collect  |
-| 員    | いん       | in        | Noun           | 会員 (かいいん) - Member        |
-| 公    | こう       | kou       | Noun           | 公園 (こうえん) - Park          |
-| 画    | が         | ga        | Noun           | 映画 (えいが) - Movie           |
-| 死    | しぬ       | shinu     | Verb           | 死ぬ (しぬ) - To die            |
-| 安    | やすい     | yasui     | Adjective      | 安い (やすい) - Cheap           |
-| 親    | おや       | oya       | Noun           | 親 (おや) - Parent              |
-| 強    | つよい     | tsuyoi    | Adjective      | 強い (つよい) - Strong          |
-| 使    | つかう     | tsukau    | Verb           | 使う (つかう) - To use          |
-| 朝    | あさ       | asa       | Noun           | 朝 (あさ) - Morning             |
-| 題    | だい       | dai       | Noun           | 問題 (もんだい) - Question      |
-| 仕    | し         | shi       | Noun           | 仕事 (しごと) - Work            |
-| 京    | きょう     | kyou      | Noun           | 東京 (とうきょう) - Tokyo       |
-| 足    | あし       | ashi      | Noun           | 足 (あし) - Foot                |
-| 品    | しな       | shina     | Noun           | 品物 (しなもの) - Goods         |
-| 着    | きる       | kiru      | Verb           | 着る (きる) - To wear           |
-| 別    | べつ       | betsu     | Verb           | 別れる (わかれる) - To separate |
-| 音    | おと       | oto       | Noun           | 音 (おと) - Sound               |
-| 元    | もと       | moto      | Noun           | 元気 (げんき) - Healthy         |
-| 特    | とく       | toku      | Adjective      | 特別 (とくべつ) - Special       |
-| 風    | かぜ       | kaze      | Noun           | 風 (かぜ) - Wind                |
-
-# N4 Kanji
-
-| Kanji | Hiragana | Romaji   | Example Phrase                    |
-| ----- | -------- | -------- | --------------------------------- |
-| 夜    | よる     | yoru     | 夜 (よる) - Night                 |
-| 空    | そら     | sora     | 空 (そら) - Sky                   |
-| 有    | ある     | aru      | 有る (ある) - To exist            |
-| 起    | おきる   | okiru    | 起きる (おきる) - To wake up      |
-| 運    | はこぶ   | hakobu   | 運ぶ (はこぶ) - To carry          |
-| 料    | りょう   | ryou     | 料理 (りょうり) - Cooking         |
-| 楽    | たのしい | tanoshii | 楽しい (たのしい) - Fun           |
-| 色    | いろ     | iro      | 色 (いろ) - Color                 |
-| 帰    | かえる   | kaeru    | 帰る (かえる) - To return         |
-| 始    | はじめる | hajimeru | 始める (はじめる) - To begin      |
-| 終    | おわる   | owaru    | 終わる (おわる) - To end          |
-| 計    | はかる   | hakaru   | 計る (はかる) - To measure        |
-| 院    | いん     | in       | 病院 (びょういん) - Hospital      |
-| 送    | おくる   | okuru    | 送る (おくる) - To send           |
-| 族    | ぞく     | zoku     | 家族 (かぞく) - Family            |
-| 映    | えい     | ei       | 映画 (えいが) - Movie             |
-| 買    | かう     | kau      | 買う (かう) - To buy              |
-| 病    | びょう   | byou     | 病気 (びょうき) - Illness         |
-| 早    | はやい   | hayai    | 早い (はやい) - Early             |
-| 質    | しつ     | shitsu   | 質問 (しつもん) - Question        |
-| 台    | だい     | dai      | 台所 (だいどころ) - Kitchen       |
-| 室    | しつ     | shitsu   | 教室 (きょうしつ) - Classroom     |
-| 可    | か       | ka       | 可能 (かのう) - Possible          |
-| 建    | たてる   | tateru   | 建てる (たてる) - To build        |
-| 転    | ころぶ   | korobu   | 転ぶ (ころぶ) - To fall           |
-| 医    | い       | i        | 医者 (いしゃ) - Doctor            |
-| 止    | とまる   | tomaru   | 止まる (とまる) - To stop         |
-| 字    | じ       | ji       | 漢字 (かんじ) - Kanji             |
-| 工    | こう     | kou      | 工場 (こうじょう) - Factory       |
-| 急    | いそぐ   | isogu    | 急ぐ (いそぐ) - To hurry          |
-| 図    | ず       | zu       | 図書館 (としょかん) - Library     |
-| 黒    | くろ     | kuro     | 黒い (くろい) - Black             |
-| 花    | はな     | hana     | 花 (はな) - Flower                |
-| 英    | えい     | ei       | 英語 (えいご) - English           |
-| 走    | はしる   | hashiru  | 走る (はしる) - To run            |
-| 青    | あお     | ao       | 青い (あおい) - Blue              |
-| 答    | こたえる | kotaeru  | 答える (こたえる) - To answer     |
-| 紙    | かみ     | kami     | 紙 (かみ) - Paper                 |
-| 歌    | うた     | uta      | 歌 (うた) - Song                  |
-| 注    | ちゅう   | chuu     | 注意 (ちゅうい) - Attention       |
-| 赤    | あか     | aka      | 赤い (あかい) - Red               |
-| 春    | はる     | haru     | 春 (はる) - Spring                |
-| 館    | かん     | kan      | 映画館 (えいがかん) - Cinema      |
-| 旅    | たび     | tabi     | 旅行 (りょこう) - Travel          |
-| 験    | けん     | ken      | 試験 (しけん) - Exam              |
-| 写    | しゃ     | sha      | 写真 (しゃしん) - Photo           |
-| 去    | さる     | saru     | 去る (さる) - To leave            |
-| 研    | けん     | ken      | 研究 (けんきゅう) - Research      |
-| 飲    | のむ     | nomu     | 飲む (のむ) - To drink            |
-| 肉    | にく     | niku     | 肉 (にく) - Meat                  |
-| 服    | ふく     | fuku     | 服 (ふく) - Clothes               |
-| 銀    | ぎん     | gin      | 銀行 (ぎんこう) - Bank            |
-| 茶    | ちゃ     | cha      | 茶 (ちゃ) - Tea                   |
-| 究    | きゅう   | kyuu     | 研究 (けんきゅう) - Research      |
-| 洋    | よう     | you      | 洋服 (ようふく) - Western clothes |
-| 兄    | あに     | ani      | 兄 (あに) - Older brother         |
-| 秋    | あき     | aki      | 秋 (あき) - Autumn                |
-| 堂    | どう     | dou      | 食堂 (しょくどう) - Cafeteria     |
-| 週    | しゅう   | shuu     | 週末 (しゅうまつ) - Weekend       |
-| 習    | ならう   | narau    | 習う (ならう) - To learn          |
-| 試    | ためす   | tamesu   | 試す (ためす) - To try            |
-| 夏    | なつ     | natsu    | 夏 (なつ) - Summer                |
-| 弟    | おとうと | otouto   | 弟 (おとうと) - Younger brother   |
-| 鳥    | とり     | tori     | 鳥 (とり) - Bird                  |
-| 犬    | いぬ     | inu      | 犬 (いぬ) - Dog                   |
-| 夕    | ゆう     | yuu      | 夕方 (ゆうがた) - Evening         |
-| 魚    | さかな   | sakana   | 魚 (さかな) - Fish                |
-| 借    | かりる   | kariru   | 借りる (かりる) - To borrow       |
-| 飯    | めし     | meshi    | ご飯 (ごはん) - Meal              |
-| 駅    | えき     | eki      | 駅 (えき) - Station               |
-| 昼    | ひる     | hiru     | 昼 (ひる) - Noon                  |
-| 冬    | ふゆ     | fuyu     | 冬 (ふゆ) - Winter                |
-| 姉    | あね     | ane      | 姉 (あね) - Older sister          |
-| 曜    | よう     | you      | 曜日 (ようび) - Day of the week   |
-| 漢    | かん     | kan      | 漢字 (かんじ) - Kanji             |
-| 牛    | うし     | ushi     | 牛 (うし) - Cow                   |
-| 妹    | いもうと | imouto   | 妹                                |
-
-# N3 Kanji
-
-| Kanji | Hiragana | Romaji | Example Phrase |
-| ----- | -------- | ------ | -------------- |
-
-| Kanji | Hiragana   | Romaji     | Example Phrase                        |
-| ----- | ---------- | ---------- | ------------------------------------- |
-| 合    | あう       | au         | 合う (あう) - To match                |
-| 部    | ぶ         | bu         | 部屋 (へや) - Room                    |
-| 彼    | かれ       | kare       | 彼 (かれ) - He                        |
-| 内    | うち       | uchi       | 内 (うち) - Inside                    |
-| 実    | じつ       | jitsu      | 実際 (じっさい) - Reality             |
-| 当    | あたる     | ataru      | 当たる (あたる) - To hit              |
-| 戦    | たたかう   | tatakau    | 戦う (たたかう) - To fight            |
-| 性    | せい       | sei        | 性格 (せいかく) - Personality         |
-| 対    | たい       | tai        | 対応 (たいおう) - Correspondence      |
-| 関    | かん       | kan        | 関係 (かんけい) - Relationship        |
-| 感    | かん       | kan        | 感じる (かんじる) - To feel           |
-| 定    | てい       | tei        | 定める (さだめる) - To decide         |
-| 政    | せい       | sei        | 政治 (せいじ) - Politics              |
-| 取    | とる       | toru       | 取る (とる) - To take                 |
-| 所    | ところ     | tokoro     | 所 (ところ) - Place                   |
-| 現    | げん       | gen        | 現在 (げんざい) - Present             |
-| 最    | さい       | sai        | 最後 (さいご) - Last                  |
-| 化    | か         | ka         | 文化 (ぶんか) - Culture               |
-| 民    | みん       | min        | 民族 (みんぞく) - Ethnic group        |
-| 相    | あい       | ai         | 相手 (あいて) - Partner               |
-| 法    | ほう       | hou        | 法律 (ほうりつ) - Law                 |
-| 全    | ぜん       | zen        | 全部 (ぜんぶ) - All                   |
-| 情    | じょう     | jou        | 情報 (じょうほう) - Information       |
-| 向    | むかう     | mukau      | 向かう (むかう) - To face             |
-| 平    | へい       | hei        | 平和 (へいわ) - Peace                 |
-| 成    | せい       | sei        | 成功 (せいこう) - Success             |
-| 経    | けい       | kei        | 経済 (けいざい) - Economy             |
-| 信    | しん       | shin       | 信じる (しんじる) - To believe        |
-| 面    | めん       | men        | 面白い (おもしろい) - Interesting     |
-| 連    | れん       | ren        | 連絡 (れんらく) - Contact             |
-| 原    | げん       | gen        | 原因 (げんいん) - Cause               |
-| 顔    | かお       | kao        | 顔 (かお) - Face                      |
-| 機    | き         | ki         | 機会 (きかい) - Opportunity           |
-| 次    | つぎ       | tsugi      | 次 (つぎ) - Next                      |
-| 数    | かず       | kazu       | 数 (かず) - Number                    |
-| 美    | び         | bi         | 美しい (うつくしい) - Beautiful       |
-| 回    | かい       | kai        | 回る (まわる) - To turn               |
-| 表    | ひょう     | hyou       | 表 (ひょう) - Table/Chart             |
-| 声    | こえ       | koe        | 声 (こえ) - Voice                     |
-| 報    | ほう       | hou        | 報告 (ほうこく) - Report              |
-| 要    | よう       | you        | 要る (いる) - To need                 |
-| 変    | へん       | hen        | 変わる (かわる) - To change           |
-| 神    | かみ       | kami       | 神 (かみ) - God                       |
-| 記    | き         | ki         | 記録 (きろく) - Record                |
-| 和    | わ         | wa         | 和食 (わしょく) - Japanese food       |
-| 引    | ひく       | hiku       | 引く (ひく) - To pull                 |
-| 治    | なおす     | naosu      | 治す (なおす) - To heal               |
-| 決    | きめる     | kimeru     | 決める (きめる) - To decide           |
-| 太    | ふとい     | futoi      | 太い (ふとい) - Thick                 |
-| 込    | こむ       | komu       | 込む (こむ) - To be crowded           |
-| 受    | うける     | ukeru      | 受ける (うける) - To receive          |
-| 解    | かい       | kai        | 解決 (かいけつ) - Solution            |
-| 市    | し         | shi        | 市場 (いちば) - Market                |
-| 期    | き         | ki         | 期間 (きかん) - Period                |
-| 様    | さま       | sama       | 様子 (ようす) - Appearance            |
-| 活    | かつ       | katsu      | 生活 (せいかつ) - Life                |
-| 頭    | あたま     | atama      | 頭 (あたま) - Head                    |
-| 組    | くみ       | kumi       | 組 (くみ) - Group                     |
-| 指    | ゆび       | yubi       | 指 (ゆび) - Finger                    |
-| 説    | せつ       | setsu      | 説明 (せつめい) - Explanation         |
-| 能    | のう       | nou        | 能力 (のうりょく) - Ability           |
-| 葉    | は         | ha         | 葉 (は) - Leaf                        |
-| 流    | ながれる   | nagareru   | 流れる (ながれる) - To flow           |
-| 然    | ぜん       | zen        | 自然 (しぜん) - Nature                |
-| 初    | はじめ     | hajime     | 初め (はじめ) - Beginning             |
-| 在    | ざい       | zai        | 存在 (そんざい) - Existence           |
-| 調    | しらべる   | shiraberu  | 調べる (しらべる) - To investigate    |
-| 笑    | わらう     | warau      | 笑う (わらう) - To laugh              |
-| 議    | ぎ         | gi         | 会議 (かいぎ) - Meeting               |
-| 直    | なおす     | naosu      | 直す (なおす) - To fix                |
-| 夫    | おっと     | otto       | 夫 (おっと) - Husband                 |
-| 選    | えらぶ     | erabu      | 選ぶ (えらぶ) - To choose             |
-| 権    | けん       | ken        | 権利 (けんり) - Rights                |
-| 利    | り         | ri         | 利用 (りよう) - Use                   |
-| 制    | せい       | sei        | 制度 (せいど) - System                |
-| 続    | つづく     | tsuzuku    | 続く (つづく) - To continue           |
-| 石    | いし       | ishi       | 石 (いし) - Stone                     |
-| 進    | すすむ     | susumu     | 進む (すすむ) - To advance            |
-| 伝    | つたえる   | tsutaeru   | 伝える (つたえる) - To convey         |
-| 加    | くわえる   | kuwaeru    | 加える (くわえる) - To add            |
-| 助    | たすける   | tasukeru   | 助ける (たすける) - To help           |
-| 点    | てん       | ten        | 点 (てん) - Point                     |
-| 産    | さん       | san        | 生産 (せいさん) - Production          |
-| 務    | む         | mu         | 事務 (じむ) - Office work             |
-| 件    | けん       | ken        | 事件 (じけん) - Incident              |
-| 命    | いのち     | inochi     | 命 (いのち) - Life                    |
-| 番    | ばん       | ban        | 番号 (ばんごう) - Number              |
-| 落    | おちる     | ochiru     | 落ちる (おちる) - To fall             |
-| 付    | つける     | tsukeru    | 付ける (つける) - To attach           |
-| 得    | える       | eru        | 得る (える) - To obtain               |
-| 好    | すき       | suki       | 好き (すき) - Like                    |
-| 違    | ちがう     | chigau     | 違う (ちがう) - To differ             |
-| 殺    | ころす     | korosu     | 殺す (ころす) - To kill               |
-| 置    | おく       | oku        | 置く (おく) - To place                |
-| 返    | かえす     | kaesu      | 返す (かえす) - To return             |
-| 論    | ろん       | ron        | 論文 (ろんぶん) - Thesis              |
-| 際    | さい       | sai        | 国際 (こくさい) - International       |
-| 歳    | さい       | sai        | 年齢 (ねんれい) - Age                 |
-| 反    | はん       | han        | 反対 (はんたい) - Opposite            |
-| 形    | かたち     | katachi    | 形 (かたち) - Shape                   |
-| 光    | ひかり     | hikari     | 光 (ひかり) - Light                   |
-| 首    | くび       | kubi       | 首 (くび) - Neck                      |
-| 勝    | かつ       | katsu      | 勝つ (かつ) - To win                  |
-| 必    | かならず   | kanarazu   | 必ず (かならず) - Surely              |
-| 係    | かかり     | kakari     | 係 (かかり) - Person in charge        |
-| 由    | よし       | yoshi      | 由 (よし) - Reason                    |
-| 愛    | あい       | ai         | 愛 (あい) - Love                      |
-| 都    | みやこ     | miyako     | 都 (みやこ) - Capital                 |
-| 放    | はなす     | hanasu     | 放す (はなす) - To release            |
-| 確    | たしか     | tashika    | 確か (たしか) - Certain               |
-| 過    | すぎる     | sugiru     | 過ぎる (すぎる) - To exceed           |
-| 約    | やく       | yaku       | 約束 (やくそく) - Promise             |
-| 馬    | うま       | uma        | 馬 (うま) - Horse                     |
-| 状    | じょう     | jou        | 状況 (じょうきょう) - Situation       |
-| 想    | おもう     | omou       | 想う (おもう) - To think              |
-| 官    | かん       | kan        | 官僚 (かんりょう) - Bureaucrat        |
-| 交    | まじわる   | majiwaru   | 交わる (まじわる) - To intersect      |
-| 米    | こめ       | kome       | 米 (こめ) - Rice                      |
-| 配    | くばる     | kubaru     | 配る (くばる) - To distribute         |
-| 若    | わかい     | wakai      | 若い (わかい) - Young                 |
-| 資    | し         | shi        | 資料 (しりょう) - Materials           |
-| 常    | つね       | tsune      | 常に (つねに) - Always                |
-| 果    | はたす     | hatasu     | 果たす (はたす) - To fulfill          |
-| 呼    | よぶ       | yobu       | 呼ぶ (よぶ) - To call                 |
-| 共    | とも       | tomo       | 共に (ともに) - Together              |
-| 残    | のこる     | nokoru     | 残る (のこる) - To remain             |
-| 判    | はん       | han        | 判断 (はんだん) - Judgment            |
-| 役    | やく       | yaku       | 役割 (やくわり) - Role                |
-| 他    | ほか       | hoka       | 他 (ほか) - Other                     |
-| 術    | じゅつ     | jutsu      | 技術 (ぎじゅつ) - Technology          |
-| 支    | ささえる   | sasaeru    | 支える (ささえる) - To support        |
-| 両    | りょう     | ryou       | 両方 (りょうほう) - Both              |
-| 乗    | のる       | noru       | 乗る (のる) - To ride                 |
-| 済    | すむ       | sumu       | 済む (すむ) - To finish               |
-| 供    | そなえる   | sonaeru    | 供える (そなえる) - To offer          |
-| 格    | かく       | kaku       | 格好 (かっこう) - Appearance          |
-| 打    | うつ       | utsu       | 打つ (うつ) - To hit                  |
-| 御    | ご         | go         | 御飯 (ごはん) - Meal                  |
-| 断    | ことわる   | kotowaru   | 断る (ことわる) - To refuse           |
-| 式    | しき       | shiki      | 式 (しき) - Ceremony                  |
-| 師    | し         | shi        | 医師 (いし) - Doctor                  |
-| 告    | つげる     | tsugeru    | 告げる (つげる) - To inform           |
-| 深    | ふかい     | fukai      | 深い (ふかい) - Deep                  |
-| 存    | そん       | son        | 存在 (そんざい) - Existence           |
-| 争    | あらそう   | arasou     | 争う (あらそう) - To compete          |
-| 覚    | おぼえる   | oboeru     | 覚える (おぼえる) - To remember       |
-| 側    | がわ       | gawa       | 側 (がわ) - Side                      |
-| 飛    | とぶ       | tobu       | 飛ぶ (とぶ) - To fly                  |
-| 参    | さん       | san        | 参加 (さんか) - Participation         |
-| 突    | つく       | tsuku      | 突く (つく) - To poke                 |
-| 容    | よう       | you        | 容器 (ようき) - Container             |
-| 育    | そだつ     | sodatsu    | 育つ (そだつ) - To grow               |
-| 構    | かまう     | kamau      | 構う (かまう) - To care about         |
-| 認    | みとめる   | mitomeru   | 認める (みとめる) - To recognize      |
-| 位    | くらい     | kurai      | 位 (くらい) - Rank                    |
-| 達    | たつ       | tatsu      | 達する (たっする) - To reach          |
-| 守    | まもる     | mamoru     | 守る (まもる) - To protect            |
-| 満    | みちる     | michiru    | 満ちる (みちる) - To be full          |
-| 消    | けす       | kesu       | 消す (けす) - To erase                |
-| 任    | にん       | nin        | 任務 (にんむ) - Duty                  |
-| 居    | いる       | iru        | 居る (いる) - To exist                |
-| 予    | よ         | yo         | 予定 (よてい) - Plan                  |
-| 路    | みち       | michi      | 路 (みち) - Road                      |
-| 座    | すわる     | suwaru     | 座る (すわる) - To sit                |
-| 客    | きゃく     | kyaku      | 客 (きゃく) - Guest                   |
-| 船    | ふね       | fune       | 船 (ふね) - Ship                      |
-| 追    | おう       | ou         | 追う (おう) - To chase                |
-| 背    | せ         | se         | 背 (せ) - Back                        |
-| 観    | かん       | kan        | 観光 (かんこう) - Sightseeing         |
-| 誰    | だれ       | dare       | 誰 (だれ) - Who                       |
-| 息    | いき       | iki        | 息 (いき) - Breath                    |
-| 失    | うしなう   | ushinau    | 失う (うしなう) - To lose             |
-| 老    | ろう       | rou        | 老人 (ろうじん) - Elderly person      |
-| 良    | よい       | yoi        | 良い (よい) - Good                    |
-| 示    | しめす     | shimesu    | 示す (しめす) - To show               |
-| 号    | ごう       | gou        | 番号 (ばんごう) - Number              |
-| 職    | しょく     | shoku      | 職業 (しょくぎょう) - Occupation      |
-| 王    | おう       | ou         | 王 (おう) - King                      |
-| 識    | しき       | shiki      | 知識 (ちしき) - Knowledge             |
-| 警    | けい       | kei        | 警察 (けいさつ) - Police              |
-| 優    | やさしい   | yasashii   | 優しい (やさしい) - Kind              |
-| 投    | なげる     | nageru     | 投げる (なげる) - To throw            |
-| 局    | きょく     | kyoku      | 郵便局 (ゆうびんきょく) - Post office |
-| 難    | むずかしい | muzukashii | 難しい (むずかしい) - Difficult       |
-| 種    | たね       | tane       | 種 (たね) - Seed                      |
-| 念    | ねん       | nen        | 記念 (きねん) - Commemoration         |
-| 寄    | よる       | yoru       | 寄る (よる) - To approach             |
-| 商    | しょう     | shou       | 商売 (しょうばい) - Business          |
-| 害    | がい       | gai        | 害 (がい) - Harm                      |
-| 頼    | たのむ     | tanomu     | 頼む (たのむ) - To request            |
-| 横    | よこ       | yoko       | 横 (よこ) - Side                      |
-| 増    | ふえる     | fueru      | 増える (ふえる) - To increase         |
-| 差    | さ         | sa         | 差 (さ) - Difference                  |
-| 苦    | くるしい   | kurushii   | 苦しい (くるしい) - Painful           |
-| 収    | おさめる   | osameru    | 収める (おさめる) - To obtain         |
-| 段    | だん       | dan        | 段階 (だんかい) - Stage               |
-| 俺    | おれ       | ore        | 俺 (おれ) - I (male)                  |
-| 渡    | わたる     | wataru     | 渡る (わたる) - To cross              |
-| 与    | あたえる   | ataeru     | 与える (あたえる) - To give           |
-| 演    | えん       | en         | 演技 (えんぎ) - Acting                |
-| 備    | そなえる   | sonaeru    | 備える (そなえる) - To prepare        |
-| 申    | もうす     | mousu      | 申す (もうす) - To say (humble)       |
-| 例    | れい       | rei        | 例 (れい) - Example                   |
-| 働    | はたらく   | hataraku   | 働く (はたらく) - To work             |
-| 景    | けい       | kei        | 景色 (けしき) - Scenery               |
-| 抜    | ぬく       | nuku       | 抜く (ぬく) - To pull out             |
-| 遠    | とおい     | tooi       | 遠い (とおい) - Far                   |
-| 絶    | たえる     | taeru      | 絶える (たえる) - To cease            |
-| 負    | まける     | makeru     | 負ける (まける) - To lose             |
-| 福    | ふく       | fuku       | 福 (ふく) - Fortune                   |
-| 球    | たま       | tama       | 球 (たま) - Ball                      |
-| 酒    | さけ       | sake       | 酒 (さけ) - Alcohol                   |
-| 君    | きみ       | kimi       | 君 (きみ) - You                       |
-| 察    | さっする   | sassuru    | 察する (さっする) - To guess          |
-| 望    | のぞむ     | nozomu     | 望む (のぞむ) - To hope               |
-| 婚    | こん       | kon        | 結婚 (けっこん) - Marriage            |
-| 単    | たん       | tan        | 単語 (たんご) - Word                  |
-| 押    | おす       | osu        | 押す (おす) - To push                 |
-| 割    | わる       | waru       | 割る (わる) - To divide               |
-| 限    | かぎる     | kagiru     | 限る (かぎる) - To limit              |
-| 戻    | もどる     | modoru     | 戻る (もどる) - To return             |
-| 科    | か         | ka         | 科学 (かがく) - Science               |
-| 求    | もとめる   | motomeru   | 求める (もとめる) - To seek           |
-| 談    | だん       | dan        | 相談 (そうだん) - Consultation        |
-| 降    | おりる     | oriru      | 降りる (おりる) - To descend          |
-| 妻    | つま       | tsuma      | 妻 (つま) - Wife                      |
-| 岡    | おか       | oka        | 岡 (おか) - Hill                      |
-| 熱    | ねつ       | netsu      | 熱 (ねつ) - Fever                     |
-| 浮    | うく       | uku        | 浮く (うく) - To float                |
-| 等    | など       | nado       | 等 (など) - Etcetera                  |
-| 末    | すえ       | sue        | 末 (すえ) - End                       |
-| 幸    | しあわせ   | shiawase   | 幸せ (しあわせ) - Happiness           |
-| 草    | くさ       | kusa       | 草 (くさ) - Grass                     |
-| 越    | こえる     | koeru      | 越える (こえる) - To cross            |
-| 登    | のぼる     | noboru     | 登る (のぼる) - To climb              |
-| 類    | るい       | rui        | 種類 (しゅるい) - Type                |
-| 未    | み         | mi         | 未満 (みまん) - Less than             |
-| 規    | き         | ki         | 規則 (きそく) - Rule                  |
-| 精    | せい       | sei        | 精神 (せいしん) - Spirit              |
-| 抱    | だく       | daku       | 抱く (だく) - To embrace              |
-| 労    | ろう       | rou        | 労働 (ろうどう) - Labor               |
-| 処    | しょ       | sho        | 処理 (しょり) - Processing            |
-| 退    | しりぞく   | shirizoku  | 退く (しりぞく) - To retreat          |
-| 費    | ひ         | hi         | 費用 (ひよう) - Expense               |
-| 非    | ひ         | hi         | 非常 (ひじょう) - Emergency           |
-| 喜    | よろこぶ   | yorokobu   | 喜ぶ (よろこぶ) - To rejoice          |
-| 娘    | むすめ     | musume     | 娘 (むすめ) - Daughter                |
-| 逃    | にげる     | nigeru     | 逃げる (にげる) - To escape           |
-| 探    | さがす     | sagasu     | 探す (さがす) - To search             |
-| 犯    | はん       | han        | 犯人 (はんにん) - Criminal            |
-| 薬    | くすり     | kusuri     | 薬 (くすり) - Medicine                |
-| 園    | えん       | en         | 公園 (こうえん) - Park                |
-| 疑    | うたがう   | utagau     | 疑う (うたがう) - To doubt            |
-| 緒    | しょ       | sho        | 一緒 (いっしょ) - Together            |
-| 静    | しずか     | shizuka    | 静か (しずか) - Quiet                 |
-| 具    | ぐ         | gu         | 道具 (どうぐ) - Tool                  |
-| 席    | せき       | seki       | 席 (せき) - Seat                      |
-| 速    | はやい     | hayai      | 速い (はやい) - Fast                  |
-| 舞    | まう       | mau        | 舞う (まう) - To dance                |
-| 宿    | やど       | yado       | 宿 (やど) - Inn                       |
-| 程    | ほど       | hodo       | 程 (ほど) - Extent                    |
-| 倒    | たおれる   | taoreru    | 倒れる (たおれる) - To fall           |
-| 寝    | ねる       | neru       | 寝る (ねる) - To sleep                |
-| 宅    | たく       | taku       | 自宅 (じたく) - One's home            |
-| 絵    | え         | e          | 絵 (え) - Picture                     |
-| 破    | やぶる     | yaburu     | 破る (やぶる) - To break              |
-| 庭    | にわ       | niwa       | 庭 (にわ) - Garden                    |
-| 婦    | ふ         | fu         | 主婦 (しゅふ) - Housewife             |
-| 余    | あまる     | amaru      | 余る (あまる) - To remain             |
-| 訪    | たずねる   | tazuneru   | 訪ねる (たずねる) - To visit          |
-| 冷    | つめたい   | tsumetai   | 冷たい (つめたい) - Cold              |
-| 暮    | くらす     | kurasu     | 暮らす (くらす) - To live             |
-| 腹    | はら       | hara       | 腹 (はら) - Stomach                   |
-| 危    | あぶない   | abunai     | 危ない (あぶない) - Dangerous         |
-| 許    | ゆるす     | yurusu     | 許す (ゆるす) - To forgive            |
-| 似    | にる       | niru       | 似る (にる) - To resemble             |
-| 険    | けわしい   | kewashii   | 険しい (けわしい) - Steep             |
-| 財    | ざい       | zai        | 財産 (ざいさん) - Property            |
-| 遊    | あそぶ     | asobu      | 遊ぶ (あそぶ) - To play               |
-| 雑    | ざつ       | zatsu      | 雑誌 (ざっし) - Magazine              |
-| 恐    | おそれる   | osoreru    | 恐れる (おそれる) - To fear           |
-| 値    | ね         | ne         | 値段 (ねだん) - Price                 |
-| 暗    | くらい     | kurai      | 暗い (くらい) - Dark                  |
-| 積    | つむ       | tsumu      | 積む (つむ) - To pile up              |
-| 夢    | ゆめ       | yume       | 夢 (ゆめ) - Dream                     |
-| 痛    | いたい     | itai       | 痛い (いたい) - Painful               |
-| 富    | とみ       | tomi       | 富 (とみ) - Wealth                    |
-| 刻    | きざむ     | kizamu     | 刻む (きざむ) - To carve              |
-| 鳴    | なる       | naru       | 鳴る (なる) - To ring                 |
-| 欲    | ほしい     | hoshii     | 欲しい (ほしい) - Want                |
-| 途    | みち       | michi      | 途中 (とちゅう) - On the way          |
-| 曲    | まがる     | magaru     | 曲がる (まがる) - To turn             |
-| 耳    | みみ       | mimi       | 耳 (みみ) - Ear                       |
-| 完    | かん       | kan        | 完成 (かんせい) - Completion          |
-| 願    | ねがう     | negau      | 願う (ねがう) - To wish               |
-| 罪    | つみ       | tsumi      | 罪 (つみ) - Crime                     |
-| 陽    | よう       | you        | 太陽 (たいよう) - Sun                 |
-| 亡    | なくなる   | nakunaru   | 亡くなる (なくなる) - To pass away    |
-| 散    | ちる       | chiru      | 散る (ちる) - To scatter              |
-| 昨    | きのう     | kinou      | 昨日 (きのう) - Yesterday             |
-| 怒    | おこる     | okoru      | 怒る (おこる) - To get angry          |
-| 留    | とめる     | tomeru     | 留める (とめる) - To stop             |
-| 礼    | れい       | rei        | 礼 (れい) - Thanks                    |
-| 列    | れつ       | retsu      | 列 (れつ) - Line                      |
-| 雪    | ゆき       | yuki       | 雪 (ゆき) - Snow                      |
-| 払    | はらう     | harau      | 払う (はらう) - To pay                |
-| 給    | きゅう     | kyuu       | 給料 (きゅうりょう) - Salary          |
-| 敗    | やぶれる   | yabureru   | 敗れる (やぶれる) - To be defeated    |
-| 捕    | つかまえる | tsukamaeru | 捕まえる (つかまえる) - To catch      |
-| 忘    | わすれる   | wasureru   | 忘れる (わすれる) - To forget         |
-| 晴    | はれる     | hareru     | 晴れる (はれる) - To clear up         |
-| 因    | いん       | in         | 原因 (げんいん) - Cause               |
-| 折    | おる       | oru        | 折る (おる) - To fold                 |
-| 迎    | むかえる   | mukaeru    | 迎える (むかえる) - To welcome        |
-| 悲    | かなしい   | kanashii   | 悲しい (かなしい) - Sad               |
-| 港    | みなと     | minato     | 港 (みなと) - Port                    |
-| 責    | せめる     | semeru     | 責める (せめる) - To blame            |
-| 除    | のぞく     | nozoku     | 除く (のぞく) - To remove             |
-| 困    | こまる     | komaru     | 困る (こまる) - To be troubled        |
-| 閉    | しめる     | shimeru    | 閉める (しめる) - To close            |
-| 吸    | すう       | suu        | 吸う (すう) - To inhale               |
-| 髪    | かみ       | kami       | 髪 (かみ) - Hair                      |
-| 束    | たば       | taba       | 束 (たば) - Bundle                    |
-| 眠    | ねむる     | nemuru     | 眠る (ねむる) - To sleep              |
-| 易    | やさしい   | yasashii   | 易しい (やさしい) - Easy              |
-| 窓    | まど       | mado       | 窓 (まど) - Window                    |
-| 祖    | そ         | so         | 祖父 (そふ) - Grandfather             |
-| 勤    | つとめる   | tsutomeru  | 勤める (つとめる) - To work           |
-| 昔    | むかし     | mukashi    | 昔 (むかし) - Long ago                |
-| 便    | べん       | ben        | 便利 (べんり) - Convenient            |
-| 適    | てき       | teki       | 適当 (てきとう) - Suitable            |
-| 吹    | ふく       | fuku       | 吹く (ふく) - To blow                 |
-| 候    | こう       | kou        | 気候 (きこう) - Climate               |
-| 怖    | こわい     | kowai      | 怖い (こわい) - Scary                 |
-| 辞    | やめる     | yameru     | 辞める (やめる) - To quit             |
-| 否    | ひ         | hi         | 否定 (ひてい) - Denial                |
-| 遅    | おくれる   | okureru    | 遅れる (おくれる) - To be late        |
-| 煙    | けむり     | kemuri     | 煙 (けむり) - Smoke                   |
-| 徒    | と         | to         | 徒歩 (とほ) - On foot                 |
-| 欠    | かける     | kakeru     | 欠ける (かける) - To lack             |
-| 迷    | まよう     | mayou      | 迷う (まよう) - To get lost           |
-| 洗    | あらう     | arau       | 洗う (あらう) - To wash               |
-| 互    | たがい     | tagai      | 互い (たがい) - Mutual                |
-| 才    | さい       | sai        | 天才 (てんさい) - Genius              |
-| 更    | さら       | sara       | 更に (さらに) - Furthermore           |
-| 歯    | は         | ha         | 歯 (は) - Tooth                       |
-| 盗    | ぬすむ     | nusumu     | 盗む (ぬすむ) - To steal              |
-| 慣    | なれる     | nareru     | 慣れる (なれる) - To get used to      |
-| 晩    | ばん       | ban        | 晩 (ばん) - Evening                   |
-| 箱    | はこ       | hako       | 箱 (はこ) - Box                       |
-| 到    | いたる     | itaru      | 到る (いたる) - To reach              |
-| 頂    | いただく   | itadaku    | 頂く (いただく) - To receive (humble) |
-| 杯    | はい       | hai        | 一杯 (いっぱい) - One cup             |
-| 皆    | みな       | mina       | 皆 (みな) - Everyone                  |
-| 招    | まねく     | maneku     | 招く (まねく) - To invite             |
-| 寒    | さむい     | samui      | 寒い (さむい) - Cold                  |
-| 恥    | はじ       | haji       | 恥 (はじ) - Shame                     |
-| 疲    | つかれる   | tsukareru  | 疲れる (つかれる) - To get tired      |
-| 貧    | まずしい   | mazushii   | 貧しい (まずしい) - Poor              |
-| 猫    | ねこ       | neko       | 猫 (ねこ) - Cat                       |
-| 誤    | あやまる   | ayamaru    | 誤る (あやまる) - To make a mistake   |
-| 努    | つとめる   | tsutomeru  | 努める (つとめる) - To strive         |
-| 幾    | いくつ     | ikutsu     | 幾つ (いくつ) - How many              |
-| 賛    | さん       | san        | 賛成 (さんせい) - Agreement           |
-| 偶    | たま       | tama       | 偶に (たまに) - Occasionally          |
-| 忙    | いそがしい | isogashii  | 忙しい (いそがしい) - Busy            |
-| 泳    | およぐ     | oyogu      | 泳ぐ (およぐ) - To swim               |
-| 靴    | くつ       | kutsu      | 靴 (くつ) - Shoes                     |
-| 偉    | えらい     | erai       | 偉い (えらい) - Great                 |
+| Kanji | Reading          | Associated Vocabulary                                                                                                                                                     | Meaning                    |
+| ----- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| 人    | じん, ひと       | ひと (person), おとこのひと (man), おんなのひと (woman), りょうしん (parents), かんりにん (manager/caretaker), 女の人 (woman), 男の人 (man), ～人 (~jin: nationality)     | Person, people             |
+| 何    | なに, なん       | なに (what), なんさい (how old), なんようび (what day), 何曜日 (what day), 何時 (what time), 何分 (what minute), 何日 (what date), 何月 (what month), 何回も (many times) | What                       |
+| 日    | にち, ひ         | ひ (day), 日本 (Japan), 明日 (tomorrow), 毎日 (every day), 休日 (holiday), 日曜日 (Sunday), 一日 (first day), 何日 (what date), 平日 (weekday), 母の日 (Mother's day)     | Day, sun                   |
+| 本    | ほん             | ほん (book), 日本 (Japan), 本当 (truth), 本社 (headquarters)                                                                                                              | Book, origin, true         |
+| 語    | ご               | 日本語 (Japanese language), 英語 (English language), ～語 (~ language), 物語 (story)                                                                                      | Language, word             |
+| 学    | がく             | 学生 (student), 大学 (university), 留学 (study abroad), 大学院 (graduate school), 小学校 (elementary school), 中学校 (middle school), 高校 (high school)                  | Study, learning            |
+| 生    | せい             | 学生 (student), 一生懸命 (with all one's might), 先生 (teacher), 生活 (life), 高校生 (high school student), 中学生 (middle school student), 一年生 (first-year student)   | Life, birth, raw           |
+| 先    | せん             | 先生 (teacher), 先週 (last week), 先月 (last month), 先日 (the other day)                                                                                                 | Previous, ahead, former    |
+| 大    | だい             | 大学 (university), 大きい (big), 大変 (difficult/hard), 大統領 (president), 大使館 (embassy)                                                                              | Big, large, great          |
+| 小    | しょう           | 小さい (small), 小説 (novel), 小学校 (elementary school)                                                                                                                  | Small, little              |
+| 中    | ちゅう, なか     | 中国 (China), なか (inside), 中学校 (middle school), 世界中 (throughout the world)                                                                                        | Middle, inside, during     |
+| 上    | じょう, うえ     | うえ (above/up), 上着 (jacket), 上手 (skilled/good at), 城上公園 (castle park)                                                                                            | Above, up, upper           |
+| 下    | か, した         | した (below/under), 下着 (underwear), 地下鉄 (subway)                                                                                                                     | Below, down, under         |
+| 外    | がい, そと       | そと (outside), 外国 (foreign country), 海外 (overseas)                                                                                                                   | Outside, exterior          |
+| 右    | みぎ             | みぎ (right), 右へ (to the right)                                                                                                                                         | Right                      |
+| 左    | ひだり           | ひだり (left)                                                                                                                                                             | Left                       |
+| 前    | まえ             | まえ (front), 名前 (name), 駅前 (in front of station)                                                                                                                     | Before, in front           |
+| 後    | ご, あと         | あと (after), ～後 (after ~), 午後 (afternoon)                                                                                                                            | After, behind, later       |
+| 間    | かん, あいだ     | あいだ (between), 時間 (time), 週間 (week), 年間 (year)                                                                                                                   | Interval, between, during  |
+| 分    | ぶん, ふん       | 分かる (understand), ～分 (minute), 自分 (oneself)                                                                                                                        | Minute, understand, part   |
+| 時    | じ               | 時間 (time), ～時 (hour), 時計 (watch/clock), 時刻表 (timetable)                                                                                                          | Time, hour                 |
+| 週    | しゅう           | 先週 (last week), 今週 (this week), 来週 (next week), 週末 (weekend), 週間 (week)                                                                                         | Week                       |
+| 年    | ねん             | 去年 (last year), 今年 (this year), 来年 (next year), 何年 (what year), 年間 (yearly)                                                                                     | Year                       |
+| 月    | がつ, つき       | 月曜日 (Monday), ～月 (month), 今月 (this month), 先月 (last month), 来月 (next month), 月 (moon)                                                                         | Month, moon                |
+| 今    | こん, いま       | いま (now), 今日 (today), 今週 (this week), 今月 (this month), 今年 (this year), 今晩 (tonight)                                                                           | Now, present, current      |
+| 朝    | あさ             | あさ (morning), 朝ご飯 (breakfast)                                                                                                                                        | Morning                    |
+| 昼    | ひる             | ひる (noon/daytime), 昼ご飯 (lunch), 昼休み (lunch break), 昼間 (daytime)                                                                                                 | Noon, daytime              |
+| 夜    | よる             | よる (night/evening), 夜中 (midnight)                                                                                                                                     | Night, evening             |
+| 晩    | ばん             | ばん (evening), 晩ご飯 (dinner), 今晩 (tonight)                                                                                                                           | Evening                    |
+| 曜    | よう             | 月曜日 (Monday), 火曜日 (Tuesday), 水曜日 (Wednesday), 木曜日 (Thursday), 金曜日 (Friday), 土曜日 (Saturday), 日曜日 (Sunday), 何曜日 (what day of week)                  | Day of the week            |
+| 休    | きゅう, やす     | 休み (rest/day off), 休日 (holiday), 連休 (consecutive holidays), 休憩 (break)                                                                                            | Rest, day off              |
+| 行    | こう, い         | 行きます (go), 行く (go), 旅行 (trip/travel), 銀行 (bank)                                                                                                                 | Go                         |
+| 来    | らい, く         | 来ます (come), 来る (come), 来週 (next week), 来月 (next month), 来年 (next year)                                                                                         | Come                       |
+| 帰    | き, かえ         | 帰ります (return), 帰る (return)                                                                                                                                          | Return, go home            |
+| 駅    | えき             | 駅 (station), 駅前 (in front of station), 駅員 (station attendant)                                                                                                        | Station                    |
+| 電    | でん             | 電車 (train), 電話 (telephone), 電気 (electricity)                                                                                                                        | Electricity                |
+| 車    | しゃ             | 自動車 (automobile), 電車 (train), 車 (car)                                                                                                                               | Car, vehicle               |
+| 食    | しょく           | 食べる (eat), 食べ物 (food), 食事 (meal), 食堂 (cafeteria/dining hall)                                                                                                    | Eat, food                  |
+| 飲    | の               | 飲む (drink), 飲み物 (beverage)                                                                                                                                           | Drink                      |
+| 見    | み               | 見る (see/watch), 見せる (show), 意見 (opinion)                                                                                                                           | See, look                  |
+| 聞    | き               | 聞く (hear/listen), 聞こえる (can hear), 新聞 (newspaper)                                                                                                                 | Hear, listen, ask          |
+| 言    | げん, い         | 言う (say), 言葉 (word/language)                                                                                                                                          | Say, language              |
+| 話    | わ               | 話す (speak), 話 (story/talk), 電話 (telephone), 会話 (conversation)                                                                                                      | Talk, speak, story         |
+| 読    | どく, よ         | 読む (read), 読み方 (reading method)                                                                                                                                      | Read                       |
+| 書    | しょ, か         | 書く (write), 辞書 (dictionary), 書類 (documents)                                                                                                                         | Write                      |
+| 教    | きょう, おし     | 教える (teach), 教室 (classroom), 教師 (teacher), 教会 (church)                                                                                                           | Teach                      |
+| 学    | がく, まな       | 学校 (school), 大学 (university), 中学校 (middle school), 小学校 (elementary school)                                                                                      | Learn, study               |
+| 校    | こう             | 学校 (school), 高校 (high school), 中学校 (middle school), 小学校 (elementary school)                                                                                     | School                     |
+| 会    | かい, あ         | 会う (meet), 会社 (company), 会議 (meeting), 教会 (church), 会話 (conversation)                                                                                           | Meet, society, association |
+| 社    | しゃ             | 会社 (company), 神社 (shrine), 本社 (headquarters), 支社 (branch office)                                                                                                  | Company, society, shrine   |
+| 店    | てん             | 店 (shop/store), 百貨店 (department store), 支店 (branch)                                                                                                                 | Store, shop                |
+| 買    | か               | 買う (buy), 買い物 (shopping)                                                                                                                                             | Buy                        |
+| 売    | う               | 売る (sell), 売り場 (sales floor)                                                                                                                                         | Sell                       |
+| 高    | こう, たか       | 高い (expensive/high), 高校 (high school)                                                                                                                                 | High, expensive            |
+| 安    | あん, やす       | 安い (cheap/inexpensive)                                                                                                                                                  | Cheap, safe, peaceful      |
+| 新    | しん, あたら     | 新しい (new), 新聞 (newspaper)                                                                                                                                            | New                        |
+| 古    | こ, ふる         | 古い (old)                                                                                                                                                                | Old                        |
+| 多    | た, おお         | 多い (many)                                                                                                                                                               | Many, much                 |
+| 少    | しょう, すく     | 少ない (few), 少し (a little)                                                                                                                                             | Few, little                |
+| 家    | か, いえ, や     | いえ (house/home), 家族 (family), 作家 (writer), お菓子屋 (confectionery shop)                                                                                            | House, home                |
+| 方    | ほう             | 方法 (method), 読み方 (way of reading), 東方 (eastern direction), 方言 (dialect)                                                                                          | Way, direction, person     |
+| 仕    | し               | 仕事 (work), 仕方 (way of doing)                                                                                                                                          | Work, serve                |
+| 事    | じ               | 仕事 (work), 食事 (meal), 用事 (errand), 事務所 (office)                                                                                                                  | Matter, thing              |
+| 住    | じゅう, す       | 住む (live/reside), 住所 (address)                                                                                                                                        | Live, reside               |
+| 使    | し, つか         | 使う (use), 大使館 (embassy)                                                                                                                                              | Use                        |
+| 作    | さく, つく       | 作る (make), 作家 (writer), 作文 (composition/essay)                                                                                                                      | Make, create               |
+| 勉    | べん             | 勉強 (study)                                                                                                                                                              | Study, effort              |
+| 強    | きょう, つよ     | 勉強 (study), 強い (strong)                                                                                                                                               | Strong                     |
+| 弱    | じゃく, よわ     | 弱い (weak)                                                                                                                                                               | Weak                       |
+| 持    | じ, も           | 持つ (have/hold), 持って行く (take), 持って来る (bring)                                                                                                                   | Hold, have                 |
+| 待    | まち             | 待つ (wait)                                                                                                                                                               | Wait                       |
+| 急    | きゅう, いそ     | 急ぐ (hurry), 特急 (limited express train), 急行 (express)                                                                                                                | Hurry, sudden              |
+| 速    | そく, はや       | 速い (fast), 速達 (express mail)                                                                                                                                          | Fast, quick                |
+| 遅    | ち, おそ         | 遅い (late/slow)                                                                                                                                                          | Late, slow                 |
+| 近    | きん, ちか       | 近い (near), 最近 (recently)                                                                                                                                              | Near                       |
+| 遠    | えん, とお       | 遠い (far)                                                                                                                                                                | Far                        |
+| 長    | ちょう, なが     | 長い (long)                                                                                                                                                               | Long                       |
+| 短    | たん, みじか     | 短い (short)                                                                                                                                                              | Short                      |
+| 開    | かい, あ         | 開く (open), 開ける (open)                                                                                                                                                | Open                       |
+| 閉    | へい, し, と     | 閉める (close), 閉じる (close)                                                                                                                                            | Close                      |
+| 始    | し, はじ         | 始まる (begin), 始める (start)                                                                                                                                            | Begin, start               |
+| 終    | しゅう, お       | 終わる (end/finish)                                                                                                                                                       | End, finish                |
+| 入    | にゅう, い, はい | 入る (enter), 入れる (put in), 入学 (enrollment)                                                                                                                          | Enter                      |
+| 出    | しゅつ, で, だ   | 出る (exit), 出す (take out), 出かける (go out)                                                                                                                           | Exit, put out              |
+| 休    | きゅう, やす     | 休む (rest), 休日 (holiday), 休憩 (break)                                                                                                                                 | Rest                       |
+| 止    | し, と           | 止まる (stop), 止める (stop)                                                                                                                                              | Stop                       |
+| 立    | りつ, た         | 立つ (stand), 役に立つ (be useful)                                                                                                                                        | Stand                      |
+| 座    | ざ, すわ         | 座る (sit)                                                                                                                                                                | Sit                        |
+| 音    | おと, おん       | 音楽 (music), 音 (sound)                                                                                                                                                  | Sound                      |
+| 楽    | がく, らく, たの | 音楽 (music), 楽しい (fun/enjoyable)                                                                                                                                      | Music, enjoyment           |
+| 思    | し, おも         | 思う (think)                                                                                                                                                              | Think                      |
+| 知    | ち, し           | 知る (know)                                                                                                                                                               | Know                       |
+| 忘    | ぼう, わす       | 忘れる (forget)                                                                                                                                                           | Forget                     |
+| 考    | こう, かんが     | 考える (think)                                                                                                                                                            | Think, consider            |
+| 要    | よう, い         | 要る (need)                                                                                                                                                               | Need, important            |
+| 送    | そう, おく       | 送る (send)                                                                                                                                                               | Send                       |
+| 通    | つう, かよ, とお | 通う (commute), 交通 (traffic), 通り (street)                                                                                                                             | Pass through, commute      |
+| 言    | げん, い         | 言う (say), 言葉 (word/language)                                                                                                                                          | Say, language              |
+| 泊    | はく, とま       | 泊まる (stay overnight)                                                                                                                                                   | Stay overnight             |
+| 着    | ちゃく, き       | 着る (wear), 着く (arrive)                                                                                                                                                | Wear, arrive               |
+| 乗    | じょう, の       | 乗る (ride), 乗り物 (vehicle)                                                                                                                                             | Ride                       |
+| 降    | こう, お, ふ     | 降りる (get off), 降る (fall - rain/snow)                                                                                                                                 | Descend, fall              |
+| 返    | へん, かえ       | 返す (return)                                                                                                                                                             | Return                     |
+| 歩    | ほ, ある         | 歩く (walk)                                                                                                                                                               | Walk                       |
+| 走    | そう, はし       | 走る (run)                                                                                                                                                                | Run                        |
+| 飛    | ひ, と           | 飛ぶ (fly), 飛行機 (airplane)                                                                                                                                             | Fly                        |
+| 泳    | えい, およ       | 泳ぐ (swim)                                                                                                                                                               | Swim                       |
+| 働    | どう, はたら     | 働く (work)                                                                                                                                                               | Work                       |
+| 研    | けん             | 研究 (research)                                                                                                                                                           | Research, study            |
+| 究    | きゅう           | 研究 (research)                                                                                                                                                           | Research, study            |
+| 勝    | しょう, か       | 勝つ (win)                                                                                                                                                                | Win                        |
+| 負    | ふ, ま           | 負ける (lose)                                                                                                                                                             | Lose                       |
+| 運    | うん             | 運転 (drive), 運動 (exercise)                                                                                                                                             | Transport, luck            |
+| 転    | てん             | 運転 (drive), 転勤 (job transfer)                                                                                                                                         | Turn, revolve              |
+| 洗    | せん, あら       | 洗う (wash)                                                                                                                                                               | Wash                       |
+| 切    | せつ, き         | 切る (cut), 大切 (important)                                                                                                                                              | Cut                        |
+| 取    | しゅ, と         | 取る (take)                                                                                                                                                               | Take                       |
+| 直    | ちょく, なお     | 直す (fix/repair), 直接 (directly)                                                                                                                                        | Direct, fix                |
+| 寝    | しん, ね         | 寝る (sleep)                                                                                                                                                              | Sleep                      |
+| 起    | き, お           | 起きる (wake up/get up)                                                                                                                                                   | Wake up                    |
+| 映    | えい             | 映画 (movie)                                                                                                                                                              | Reflect, project           |
+| 写    | しゃ, うつ       | 写真 (photograph)                                                                                                                                                         | Copy, photograph           |
+| 真    | しん, ま         | 写真 (photograph), 真ん中 (middle)                                                                                                                                        | True, real                 |
+| 病    | びょう, や       | 病気 (sickness/illness), 病院 (hospital)                                                                                                                                  | Illness, disease           |
+| 院    | いん             | 病院 (hospital), 大学院 (graduate school)                                                                                                                                 | Institution                |
+| 薬    | やく, くすり     | 薬 (medicine)                                                                                                                                                             | Medicine                   |
+| 医    | い               | 医者 (doctor), 医学 (medicine)                                                                                                                                            | Medicine, doctor           |
+| 者    | しゃ, もの       | 医者 (doctor), 研究者 (researcher)                                                                                                                                        | Person                     |
+| 親    | しん, おや       | 親切 (kind), 両親 (parents), 親しい (familiar)                                                                                                                            | Parent, intimate           |
+| 友    | ゆう, とも       | 友達 (friend)                                                                                                                                                             | Friend                     |
+| 兄    | けい, あに       | 兄 (older brother)                                                                                                                                                        | Older brother              |
+| 姉    | し, あね         | 姉 (older sister)                                                                                                                                                         | Older sister               |
+| 弟    | てい, おとうと   | 弟 (younger brother)                                                                                                                                                      | Younger brother            |
+| 妹    | まい, いもうと   | 妹 (younger sister)                                                                                                                                                       | Younger sister             |
+| 子    | し, こ           | 子供 (child), 女の子 (girl), 男の子 (boy), お菓子 (sweets)                                                                                                                | Child                      |
+| 男    | だん, おとこ     | 男の人 (man), 男の子 (boy)                                                                                                                                                | Man, male                  |
+| 女    | じょ, おんな     | 女の人 (woman), 女の子 (girl)                                                                                                                                             | Woman, female              |
+| 人    | じん, にん, ひと | 人 (person), 外国人 (foreigner), 日本人 (Japanese person)                                                                                                                 | Person                     |
+| 名    | めい, な         | 名前 (name), 有名 (famous)                                                                                                                                                | Name                       |
+| 前    | ぜん, まえ       | 前 (front), 名前 (name), 午前 (morning/AM)                                                                                                                                | Front, before              |
+| 後    | ご, あと         | 後ろ (behind), 午後 (afternoon/PM)                                                                                                                                        | After, behind              |
+| 父    | ふ, ちち         | 父 (father)                                                                                                                                                               | Father                     |
+| 母    | ぼ, はは         | 母 (mother)                                                                                                                                                               | Mother                     |
+| 体    | たい, からだ     | 体 (body), 体育館 (gymnasium)                                                                                                                                             | Body                       |
+| 頭    | とう, あたま     | 頭 (head)                                                                                                                                                                 | Head                       |
+| 心    | しん, こころ     | 心配 (worry)                                                                                                                                                              | Heart, mind                |
+| 手    | しゅ, て         | 手 (hand), 上手 (good at), 下手 (poor at), 手紙 (letter)                                                                                                                  | Hand                       |
+| 足    | そく, あし       | 足 (foot/leg), 足りる (be enough)                                                                                                                                         | Foot, leg, sufficient      |
+| 目    | もく, め         | 目 (eye)                                                                                                                                                                  | Eye                        |
+| 耳    | じ, みみ         | 耳 (ear)                                                                                                                                                                  | Ear                        |
+| 口    | こう, くち       | 口 (mouth)                                                                                                                                                                | Mouth                      |
+| 歯    | し, は           | 歯 (tooth), 歯医者 (dentist)                                                                                                                                              | Tooth                      |
+| 力    | りょく, ちから   | 力 (strength/power)                                                                                                                                                       | Power, strength            |
+| 会    | かい, え         | 会社 (company), 会議 (meeting), 会話 (conversation)                                                                                                                       | Meet, society              |
+| 社    | しゃ             | 会社 (company), 社長 (company president)                                                                                                                                  | Company, society           |
+| 銀    | ぎん             | 銀行 (bank)                                                                                                                                                               | Silver                     |
+| 金    | きん, かね       | お金 (money), 金曜日 (Friday)                                                                                                                                             | Gold, money                |
+| 花    | か, はな         | 花 (flower)                                                                                                                                                               | Flower                     |
+| 茶    | ちゃ             | お茶 (tea)                                                                                                                                                                | Tea                        |
+| 肉    | にく             | 肉 (meat)                                                                                                                                                                 | Meat                       |
+| 魚    | ぎょ, さかな     | 魚 (fish)                                                                                                                                                                 | Fish                       |
+| 水    | すい, みず       | 水 (water), 水曜日 (Wednesday)                                                                                                                                            | Water                      |
+| 火    | か, ひ           | 火 (fire), 火曜日 (Tuesday)                                                                                                                                               | Fire                       |
+| 木    | もく, き         | 木 (tree), 木曜日 (Thursday)                                                                                                                                              | Tree, wood                 |
+| 風    | ふう, かぜ       | 風 (wind)                                                                                                                                                                 | Wind                       |
+| 雨    | う, あめ         | 雨 (rain)                                                                                                                                                                 | Rain                       |
+| 雪    | せつ, ゆき       | 雪 (snow)                                                                                                                                                                 | Snow                       |
+| 山    | さん, やま       | 山 (mountain)                                                                                                                                                             | Mountain                   |
+| 川    | せん, かわ       | 川 (river)                                                                                                                                                                | River                      |
+| 海    | かい, うみ       | 海 (sea), 海外 (overseas)                                                                                                                                                 | Sea, ocean                 |
+| 空    | くう, そら       | 空 (sky)                                                                                                                                                                  | Sky, empty                 |
+| 天    | てん             | 天気 (weather)                                                                                                                                                            | Heaven, sky                |
+| 気    | き               | 天気 (weather), 気持ち (feeling), 電気 (electricity)                                                                                                                      | Spirit, mind, air          |
+| 地    | ち, じ           | 地下鉄 (subway), 地図 (map), 地震 (earthquake)                                                                                                                            | Earth, ground              |
+| 図    | ず, と           | 地図 (map)                                                                                                                                                                | Map, drawing               |
+| 色    | しょく, いろ     | 色 (color)                                                                                                                                                                | Color                      |
+| 白    | はく, しろ       | 白い (white)                                                                                                                                                              | White                      |
+| 黒    | こく, くろ       | 黒い (black)                                                                                                                                                              | Black                      |
+| 赤    | せき, あか       | 赤い (red)                                                                                                                                                                | Red                        |
+| 青    | せい, あお       | 青い (blue)                                                                                                                                                               | Blue                       |
+| 物    | ぶつ, もの       | 物 (thing), 買い物 (shopping), 食べ物 (food), 飲み物 (drink)                                                                                                              | Thing                      |
+| 料    | りょう           | 料理 (cooking), 資料 (materials)                                                                                                                                          | Material, fee              |
+| 理    | り               | 料理 (cooking), 無理 (impossible), 修理 (repair)                                                                                                                          | Reason, logic              |
+| 和    | わ               | 和食 (Japanese food), 平和 (peace)                                                                                                                                        | Peace, harmony             |
+| 洋    | よう             | 洋食 (Western food)                                                                                                                                                       | Western style              |
+| 服    | ふく             | 服 (clothes), 制服 (uniform)                                                                                                                                              | Clothes                    |
+| 帽    | ぼう             | 帽子 (hat)                                                                                                                                                                | Hat                        |
+| 靴    | か, くつ         | 靴 (shoes)                                                                                                                                                                | Shoes                      |
+| 鞄    | はく, かばん     | かばん (bag)                                                                                                                                                              | Bag                        |
+| 傘    | さん, かさ       | 傘 (umbrella)                                                                                                                                                             | Umbrella                   |
+| 紙    | し, かみ         | 紙 (paper), 手紙 (letter), 新聞紙 (newspaper)                                                                                                                             | Paper                      |
+| 本    | ほん             | 本 (book), 日本 (Japan)                                                                                                                                                   | Book, origin               |
+| 雑    | ざつ             | 雑誌 (magazine)                                                                                                                                                           | Miscellaneous              |
+| 誌    | し               | 雑誌 (magazine)                                                                                                                                                           | Magazine                   |
+| 新    | しん, あたら     | 新聞 (newspaper), 新しい (new)                                                                                                                                            | New                        |
+| 聞    | ぶん, き         | 新聞 (newspaper), 聞く (listen/hear)                                                                                                                                      | Hear, listen, news         |
+| 辞    | じ               | 辞書 (dictionary)                                                                                                                                                         | Word, resign               |
+| 数    | すう, かず       | 数学 (mathematics), 数字 (number)                                                                                                                                         | Number, count              |
+| 字    | じ               | 字 (character), 漢字 (Chinese character)                                                                                                                                  | Character                  |
+| 文    | ぶん, もん       | 文字 (letter/character), 作文 (composition)                                                                                                                               | Sentence, literature       |
+| 画    | が, かく         | 映画 (movie)                                                                                                                                                              | Picture, stroke            |
+| 写    | しゃ, うつ       | 写真 (photograph)                                                                                                                                                         | Copy, photograph           |
+| 真    | しん, ま         | 写真 (photograph)                                                                                                                                                         | True, real                 |
+| 集    | しゅう, あつ     | 集める (collect), 集まる (gather)                                                                                                                                         | Gather, collect            |
+| 会    | かい, あ         | 会議 (meeting), 会社 (company), 社会 (society)                                                                                                                            | Meet, society              |
+| 議    | ぎ               | 会議 (meeting)                                                                                                                                                            | Discuss                    |
+| 時    | じ               | 時間 (time), 時計 (clock)                                                                                                                                                 | Time                       |
+| 計    | けい, はか       | 時計 (clock)                                                                                                                                                              | Measure, plan              |
+| 記    | き               | 記事 (article), 日記 (diary)                                                                                                                                              | Record                     |
+| 番    | ばん             | 番号 (number), 当番 (person on duty)                                                                                                                                      | Number, turn               |
+| 号    | ごう             | 番号 (number)                                                                                                                                                             | Number, title              |
+| 駅    | えき             | 駅 (station)                                                                                                                                                              | Station                    |
+| 線    | せん             | 線 (line), 電車線 (train line)                                                                                                                                            | Line                       |
+| 館    | かん             | 図書館 (library), 美術館 (art museum), 大使館 (embassy)                                                                                                                   | Building                   |
+| 国    | こく, くに       | 国 (country), 外国 (foreign country), 中国 (China), 韓国 (Korea)                                                                                                          | Country                    |
+| 際    | さい             | 国際 (international)                                                                                                                                                      | International              |
+| 政    | せい             | 政治 (politics)                                                                                                                                                           | Politics, government       |
+| 治    | じ, おさ         | 政治 (politics)                                                                                                                                                           | Rule, cure                 |
+| 宿    | しゅく, やど     | 宿題 (homework), 宿泊 (lodging)                                                                                                                                           | Lodge, inn                 |
+| 題    | だい             | 宿題 (homework), 問題 (problem)                                                                                                                                           | Topic, subject             |
+| 度    | ど               | 温度 (temperature), 制度 (system)                                                                                                                                         | Degree, time               |
+| 料    | りょう           | 料理 (cooking), 料金 (fee), 給料 (salary)                                                                                                                                 | Fee, material              |
+| 理    | り               | 料理 (cooking), 整理 (organize), 理由 (reason)                                                                                                                            | Reason, logic              |
+| 屋    | おく, や         | 部屋 (room), 八百屋 (vegetable store)                                                                                                                                     | House, shop                |
+| 室    | しつ             | 教室 (classroom), 部屋 (room), 会議室 (meeting room)                                                                                                                      | Room                       |
+| 所    | しょ, ところ     | 場所 (place), 事務所 (office), 住所 (address)                                                                                                                             | Place                      |
+| 便    | べん, びん       | 便利 (convenient), 郵便 (mail), 不便 (inconvenient)                                                                                                                       | Convenience                |
+| 利    | り               | 便利 (convenient), 有利 (advantageous)                                                                                                                                    | Advantage, benefit         |
+| 不    | ふ, ぶ           | 不便 (inconvenient)                                                                                                                                                       | Not, un-                   |
+| 難    | なん, むずか     | 難しい (difficult)                                                                                                                                                        | Difficult                  |
+| 易    | い, やさ         | 易しい (easy)                                                                                                                                                             | Easy                       |
+| 早    | そう, はや       | 早い (early)                                                                                                                                                              | Early                      |
+| 広    | こう, ひろ       | 広い (wide/spacious)                                                                                                                                                      | Wide, spacious             |
+| 狭    | きょう, せま     | 狭い (narrow)                                                                                                                                                             | Narrow                     |
+| 低    | てい, ひく       | 低い (low)                                                                                                                                                                | Low                        |
+| 重    | じゅう, おも     | 重い (heavy)                                                                                                                                                              | Heavy                      |
+| 軽    | けい, かる       | 軽い (light)                                                                                                                                                              | Light                      |
+| 暑    | しょ, あつ       | 暑い (hot - weather)                                                                                                                                                      | Hot                        |
+| 熱    | ねつ, あつ       | 熱い (hot - touch)                                                                                                                                                        | Heat, hot                  |
+| 寒    | かん, さむ       | 寒い (cold - weather)                                                                                                                                                     | Cold                       |
+| 冷    | れい, つめ       | 冷たい (cold - touch)                                                                                                                                                     | Cool, cold                 |
+| 甘    | かん, あま       | 甘い (sweet)                                                                                                                                                              | Sweet                      |
+| 辛    | しん, から       | 辛い (spicy/hot)                                                                                                                                                          | Spicy, bitter              |
+| 明    | めい, あか       | 明るい (bright)                                                                                                                                                           | Bright, clear              |
+| 暗    | あん, くら       | 暗い (dark)                                                                                                                                                               | Dark                       |
+| 静    | せい, しず       | 静か (quiet)                                                                                                                                                              | Quiet                      |
+| 賑    | じん, にぎ       | 賑やか (lively)                                                                                                                                                           | Bustling                   |
+| 忙    | ぼう, いそが     | 忙しい (busy)                                                                                                                                                             | Busy                       |
+| 暇    | か, ひま         | 暇 (free time)                                                                                                                                                            | Free time                  |
+| 楽    | らく, たの       | 楽しい (fun/enjoyable)                                                                                                                                                    | Comfortable, enjoyable     |
+| 苦    | く, にが         | 苦しい (painful), 苦い (bitter)                                                                                                                                           | Suffering, bitter          |
+| 好    | こう, す, この   | 好き (like)                                                                                                                                                               | Like, favorite             |
+| 嫌    | けん, きら       | 嫌い (dislike)                                                                                                                                                            | Dislike                    |
+| 有    | ゆう, あ         | 有名 (famous)                                                                                                                                                             | Have, exist                |
+| 名    | めい, な         | 有名 (famous), 名前 (name)                                                                                                                                                | Name, famous               |
+| 無    | む, な           | 無料 (free of charge)                                                                                                                                                     | Nothing, none              |
+| 元    | げん, もと       | 元気 (healthy/energetic)                                                                                                                                                  | Origin, former             |
+| 気    | き               | 元気 (healthy/energetic), 天気 (weather)                                                                                                                                  | Spirit, energy             |
+| 切    | せつ, き         | 大切 (important)                                                                                                                                                          | Cut, important             |
+| 実    | じつ, み         | 実は (actually)                                                                                                                                                           | Real, truth                |
+| 当    | とう, あ         | 本当 (true), 当たる (hit)                                                                                                                                                 | Hit, right                 |
