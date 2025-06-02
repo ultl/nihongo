@@ -56,3 +56,9 @@
 | 52  | けむり                | 煙                | kemuri               | Noun           | smoke                                      | -              | けむりが見えます。(I can see smoke.)                                              |
 | 53  | まっしろ［な］        | 真っ白［な］      | masshiro[na]         | Adjective      | clear white                                | まっしろで     | まっしろな雪が降りました。(Pure white snow fell.)                                 |
 | 54  | なかみ                | 中身              | nakami               | Noun           | content; inside                            | -              | 箱のなかみを見てください。(Please look at the contents of the box.)               |
+| 55  | うごきます            | 動きます          | ugokimasu            | Verb           | move                                       | うごいて       | 車がうごきます。(The car moves.)                                                  |
+| 56  | 間に合わせる          | まにあわせる      | ma ni awaseru        | Verb           | make it in time                            | まにあわせて   | 時間に間に合わせるために急ぎます。(I hurry to make it in time.)                   |
+| 57  | だとう                | 妥当              | datō                 | Noun           | validity; appropriateness                  | -              | その意見はだとうです。(That opinion is valid.)                                    |
+| 58  | いっしょうけんめい    | 一生懸命          | isshōkenmei          | Adverb         | with all one's might                       | -              | いっしょうけんめい勉強します。(I'll study with all my might.)                     |
+| 59  | げんきん              | 現金              | genkin               | Noun           | cash                                       | -              | げんきんをおろします。(I'll withdraw cash.)                                       |
+| 60  | かんしゃ              | 感謝              | kansha               | Noun           | gratitude                                  | -              | かんしゃの気持ちを伝えます。(I express my gratitude.)                             |
