@@ -52,4 +52,7 @@
 | 48  | とびます         | 飛びます   | tobimasu         | Verb           | とんで   | とばない   | fly                                          |
 | 49  | じぶん           | 自分       | jibun            | Noun           |          |            | myself                                       |
 | 50  | しょうらい       | 将来       | shourai          | Noun           |          |            | future                                       |
-| 51  | ドラえもん       |            | doraemon         | Noun           |          |            | Duramen                                      |
+| 51  | ドラえもん       |            | doraemon         | Noun           |          |            | Doraemon                                     |
+| 52  | じどう           | 自動       | jidou            | Noun           |          |            | automatic                                    |
+| 53  | はんばいき       | 販売機     | hanbaiki         | Noun           |          |            | vending machine                              |
+| 54  | つうしん         | 通信       | tsuushin         | Noun           |          |            | telecommunication                            |
