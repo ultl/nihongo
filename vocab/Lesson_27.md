@@ -56,3 +56,6 @@
 | 52  | じどう           | 自動       | jidou            | Noun           |          |            | automatic                                    | 自動ドアが開きます。<br>(The automatic door opens.)                                |
 | 53  | はんばいき       | 販売機     | hanbaiki         | Noun           |          |            | vending machine                              | 販売機で飲み物を買います。<br>(I buy drinks at the vending machine.)               |
 | 54  | つうしん         | 通信       | tsuushin         | Noun           |          |            | telecommunication                            | 通信が便利になりました。<br>(Communication has become convenient.)                 |
+| 55  | かんたん         | 簡単       | kantan           | Adjective      |          |            | easy                                         | この問題は簡単です。<br>(This problem is easy.)                                    |
+| 56  | しゅうり         | 修理       | shuuri           | Noun           |          |            | repair                                       | 車の修理をしました。<br>(I repaired the car.)                                      |
+| 57  | こと             | こと       | koto             | Noun           |          |            | things                                       | いろいろなことを学びました。<br>(I learned various things.)                        |
