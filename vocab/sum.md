@@ -973,62 +973,62 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 
 # Lesson 27 Vocabulary
 
-| No. | Vocabulary       | Kanji      | Romaji           | Part of Speech | Te-form  | Nai-form   | Meaning                                      |
-| --- | ---------------- | ---------- | ---------------- | -------------- | -------- | ---------- | -------------------------------------------- |
-| 1   | かいます         | 飼います   | kaimasu          | Verb           | かって   | かわない   | raising and breeding                         |
-| 2   | たてます         | 建てます   | tatemasu         | Verb           | たてて   | たてない   | build                                        |
-| 3   | はしります       | 走ります   | hashirimasu      | Verb           | はしって | はしらない | run                                          |
-| 4   | とります         | 取ります   | torimasu         | Verb           | とって   | とらない   | please (leave)                               |
-| 5   | みえます         | 見えます   | miemasu          | Verb           | みえて   | みえない   | visible                                      |
-| 6   | きこえます       | 聞こえます | kikoemasu        | Verb           | きこえて | きこえない | can hear                                     |
-| 7   | できます         |            | dekimasu         | Verb           | できて   | できない   | be done, done                                |
-| 8   | ひらきます       | 開きます   | hirakimasu       | Verb           | ひらいて | ひらかない | open, organize (class)                       |
-| 9   | ペット           |            | petto            | Noun           |          |            | pets and pets                                |
-| 10  | とり             | 鳥         | tori             | Noun           |          |            | bird                                         |
-| 11  | こえ             | こえ       | koe              | Noun           |          |            | Voice, voice                                 |
-| 12  | なみ             | 波         | nami             | Noun           |          |            | wave                                         |
-| 13  | はなび           | 花火       | hanabi           | Noun           |          |            | firework                                     |
-| 14  | けしき           | 景色       | keshiki          | Noun           |          |            | scenery                                      |
-| 15  | ひるま           | 昼間       | hiruma           | Noun           |          |            | daytime                                      |
-| 16  | むかし           | 昔         | mukashi          | Noun           |          |            | once upon a time                             |
-| 17  | どうぐ           | 道具       | dougu            | Noun           |          |            | tool                                         |
-| 18  | じどうはんばいき | 自動販売機 | jidouhanbaiki    | Noun           |          |            | vending machine                              |
-| 19  | つうしんはんばい | 通信販売   | tsuushinhanbaiki | Noun           |          |            | telecommunication trade                      |
-| 20  | クリーニング     |            | kuriiningu       | Noun           |          |            | laundry                                      |
-| 21  | マンション       |            | manshon          | Noun           |          |            | apartment                                    |
-| 22  | だいどころ       | 台所       | daidokoro        | Noun           |          |            | kitchen                                      |
-| 23  | ～ご             | ～後       | ~go              | Suffix         |          |            | after…                                       |
-| 24  | ～しか           |            | ~shika           | Particle       |          |            | just                                         |
-| 25  | ～きょうしつ     | ～教室     | ~kyoushitsu      | Suffix         |          |            | class                                        |
-| 26  | パーティールーム |            | paatiruumu       | Noun           |          |            | Banquet                                      |
-| 27  | かんさいくうこう | 関西空港   | kansaikuukou     | Noun           |          |            | Kansai airport                               |
-| 28  | あきはばら       | 秋葉原     | akihabara        | Noun           |          |            | famous electronics department store in Tokyo |
-| 29  | いず             | 伊豆       | izu              | Noun           |          |            | an island in Shizuoka Prefecture             |
-| 30  | にちようびだいく | 日曜日大工 | nichiyoubidaiku  | Noun           |          |            | Sunday carpenter                             |
-| 31  | ほんだな         | 本棚       | hondana          | Noun           |          |            | bookshelf, bookshelf                         |
-| 32  | いつか           |            | itsuka           | Adverb         |          |            | someday                                      |
-| 33  | ゆめ             | 夢         | yume             | Noun           |          |            | dream                                        |
-| 34  | いえ             | 家         | ie               | Noun           |          |            | home                                         |
-| 35  | すばらしい       | 素晴らしい | subarashii       | Adjective      |          |            | great                                        |
-| 36  | こどもたち       | 子どもたち | kodomotachi      | Noun           |          |            | kids                                         |
-| 37  | だいすき         | 大好き     | daisuki          | Adjective      |          |            | like so much                                 |
-| 38  | まんが           | 漫画       | manga            | Noun           |          |            | comic                                        |
-| 39  | しゅじんこう     | 主人公     | shujinkou        | Noun           |          |            | protagonist                                  |
-| 40  | かたち           | 形         | katachi          | Noun           |          |            | shape                                        |
-| 41  | ロボット         |            | robotto          | Noun           |          |            | robot                                        |
-| 42  | ふしぎな         | 不思議な   | fushigina        | Adjective      |          |            | Strange, mysterious                          |
-| 43  | ポケット         |            | poketto          | Noun           |          |            | handbag                                      |
-| 44  | たとえば         | 例えば     | tatoeba          | Adverb         |          |            | For example                                  |
-| 45  | つけます         | 付けます   | tsukemasu        | Verb           | つけて   | つけない   | build                                        |
-| 46  | じゆうに         | 自由に     | jiyuuni          | Adverb         |          |            | free                                         |
-| 47  | そら             | 空         | sora             | Noun           |          |            | sky                                          |
-| 48  | とびます         | 飛びます   | tobimasu         | Verb           | とんで   | とばない   | fly                                          |
-| 49  | じぶん           | 自分       | jibun            | Noun           |          |            | myself                                       |
-| 50  | しょうらい       | 将来       | shourai          | Noun           |          |            | future                                       |
-| 51  | ドラえもん       |            | doraemon         | Noun           |          |            | Doraemon                                     |
-| 52  | じどう           | 自動       | jidou            | Noun           |          |            | automatic                                    |
-| 53  | はんばいき       | 販売機     | hanbaiki         | Noun           |          |            | vending machine                              |
-| 54  | つうしん         | 通信       | tsuushin         | Noun           |          |            | telecommunication                            |
+| No. | Vocabulary       | Kanji      | Romaji           | Part of Speech | Te-form  | Nai-form   | Meaning                                      | Example                                                                            |
+| --- | ---------------- | ---------- | ---------------- | -------------- | -------- | ---------- | -------------------------------------------- | ---------------------------------------------------------------------------------- |
+| 1   | かいます         | 飼います   | kaimasu          | Verb           | かって   | かわない   | raising and breeding                         | 犬を飼っています。<br>(I have a dog.)                                              |
+| 2   | たてます         | 建てます   | tatemasu         | Verb           | たてて   | たてない   | build                                        | 家を建てます。<br>(I build a house.)                                               |
+| 3   | はしります       | 走ります   | hashirimasu      | Verb           | はしって | はしらない | run                                          | 毎朝公園を走ります。<br>(I run in the park every morning.)                         |
+| 4   | とります         | 取ります   | torimasu         | Verb           | とって   | とらない   | please (leave)                               | 休みを取ります。<br>(I take a day off.)                                            |
+| 5   | みえます         | 見えます   | miemasu          | Verb           | みえて   | みえない   | visible                                      | 山が見えます。<br>(You can see the mountain.)                                      |
+| 6   | きこえます       | 聞こえます | kikoemasu        | Verb           | きこえて | きこえない | can hear                                     | 音楽が聞こえます。<br>(I can hear music.)                                          |
+| 7   | できます         |            | dekimasu         | Verb           | できて   | できない   | be done, done                                | 宿題ができました。<br>(I finished my homework.)                                    |
+| 8   | ひらきます       | 開きます   | hirakimasu       | Verb           | ひらいて | ひらかない | open, organize (class)                       | 教室を開きます。<br>(I open a classroom.)                                          |
+| 9   | ペット           |            | petto            | Noun           |          |            | pets and pets                                | ペットを飼っています。<br>(I have a pet.)                                          |
+| 10  | とり             | 鳥         | tori             | Noun           |          |            | bird                                         | 鳥が空を飛んでいます。<br>(A bird is flying in the sky.)                           |
+| 11  | こえ             | こえ       | koe              | Noun           |          |            | Voice, voice                                 | 先生の声が大きいです。<br>(The teacher's voice is loud.)                           |
+| 12  | なみ             | 波         | nami             | Noun           |          |            | wave                                         | 波の音が聞こえます。<br>(I can hear the sound of waves.)                           |
+| 13  | はなび           | 花火       | hanabi           | Noun           |          |            | firework                                     | 夏祭りで花火を見ました。<br>(I saw fireworks at the summer festival.)              |
+| 14  | けしき           | 景色       | keshiki          | Noun           |          |            | scenery                                      | この町の景色はきれいです。<br>(The scenery of this town is beautiful.)             |
+| 15  | ひるま           | 昼間       | hiruma           | Noun           |          |            | daytime                                      | 昼間は忙しいです。<br>(I'm busy during the day.)                                   |
+| 16  | むかし           | 昔         | mukashi          | Noun           |          |            | once upon a time                             | 昔々、あるところに…<br>(Once upon a time, in a certain place...)                   |
+| 17  | どうぐ           | 道具       | dougu            | Noun           |          |            | tool                                         | 新しい道具を買いました。<br>(I bought a new tool.)                                 |
+| 18  | じどうはんばいき | 自動販売機 | jidouhanbaiki    | Noun           |          |            | vending machine                              | ジュースは自動販売機で買えます。<br>(You can buy juice at a vending machine.)      |
+| 19  | つうしんはんばい | 通信販売   | tsuushinhanbaiki | Noun           |          |            | telecommunication trade                      | 通信販売で本を買いました。<br>(I bought a book by mail order.)                     |
+| 20  | クリーニング     |            | kuriiningu       | Noun           |          |            | laundry                                      | 服をクリーニングに出します。<br>(I take my clothes to the cleaners.)               |
+| 21  | マンション       |            | manshon          | Noun           |          |            | apartment                                    | 新しいマンションに住んでいます。<br>(I live in a new apartment.)                   |
+| 22  | だいどころ       | 台所       | daidokoro        | Noun           |          |            | kitchen                                      | 台所で料理をします。<br>(I cook in the kitchen.)                                   |
+| 23  | ～ご             | ～後       | ~go              | Suffix         |          |            | after…                                       | 3日後に会いましょう。<br>(Let's meet after three days.)                            |
+| 24  | ～しか           |            | ~shika           | Particle       |          |            | just                                         | 水しか飲みません。<br>(I only drink water.)                                        |
+| 25  | ～きょうしつ     | ～教室     | ~kyoushitsu      | Suffix         |          |            | class                                        | 日本語教室に通っています。<br>(I attend a Japanese class.)                         |
+| 26  | パーティールーム |            | paatiruumu       | Noun           |          |            | Banquet                                      | パーティールームを予約しました。<br>(I reserved a party room.)                     |
+| 27  | かんさいくうこう | 関西空港   | kansaikuukou     | Noun           |          |            | Kansai airport                               | 関西空港から出発します。<br>(I will depart from Kansai Airport.)                   |
+| 28  | あきはばら       | 秋葉原     | akihabara        | Noun           |          |            | famous electronics department store in Tokyo | 秋葉原でパソコンを買いました。<br>(I bought a computer in Akihabara.)              |
+| 29  | いず             | 伊豆       | izu              | Noun           |          |            | an island in Shizuoka Prefecture             | 伊豆へ旅行に行きました。<br>(I went on a trip to Izu.)                             |
+| 30  | にちようびだいく | 日曜日大工 | nichiyoubidaiku  | Noun           |          |            | Sunday carpenter                             | 父は日曜日大工が好きです。<br>(My father likes Sunday carpentry.)                  |
+| 31  | ほんだな         | 本棚       | hondana          | Noun           |          |            | bookshelf, bookshelf                         | 本棚に本を並べます。<br>(I arrange books on the bookshelf.)                        |
+| 32  | いつか           |            | itsuka           | Adverb         |          |            | someday                                      | いつか日本に行きたいです。<br>(I want to go to Japan someday.)                     |
+| 33  | ゆめ             | 夢         | yume             | Noun           |          |            | dream                                        | 夢を見ました。<br>(I had a dream.)                                                 |
+| 34  | いえ             | 家         | ie               | Noun           |          |            | home                                         | 家に帰ります。<br>(I go home.)                                                     |
+| 35  | すばらしい       | 素晴らしい | subarashii       | Adjective      |          |            | great                                        | すばらしい景色です。<br>(It's a wonderful view.)                                   |
+| 36  | こどもたち       | 子どもたち | kodomotachi      | Noun           |          |            | kids                                         | 子どもたちが遊んでいます。<br>(The children are playing.)                          |
+| 37  | だいすき         | 大好き     | daisuki          | Adjective      |          |            | like so much                                 | 犬が大好きです。<br>(I love dogs.)                                                 |
+| 38  | まんが           | 漫画       | manga            | Noun           |          |            | comic                                        | 毎日漫画を読みます。<br>(I read comics every day.)                                 |
+| 39  | しゅじんこう     | 主人公     | shujinkou        | Noun           |          |            | protagonist                                  | この物語の主人公は女の子です。<br>(The protagonist of this story is a girl.)       |
+| 40  | かたち           | 形         | katachi          | Noun           |          |            | shape                                        | いろいろな形があります。<br>(There are various shapes.)                            |
+| 41  | ロボット         |            | robotto          | Noun           |          |            | robot                                        | ロボットを作りました。<br>(I made a robot.)                                        |
+| 42  | ふしぎな         | 不思議な   | fushigina        | Adjective      |          |            | Strange, mysterious                          | ふしぎな話を聞きました。<br>(I heard a mysterious story.)                          |
+| 43  | ポケット         |            | poketto          | Noun           |          |            | handbag                                      | ポケットに鍵を入れます。<br>(I put the key in my pocket.)                          |
+| 44  | たとえば         | 例えば     | tatoeba          | Adverb         |          |            | For example                                  | 例えば、りんごやバナナがあります。<br>(For example, there are apples and bananas.) |
+| 45  | つけます         | 付けます   | tsukemasu        | Verb           | つけて   | つけない   | build                                        | 名前をノートに付けます。<br>(I put my name on the notebook.)                       |
+| 46  | じゆうに         | 自由に     | jiyuuni          | Adverb         |          |            | free                                         | 自由に話してください。<br>(Please speak freely.)                                   |
+| 47  | そら             | 空         | sora             | Noun           |          |            | sky                                          | 空が青いです。<br>(The sky is blue.)                                               |
+| 48  | とびます         | 飛びます   | tobimasu         | Verb           | とんで   | とばない   | fly                                          | 鳥が空を飛びます。<br>(A bird flies in the sky.)                                   |
+| 49  | じぶん           | 自分       | jibun            | Noun           |          |            | myself                                       | 自分でやります。<br>(I'll do it myself.)                                           |
+| 50  | しょうらい       | 将来       | shourai          | Noun           |          |            | future                                       | 将来、医者になりたいです。<br>(I want to be a doctor in the future.)               |
+| 51  | ドラえもん       |            | doraemon         | Noun           |          |            | Doraemon                                     | ドラえもんは人気があります。<br>(Doraemon is popular.)                             |
+| 52  | じどう           | 自動       | jidou            | Noun           |          |            | automatic                                    | 自動ドアが開きます。<br>(The automatic door opens.)                                |
+| 53  | はんばいき       | 販売機     | hanbaiki         | Noun           |          |            | vending machine                              | 販売機で飲み物を買います。<br>(I buy drinks at the vending machine.)               |
+| 54  | つうしん         | 通信       | tsuushin         | Noun           |          |            | telecommunication                            | 通信が便利になりました。<br>(Communication has become convenient.)                 |
 
 
 # Lesson 33 Vocabulary
