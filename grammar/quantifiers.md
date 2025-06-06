@@ -54,7 +54,8 @@
 
 # Japanese Special Number Forms for Common Counters
 
-Here's a comprehensive table of Japanese special number forms (pronunciation changes) for common counters:
+Here's a comprehensive table of Japanese special number forms (pronunciation
+changes) for common counters:
 
 | Number | People<br>人 (-nin)   | Time<br>時 (-ji)     | Days<br>日 (-nichi)   | Months<br>月 (-gatsu)    | Years<br>年 (-nen)       | Floor<br>階 (-kai)     | Small objects<br>個 (-ko) | Long objects<br>本 (-hon) | Flat objects<br>枚 (-mai) | Animals<br>匹 (-hiki)    |
 | ------ | --------------------- | -------------------- | --------------------- | ------------------------ | ------------------------ | ---------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------ |
@@ -72,3 +73,85 @@ Here's a comprehensive table of Japanese special number forms (pronunciation cha
 | 14     | 十四人 (juuyonin)     | 十四時 (juuyoji)     | 十四日 (juuyokka)     | 十四月 (juuyongatsu)     | 十四年 (juuyonen)        | 十四階 (juuyonkai)     | 十四個 (juuyonko)         | 十四本 (juuyonhon)        | 十四枚 (juuyonmai)        | 十四匹 (juuyonhiki)      |
 | 20     | 二十人 (nijuunin)     | 二十時 (nijuuji)     | 二十日 (hatsuka)      | 二十月 (nijuugatsu)      | 二十年 (nijuunen)        | 二十階 (nijukkai)      | 二十個 (nijukko)          | 二十本 (nijuppon)         | 二十枚 (nijuumai)         | 二十匹 (nijuppiki)       |
 | 24     | 二十四人 (nijuuyonin) | 二十四時 (nijuuyoji) | 二十四日 (nijuuyokka) | 二十四月 (nijuuyongatsu) | 二十四年 (nijuuyonen)    | 二十四階 (nijuuyonkai) | 二十四個 (nijuuyonko)     | 二十四本 (nijuuyonhon)    | 二十四枚 (nijuuyonmai)    | 二十四匹 (nijuuyonhiki)  |
+
+# Japanese Numbers Pronunciation Guide
+
+## Basic Numbers (1-10)
+
+| Number | Kanji | Hiragana  | Romaji      |
+| ------ | ----- | --------- | ----------- |
+| 1      | 一    | いち      | ichi        |
+| 2      | 二    | に        | ni          |
+| 3      | 三    | さん      | san         |
+| 4      | 四    | よん/し   | yon/shi     |
+| 5      | 五    | ご        | go          |
+| 6      | 六    | ろく      | roku        |
+| 7      | 七    | なな/しち | nana/shichi |
+| 8      | 八    | はち      | hachi       |
+| 9      | 九    | きゅう/く | kyuu/ku     |
+| 10     | 十    | じゅう    | juu         |
+
+## Tens (10-90)
+
+| Number | Kanji | Hiragana     | Romaji   |
+| ------ | ----- | ------------ | -------- |
+| 10     | 十    | じゅう       | juu      |
+| 20     | 二十  | にじゅう     | nijuu    |
+| 30     | 三十  | さんじゅう   | sanjuu   |
+| 40     | 四十  | よんじゅう   | yonjuu   |
+| 50     | 五十  | ごじゅう     | gojuu    |
+| 60     | 六十  | ろくじゅう   | rokujuu  |
+| 70     | 七十  | ななじゅう   | nanajuu  |
+| 80     | 八十  | はちじゅう   | hachijuu |
+| 90     | 九十  | きゅうじゅう | kyuujuu  |
+
+## Hundreds (100-900)
+
+| Number | Kanji | Hiragana     | Romaji    |
+| ------ | ----- | ------------ | --------- |
+| 100    | 百    | ひゃく       | hyaku     |
+| 200    | 二百  | にひゃく     | nihyaku   |
+| 300    | 三百  | さんびゃく   | sanbyaku  |
+| 400    | 四百  | よんひゃく   | yonhyaku  |
+| 500    | 五百  | ごひゃく     | gohyaku   |
+| 600    | 六百  | ろっぴゃく   | roppyaku  |
+| 700    | 七百  | ななひゃく   | nanahyaku |
+| 800    | 八百  | はっぴゃく   | happyaku  |
+| 900    | 九百  | きゅうひゃく | kyuuhyaku |
+
+## Thousands (1,000-9,000)
+
+| Number | Kanji | Hiragana   | Romaji  |
+| ------ | ----- | ---------- | ------- |
+| 1,000  | 千    | せん       | sen     |
+| 2,000  | 二千  | にせん     | nisen   |
+| 3,000  | 三千  | さんぜん   | sanzen  |
+| 4,000  | 四千  | よんせん   | yonsen  |
+| 5,000  | 五千  | ごせん     | gosen   |
+| 6,000  | 六千  | ろくせん   | rokusen |
+| 7,000  | 七千  | ななせん   | nanasen |
+| 8,000  | 八千  | はっせん   | hassen  |
+| 9,000  | 九千  | きゅうせん | kyuusen |
+| 10,000 | 一万  | いちまん   | ichiman |
+
+## Forming Compound Numbers
+
+To form numbers in between, combine these elements. For example:
+
+| Number | Kanji          | Hiragana                       | Romaji                       |
+| ------ | -------------- | ------------------------------ | ---------------------------- |
+| 11     | 十一           | じゅういち                     | juuichi                      |
+| 42     | 四十二         | よんじゅうに                   | yonjuuni                     |
+| 378    | 三百七十八     | さんびゃくななじゅうはち       | sanbyaku nanajuu hachi       |
+| 1,995  | 千九百九十五   | せんきゅうひゃくきゅうじゅうご | sen kyuuhyaku kyuujuu go     |
+| 5,678  | 五千六百七十八 | ごせんろっぴゃくななじゅうはち | gosen roppyaku nanajuu hachi |
+
+## Phonetic Changes
+
+Note some sound changes in compound numbers:
+
+- 300: さんびゃく (sanbyaku) - "h" becomes "b"
+- 600: ろっぴゃく (roppyaku) - "h" becomes "p" and "roku" becomes "ro"
+- 800: はっぴゃく (happyaku) - "h" becomes "p" and "hachi" becomes "ha"
+- 3,000: さんぜん (sanzen) - "s" becomes "z"
+- 8,000: はっせん (hassen) - "hachi" becomes "ha"
