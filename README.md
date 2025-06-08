@@ -4,13 +4,9 @@ Resources and tools for my Japanese journey from beginner to N3.
 
 ## 📚 Contents
 
-- [N5 Vocabulary](N5_vocab)
-- [N5 Grammar](N5_grammar)
+- [Japanese Vocabulary](vocab/)
+- [Japanese Grammar](grammar/)
 - [Writing Systems](characters.md)
-
-## 🚀 Start Here
-
-Structured resources for all levels, from beginner to intermediate.
 
 ## 📝 Writing Systems
 
@@ -18,16 +14,12 @@ Structured resources for all levels, from beginner to intermediate.
 - [Katakana](characters.md)
 - [Kanji](kanji.md)
 
-## 🏗️ Grammar
+## Listening Materials
 
-- [N5 Grammar](N5_grammar)
-- [N4 Grammar](N4_grammar)
-- [N3 Grammar](N3_grammar)
+- [Japanese Listening SHOGUN](https://www.youtube.com/@Japanese-Listening-SHOGUN/playlists)
+- [N4 Playlist](https://www.youtube.com/watch?v=R9oxpZhEE4Q&list=PLWD7V_WAPAfTdJBOXGicauPWFazSS_8rF)
+- [N5 Playlist](https://www.youtube.com/watch?v=qLZt5NwiR2A&list=PLWD7V_WAPAfRYxu7YIzXI1hTURqaDc48W)
+- [N5 Verbs](https://www.youtube.com/watch?v=1-WP81xXaRU&list=PLn_Pnar7YNuFzoSfdZOKOut8NCyMOzR7x)
+- [N4 Verbs](https://www.youtube.com/watch?v=buBR7i2g3hM&list=PLVoh0TejuIyNV4ikifxdeNi84B-dof1fn)
 
-Each includes explanations, examples, and exercises.
-
-## 📖 Vocabulary
-
-- [N5 Vocabulary](N5_vocab)
-
-_Happy Learning! がんばって！_
+  _Happy Learning! がんばって！_
