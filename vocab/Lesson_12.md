@@ -43,9 +43,11 @@
 | 39  | どちらも            |                 | dochiramo         | pronoun        | both (どちらも好きです - I like both)                                     |
 | 40  | ずっと              |                 | zutto             | adverb         | all along (ずっと待っています - I've been waiting all along)              |
 | 41  | ただいま。          |                 | tadaima           | expression     | I'm home (ただいま帰りました - I'm back home)                             |
-| 42  | お帰かえりなさい。  |                 | okaerinasai       | expression     | Welcome back (お帰りなさい、お父さん - Welcome back, father)              |
+| 42  | おかえりなさい。    | お帰りなさい    | okaerinasai       | expression     | Welcome back (お帰りなさい、お父さん - Welcome back, father)              |
 | 43  | すごいですね。      |                 | sugoidesune       | expression     | That's amazing (すごいですね、上手ですね - That's amazing, you're good)   |
 | 44  | でも                |                 | demo              | conjunction    | but (好きです、でも高いです - I like it, but it's expensive)              |
 | 45  | つかれました        | 疲れました      | tsukaremashita    | verb (past)    | tired (今日はとても疲れました - I'm very tired today)                     |
 | 46  | ホンコン            |                 | honkon            | noun           | Hong Kong (ホンコンに行きました - I went to Hong Kong)                    |
 | 47  | シンガポール        |                 | shingapooru       | noun           | Singapore (シンガポールは暑いです - Singapore is hot)                     |
+| 48  | とし                | 年齢            | toshi             | noun           | age (あなたの年齢は何歳ですか - What is your age?)                        |
+| 49  | yoshi               |                 | yoshi             | noun           | good (良いですね - That's good)                                           |
