@@ -115,3 +115,49 @@
 | もし                    | moshi               | てんきん                | tenkin             |
 
 # Lesson 1 - 10
+
+| Term             | Reading        | Term              | Reading         |
+| ---------------- | -------------- | ----------------- | --------------- |
+| あのかた         | anokata        | ドイツ            | doitsu          |
+| しんぶん         | shinbun        | めいし            | meishi          |
+| テレホンカード   | terehonkaado   | ボールペン        | bourupen        |
+| シャープペンシル | shaapupenshiru | カセットテープ    | kassetto teepu  |
+| テープレコーダー | teepurekoodaa  | つくえ = テブル   | tsukue = teburu |
+| いす khác いぬ   | isu khác inu   | ちがいます        | chigaimasu      |
+| しょくどう       | shokudou       | じむしょう        | jimushou        |
+| はたらきます     | hatarakimasu   | ゆうびんきょく    | yuubinkyoku     |
+| ごぜん           | gozen          | ごご              | gogo            |
+| あさ             | asa            | ひる              | hiru            |
+| よる             | yoru           | おととい          | ototoi          |
+| きのう           | kinou          | きょう            | kyou            |
+| あした           | ashita         | あさって          | asatte          |
+| けさ             | kesa           | こんばん          | konban          |
+| かようび         | kayoubi        | もくようび        | mokuyoubi       |
+| かえります       | kaerimasu      | ひこうき          | hikouki         |
+| ちかてつ         | chikatetsu     | しんかんせん      | shinkansen      |
+| かれ             | kare           | かのじょ          | kanojo          |
+| せんしゅう       | senshuu        | こんしゅう        | konshuu         |
+| らいしゅう       | raishuu        | せんげつ          | sengetsu        |
+| こんげつ         | kongetsu       | らいげつ          | raigetsu        |
+| きょねん         | kyonen         | ことし            | kotoshi         |
+| らいねん         | rainen         | きゅうこう        | kyuukou         |
+| とっきゅう       | tokkyuu        | ききます          | kikimasu        |
+| かきます         | kakimasu       | ごはん            | gohan           |
+| やさい           | yasai          | くだもの          | kudamono        |
+| みず             | mizu           | ぎゅうにゅう      | gyuunyuu        |
+| ミルク           | miruku         | ジュース          | juusu           |
+| しゅくだい       | shukudai       | サッカー          | sakka           |
+| いつも           | itsumo         | ときどき          | tokidoki        |
+| きります         | kirimasu       | おくります        | okurimasu       |
+| もらいます       | moraimasu      | かします          | kashimasu       |
+| かります         | karimasu       | はさみ            | hasami          |
+| セロテイプ       | seroteipu      | おみやげ          | omiage          |
+| つめたい         | tsumetai       | ひくい            | hikui           |
+| ところ           | tokoro         | りょう            | ryou            |
+| せいかつ         | seikatsu       | へたな            | hetana          |
+| やきゅう         | yakyuu         | こまかいおかね    | komakai okane   |
+| ごしゅうじん     | goshuujin      | おっと/しゅうじん | otto/shuujin    |
+| おくさん         | okusan         | つま/かない       | tsuma/kanai     |
+| こども           | kodomo         | だいたい          | daitai          |
+| たくさん         | takusan        | すこし            | sukoshi         |
+| ぜんぜん         | zenzen         | -                 | -               |
