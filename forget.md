@@ -1,0 +1,117 @@
+# Lesson 10 - 25
+
+| Term                    | Reading             | Term                    | Reading            |
+| ----------------------- | ------------------- | ----------------------- | ------------------ |
+| ちょうし                | choushi             | おふろ                  | ofuro              |
+| しゅうかん              | shuukan             | -                       | -                  |
+| うわぎ                  | uwagi               | おとこのこ              | otokonoko          |
+| おんなのこ              | onnanoko            | フィルム                | firumu             |
+| たな                    | tana                | ポスト                  | posuto             |
+| ビル - ビール           | biru - biiru        | まえ vs うしろ          | mae vs ushiro      |
+| なか vs そと            | naka vs soto        | ちかく                  | chikaku            |
+| あいだ                  | aida                | やなど                  | yanado             |
+| おく                    | oku                 | やすみます              | yasumimasu         |
+| Số đếm đồ vật           | -                   | Ngày trong tháng        | -                  |
+| Số đếm người            | -                   | だい (đếm xe)           | dai                |
+| みかん                  | mikan               | きって                  | kitte              |
+| はがき                  | hagaki              | ふうとう                | fuutou             |
+| そくたつ                | sokutatsu           | かきとめ                | kakitome           |
+| りょうし                | ryoushi             | きょうだい              | kyoudai            |
+| あに - おにいさん       | ani - oniisan       | ちち - おとさん         | chichi - otosan    |
+| はは - おかさん         | haha - okasan       | あね - おねいさん       | ane - oneisan      |
+| おとうと - おとうとさん | otouto - otouto san | いもうと - いもうとさん | imouto - imoutosan |
+| がいこく                | gaikoku             | とおい                  | toui               |
+| おそい                  | osoi                | すくない                | sukunai            |
+| あたたかい              | atatakai            | あまい                  | amai               |
+| からい                  | karai               | かるい                  | karui              |
+| きせつ                  | kisetsu             | ふゆ                    | fuyu               |
+| ゆき                    | yuki                | くうこう                | kuukou             |
+| こうくうびん            | koukuubin           | おまつり                | omatsuri           |
+| しけん                  | shiken              | いけばな                | ikebana            |
+| もみじ                  | momiji              | およぎます              | oyogimasu          |
+| しょくじします          | shokujishimasu      | ていしょく              | teishoku           |
+| せまい                  | semai               | しやくしょ              | shiyakusho         |
+| とうろく                | touroku             | ぎゅうどん              | gyuudon            |
+| じゅうしょ              | juusho              | しお                    | shio               |
+| さとう                  | satou               | ゆうくり                | yuukuri            |
+| すぐ                    | sugu                | あとで                  | atode              |
+| おつり                  | otsuri              | つかいます              | tsukaimasu         |
+| つくります              | tsukurimasu         | おきます                | okimasu            |
+| うります                | urimasu             | じこくひょう            | jikokuhyo          |
+| せいひん                | seihin              | とこや                  | tokoya             |
+| どくしん                | dokushin            | ごかぞく                | gokazoku           |
+| かぞく                  | kazoku              | がっこう                | gakkou             |
+| こうこう                | koukou              | しょうがっこう          | shōgakkō           |
+| あびます                | abimasu             | やめます                | yamemasu           |
+| やすみます              | yasumimasu          | おします                | oshimasu           |
+| わかい                  | wakai               | ながい                  | nagai              |
+| みじかい                | mijikai             | あかるい                | akarui             |
+| くらい                  | kurai               | せがたかい              | segatakai          |
+| あたまがいい            | atamagaii           | からだ                  | karada             |
+| かお                    | kao                 | あし                    | ashi               |
+| おてら                  | otera               | じんじゃ                | jinja              |
+| あんしょうばんごう      | anshoubangou        | つぎに                  | tsugini            |
+| きんがく                | kingaku             | かくにん                | kakunin            |
+| はらいます              | haraimasu           | かえします              | kaeshimasu         |
+| でかけます              | dekakemasu          | ざんぎょうします        | zangyoushimasu     |
+| しゅっちょうします      | shucchoushimasu     | たいせつ                | taisetsu           |
+| あぶない                | abunai              | こたえ                  | kotae              |
+| きねん                  | kinen               | ほけんしょ              | hokenshyo          |
+| ねつ                    | netsu               | びょうき                | byouki             |
+| したぎ                  | shitagi             | あらいます              | araimasu           |
+| あつめます              | atsumemasu          | すてます                | sutemasu           |
+| よやくします            | yoyakushimasu       | けんがくします          | kengakushimasu     |
+| けんがく                | kengaku             | こくさい                | kokusai            |
+| にっき                  | nikki               | おいのり                | oinori             |
+| かちょう                | kachou              | ぶちょう                | buchou             |
+| しゃちょう              | shachou             | ぼくじょう              | bokujou            |
+| ぜひ                    | zehi                | そうじします            | soujishimasu       |
+| そうじ                  | souji               | せんたくします          | sentakushimasu     |
+| ねむい                  | nemui               | よわい                  | yowai              |
+| ちょうしがいい          | choushigaii         | いちど                  | ichido             |
+| いちども                | ichidomo            | だんだん                | dandan             |
+| もうすぐ                | mousugu             | すぐ                    | sugu               |
+| じつわ                  | jitsuwa             | なんかいも              | nankaimo           |
+| しかし                  | shikashi            | むりな                  | murina             |
+| からだにいい            | karadaniii          | いります                | irimasu            |
+| しゅうりします          | shuurishimasu       | しゅうり                | shuuri             |
+| ぼく                    | boku                | きみ                    | kimi               |
+| サラリーマン            | sarariiman          | ことば                  | kotoba             |
+| ぶっか                  | bukka               | このあいだ              | konoaida           |
+| けど                    | kedo                | たります                | tarimasu           |
+| かちます                | kachimasu           | まけます                | makemasu           |
+| あります                | arimasu             | やくにたちます          | yakunitachimasu    |
+| むだ                    | muda                | ふべん                  | fuben              |
+| しゅしょう              | shushou             | せいじ                  | seiji              |
+| しあい                  | shiai               | ユーモア                | yuumoa             |
+| こうつう                | koutsuu             | ラッシュ                | rasshu             |
+| さいきん                | saikin              | きます                  | kimasu             |
+| はきます                | hakimasu            | かけます                | kakemasu           |
+| うまれます              | umaremasu           | コート                  | kouto              |
+| うわぎ                  | uwagi               | スーツ                  | suutsu             |
+| セーター                | seitaa              | ぼうし                  | boushi             |
+| やちん                  | yachin              | ダイニングキッチン      | dainingukichin     |
+| わしつ                  | washitsu            | おしいれ                | oshiire            |
+| ふとん                  | futon               | まわします              | mawashimasu        |
+| ひきます                | hikimasu            | さわります              | sawarimasu         |
+| すわります              | suwarimasu          | うごきます              | ugokimasu          |
+| あるきます              | arukimasu           | わたります              | watarimasu         |
+| きをつけます            | ki o tsukemasu      | ひっこしします          | hikkoshishimasu    |
+| ひっこし                | hikkoshi            | おと                    | oto                |
+| きかい                  | kikai               | つまみ                  | tsumami            |
+| こしょう                | koshou              | こうさてん              | kousaten           |
+| かど                    | kado                | ちゅうしゃじょう        | chuushajou         |
+| おしょうがつ            | osyougatsu          | おしょう                | osyou              |
+| たてもの                | tatemono            | とうろくしょう          | tourokushou        |
+| たいし                  | taishi              | くれます                | kuremasu           |
+| つれていきます          | tsureteikimasu      | つれてきます            | tsuretekimasu      |
+| おくります              | okurimasu           | しょうかいします        | shoukaishimasu     |
+| あんないします          | annaishimasu        | せつめいします          | setsumeishimasu    |
+| コーヒーをいれます      | kohi o iremasu      | おかし                  | okashi             |
+| ほかに                  | hokani              | おべんとう              | obentou            |
+| かんがえます            | kangaemasu          | つきます                | tsukimasu          |
+| としをとります          | toshi o torimasu    | いなか                  | inaka              |
+| たいしかん              | taishikan           | おく                    | oku                |
+| もし                    | moshi               | てんきん                | tenkin             |
+
+# Lesson 1 - 10

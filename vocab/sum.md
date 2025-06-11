@@ -44,7 +44,6 @@
 | 40  | けんかします     |                | けんかする                    | kenka shimasu      | Verb           | quarrel                             | 兄弟とけんかします。(I quarrel with my siblings.)                        |
 | 41  | ふしぎ（な）     | 不思議（な）   | 不思議 (ふしぎ)               | fushigi (na)       | Adjective      | mysterious, interesting, confusing. | これは不思議な現象です。(This is a mysterious phenomenon.)               |
 
-
 # Lesson 28 Vocabulary
 
 | No. | Vocabulary                         | Kanji                            | Romaji                          | Te-form        | Nai-form         | Part of Speech | Meaning                              | Example                                                                                             |
@@ -97,7 +96,6 @@
 | 46  | ど                                 | 土                               | do                              | -              | -                | Noun           | Saturday                             | 土曜日は仕事がありません。(I don't have work on Saturday.)                                          |
 | 47  | たいいくかん                       | 体育館                           | taiikukan                       | -              | -                | Noun           | gymnasium, sports center             | 体育館でバスケットボールをしました。(I played basketball in the gymnasium.)                         |
 | 48  | むりょう                           | 無料                             | muryō                           | -              | -                | Na-adjective   | free of charge, no cost              | このサービスは無料です。(This service is free of charge.)                                           |
-
 
 # Lesson 5 Vocabulary
 
@@ -157,7 +155,6 @@
 | 52  | とっきゅう       | 特急     | tokkyuu          | limited express train                  | Noun           |                     |          | 特急で旅行します。 (I will travel by limited express train.)                                                |
 | 53  | つぎの           | 次の     | tsugi no         | next                                   | Adjective      |                     |          | 次の駅で降ります。 (I will get off at the next station.)                                                    |
 | 54  | どういたしまして |          | douitashimashite | you're welcome                         | Expression     |                     |          | ありがとうと言われたら、どういたしましてと言います。 (When someone says thank you, you say you're welcome.) |
-
 
 # Lesson 1
 
@@ -234,7 +231,6 @@
       願い (negai): Means "wish," "request," or "desire"
       します (shimasu): The polite form of "to do"
 
-
 # Lesson 18 Vocabulary
 
 | No. | Vocabulary             | Romaji                    | Dictionary Form | Nai-Form       | Te-Form      | Ta-Form      | Kanji              | Part of Speech   | Meaning                          |
@@ -268,7 +264,6 @@
 | 27  | ぜひ                   | zehi                      |                 |                |              |              |                    | adverb           | certain                          |
 | 28  | いっしょに             | issho ni                  |                 |                |              |              | 一緒に             | adverb           | together                         |
 | 29  | いっしょにいきませんか | issho ni ikimasen ka      |                 |                |              |              | 一緒に行きませんか | expression       | shall we go together?            |
-
 
 # Lesson 19 Vocabulary
 
@@ -304,7 +299,6 @@
 | 28  | むり「な」       | 無理「な」 | muri (na)       | Na-adjective   | むりではない         | むりじゃない         | むりで             | むりだった           | impossible, unreasonable | それは無理な要求です。(That is an unreasonable request.)                                    |
 | 29  | からだにいい     | 体にいい   | karada ni ii    | Expression     | からだによくない     | からだによくない     | からだによくて     | からだによかった     | good for health          | 野菜は体にいいです。(Vegetables are good for your health.)                                  |
 | 30  | ケーキ           | ケーキ     | kēki            | Noun           | -                    | -                    | -                  | -                    | cake                     | 誕生日にケーキを食べました。(I ate cake on my birthday.)                                    |
-
 
 # Lesson 39 Vocabulary
 
@@ -354,7 +348,6 @@
 | 42  | あいます                  | あう                    | aimasu / au               | 会います / 会う           | Verb (Group 1) | medium, proper                                                 | 昨日友達に会いました。(I met my friend yesterday.)                                                          |
 | 43  | いまでは                  | いまでは                | ima dewa                  | 今では                    | Expression     | now then)                                                      | 今では多くの人がスマホを使います。(Nowadays, many people use smartphones.)                                  |
 | 44  | せいじんしき              | せいじんしき            | seijinshiki               | 成人式                    | Noun           | maturity ceremony, maturation ceremony                         | 1月に成人式に出ました。(I attended the coming-of-age ceremony in January.)                                  |
-
 
 # Lesson 29 Vocabulary
 
@@ -411,7 +404,6 @@
 | 49  | たおれます               | taoremasu        | 倒れます       | たおれて   | たおれない          | Verb (intrans) | to fall over, to collapse                  | 木が倒れました。(The tree fell over.)                                     |
 | 50  | にしのほう               | nishi no hou     | 西の方         | -          | -                   | Noun Phrase    | western direction, westward                | 西の方に山があります。(There's a mountain to the west.)                   |
 | 51  | もえます                 | moemasu          | 燃えます       | もえて     | もえない            | Verb (intrans) | to burn                                    | 紙が燃えています。(The paper is burning.)                                 |
-
 
 # Lesson 4 Vocabulary
 
@@ -491,7 +483,6 @@ events. KIPPU is used for tickets on the train mostly. There is another word for
 tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 (boarding pass), JOUSHAKEN (train pass).
 
-
 # Lesson 32 Vocabulary
 
 | No. | Vocabulary                   | Kanji                    | Romaji                       | Te-form                      | Nai-form                        | Part of Speech | Meaning                     | Example                                                                                                                                            |
@@ -554,7 +545,6 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 56  | こいびと                     | 恋人                     | koibito                      | -                            | -                               | Noun           | lover, boyfriend/girlfriend | こいびとがいます。(Koibito ga imasu - I have a boyfriend/girlfriend)                                                                               |
 | 57  | （お）かねもち               | （お）金持ち             | (o)kanemochi                 | -                            | -                               | Noun           | wealthy person              | かねもちになりたいです。(Kanemochi ni naritai desu - I want to become rich)                                                                        |
 
-
 # Lesson 22 Vocabulary
 
 | No. | Vocabulary               | Kanji            | Romaji              | Te-form  | Tai-form   | Part of Speech | Meaning                                                     | Example                                                                                              |
@@ -585,7 +575,6 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 24  | レジャーはくしょ         | レジャー白書     | rejā hakusho        | -        | -          | Noun           | white paper on spending free time                           | レジャーはくしょによると、旅行が人気です。(According to the leisure white paper, travel is popular.) |
 | 25  | かんこうち               | 観光地           | kankōchi            | -        | -          | Noun           | tourist spot                                                | かんこうちを見学します。(I will visit the tourist spot.)                                             |
 | 26  | この間                   | kono aida        | -                   | -        | -          | Noun           | the other day                                               | この間、友達と映画を見ました。(The other day, I watched a movie with my friend.)                     |
-
 
 # Lesson 16 Vocabulary
 
@@ -639,7 +628,6 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 46  | アジア                    | ajia                    |                     | Noun                          |                     |            |              | Asia                                                            | アジアに住んでいます。(I live in Asia.)                                                             |
 | 47  | ベトナム                  | betonamu                |                     | Noun                          |                     |            |              | Vietnam                                                         | ベトナムから来ました。(I came from Vietnam.)                                                        |
 
-
 # Lesson 36 Vocabulary
 
 | No. | Vocabulary           | Dictionary Form    | Kanji        | Romaji             | Meaning                | Part of Speech   | Example                                                                  |
@@ -691,7 +679,6 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 45  | うちゅう             | うちゅう           | 宇宙         | uchuu              | universe               | Noun             | 宇宙に興味があります。(I am interested in the universe.)                 |
 | 46  | ちきゅう             | ちきゅう           | 地球         | chikyuu            | Earth                  | Noun             | 地球は青い星です。(Earth is a blue planet.)                              |
 
-
 # Lesson 43 Vocabulary
 
 | No. | Vocabulary     | Kanji        | Romaji       | Meaning                                        | Part of Speech               | Te-form    | Nai-form (informal) | Example Sentence (JP)          | Example Sentence (EN)                  |
@@ -726,7 +713,6 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 28  | ～といいます   | ～と言います | ~ to iimasu  | The name is ~ / called ~                       | expression                   |            |                     | これは「さくら」といいます。   | This is called "sakura".               |
 | 29  | ばら           |              | bara         | rose                                           | noun                         |            |                     | ばらの花がきれいです。         | The rose is beautiful.                 |
 | 30  | ドライブ       |              | doraibu      | drive (hang out)                               | noun                         |            |                     | 友達とドライブに行きます。     | I go for a drive with friends.         |
-
 
 # Lesson 12 Vocabulary
 
@@ -779,7 +765,6 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 45  | つかれました        | 疲れました      | tsukaremashita    | verb (past)    | tired (今日はとても疲れました - I'm very tired today)                     |
 | 46  | ホンコン            |                 | honkon            | noun           | Hong Kong (ホンコンに行きました - I went to Hong Kong)                    |
 | 47  | シンガポール        |                 | shingapooru       | noun           | Singapore (シンガポールは暑いです - Singapore is hot)                     |
-
 
 # Lesson 26 Vocabulary
 
@@ -834,7 +819,6 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 47  | うちゅうせんちょう | 宇宙船長       | uchū senchō     | Spaceship captain               | noun                | うちゅうせんちょう | -                | -                  | うちゅうせんちょうは勇敢です。The spaceship captain is brave.                  |
 | 48  | 時間               | 時間           | toki            | time                            | noun                | とき               | -                | -                  | いいときに来てください。Please come at a good time.                            |
 
-
 # Lesson 37 Vocabulary
 
 | No. | Vocabulary         | Dictionary Form    | Kanji          | Romaji           | Part of Speech | Meaning                        | Example                                                                                                 |
@@ -887,7 +871,6 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 46  | いっしょうけんめい | いっしょうけんめい | 一生懸命       | isshoukenmei     | Adverb         | with all one's might           | 彼はいっしょうけんめい勉強しています。(He is studying with all his might.)                              |
 | 47  | ねずみ             | ねずみ             |                | nezumi           | Noun           | mouse, rat                     | 家にねずみが出ました。(A mouse appeared in the house.)                                                  |
 | 48  | いっぴきもいません | いっぴきもいない   | 一匹もいません | ippiki mo imasen | Expression     | there is not even one (animal) | この公園には鳥がいっぴきもいません。(There is not even a single bird in this park.)                     |
-
 
 # Lesson 42 Vocabulary
 
@@ -948,7 +931,6 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 53  | どこででも           | doko de demo     |              | any where         | —            | expression     | どこででも勉強できます。           | I can study anywhere.                                |
 | 54  | いまでは             | ima de wa        | 今では       | now; The current  | —            | expression     | いまでは便利になりました。         | Now it has become convenient.                        |
 
-
 # Lesson 13 Vocabulary
 
 | No. | Vocabulary                   | Kanji                | Romaji                 | Part of Speech | Nai-form (Informal) | Te-form      | Meaning                                    |
@@ -1005,7 +987,6 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | ご注文は             | Gochuumon wa          | As for your order    | - ご (go): Honorific prefix<br>- 注文 (chuumon): Order<br>- は (wa): Topic marker                                                                             | - Note: は is written "ha" in hiragana but pronounced "wa"                                                      | - Without honorific: 注文は<br>- Question: ご注文は何ですか？<br>- Confirmation: ご注文は以上ですか？<br>- With different particle: ご注文を承ります                             |
 | 少々お待ちください   | Shōshō omachi kudasai | Please wait a moment | - 少々 (shōshō): A little, a moment<br>- お待ち (omachi): Polite form of "to wait"<br>- ください (kudasai): Please                                            | - お待ち comes from 待つ (matsu) with honorific prefix                                                          |                                                                                                                                                                                  |
 | 別々に               | Betsubetsu ni         | Separately           | - 別々 (betsubetsu): Separate<br>- に (ni): Adverbial marker                                                                                                  | - Uses kanji 別 (betsu) repeated twice to emphasize the distinct nature                                         |                                                                                                                                                                                  |
-
 
 # Lesson 27 Vocabulary
 
@@ -1069,7 +1050,6 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 56  | しゅうり         | 修理       | shuuri           | Noun           |          |            | repair                                       | 車の修理をしました。<br>(I repaired the car.)                                      |
 | 57  | こと             | こと       | koto             | Noun           |          |            | things                                       | いろいろなことを学びました。<br>(I learned various things.)                        |
 
-
 # Lesson 33 Vocabulary
 
 | No. | Vocabulary             | Kanji              | Romaji             | Te-form      | Nai-form       | Part of Speech | Meaning                          | Example                                                                             |
@@ -1129,7 +1109,6 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 53  | かなしい               | 悲しい             | kanashii           | かなしくて   | かなしくない   | adj-i          | sad                              | 彼女は悲しい顔をしていました。(She had a sad face.)                                 |
 | 54  | りようします           | 利用します         | riyō shimasu       | りようして   | りようしない   | verb           | use, take advantage, make use of | 図書館を利用します。(I'll use the library.)                                         |
 
-
 # Lesson 23 Vocabulary
 
 | No. | Vocabulary                 | Kanji        | Romaji               | Te-form      | Tai-form       | Part of Speech | Meaning                           | Example                                                                                   |
@@ -1166,7 +1145,6 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 30  | かんりにん                 | 管理人       | kanrinin             | -            | -              | Noun           | caretaker                         | 管理人はどこですか。(Where is the caretaker?)                                             |
 | 31  | かんり                     | 管理         | kanri                | -            | -              | Noun           | management                        | このビルの管理は大変です。(The management of this building is difficult.)                 |
 | 32  | かんりにんしょ             | 管理人証     | kanrinin shō         | -            | -              | Noun           | caretaker certificate             | 管理人証を見せてください。(Please show me your caretaker certificate.)                    |
-
 
 # Lesson 17 Vocabulary
 
@@ -1210,7 +1188,6 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 36  | [～が] いたいです       |                      | -                | -                  | -                | [~ ga] itai desu | Expression     | ~ hurts                   | 頭が痛いです。                     |
 | 37  | のど                    |                      | -                | -                  | -                | nodo             | Noun           | throat                    | のどが痛いです。                   |
 | 38  | おだいじに              |                      | -                | -                  | -                | odaiji ni        | Expression     | Get well soon             | お大事に。早く良くなってください。 |
-
 
 # Lesson 34 Vocabulary
 
@@ -1267,7 +1244,6 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 49  | にえます             | niemasu              | 煮えます       | Verb           | cooked, cooked             | にえて         | にえない         | 水がにえました。(The water boiled.)                                   |
 | 50  | どんぶり             | donburi              |                | Noun           | Bowl                       | -              | -                | どんぶりにご飯を入れます。(I put rice in the bowl.)                   |
 
-
 # Lesson 9 Vocabulary
 
 | No. | Vocabulary                 | Romaji                   | Kanji                  | Part of Speech | Meaning                                                                                              |
@@ -1323,7 +1299,6 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 48  | だめですか。               | dame desuka              |                        | expression     | So you cannot (come)? (明日は来られませんか: Can't you come tomorrow?)                               |
 | 49  | またこんどおねがいします   | mata kondo onegaishimasu | また今度お願いします。 | expression     | Please ask me again some other time. (また今度お願いします: Let's do it another time)                |
 
-
 # Lesson 10 Vocabulary
 
 | No. | Vocabulary             | Romaji             | Kanji  | Part of Speech | Te-Form    | Nai-Form (Informal) | Masu-Form    | Meaning                                           | Example                                                                            |
@@ -1377,7 +1352,6 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 47  | スパイス コーナー      | supaisu koonaa     |        | Noun           | -          | -                   | -            | Spice corner                                      | スパイスコーナーでカレー粉を買います。(I'll buy curry powder at the spice corner.) |
 | 48  | 東京ディズニーランド   | tokyo dizuniirando |        | Noun           | -          | -                   | -            | Tokyo Disneyland                                  | 東京ディズニーランドに行きます。(I'll go to Tokyo Disneyland.)                     |
 | 49  | ユニューや ストア      | yunyuuya sutoa     |        | Noun           | -          | -                   | -            | Fictitious supermarket                            | ユニューやストアで買い物をします。(I'll shop at Yunyuya Store.)                    |
-
 
 # Lesson 41 Vocabulary
 
@@ -1444,7 +1418,6 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 59  | げんきん              | 現金              | genkin               | Noun           | cash                                       | -              | げんきんをおろします。(I'll withdraw cash.)                                       |
 | 60  | かんしゃ              | 感謝              | kansha               | Noun           | gratitude                                  | -              | かんしゃの気持ちを伝えます。(I express my gratitude.)                             |
 
-
 # Lesson 30 Vocabulary
 
 | No. | Vocabulary                 | Kanji                  | Romaji                        | Te-Form        | Nai-Form         | Part of Speech | Meaning                          | Example                                                                            |
@@ -1503,7 +1476,6 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 52  | すると                     |                        | suruto                        | -              | -                | Conjunction    | then, thereupon                  | ボタンを押すと、ドアが開きます。(When you press the button, the door opens.)       |
 | 53  | めがさめます               | 目が覚めます           | mega samemasu                 | めがさめて     | めがさめない     | Verb           | to wake up, to awaken            | 朝7時にめがさめます。(I wake up at 7 in the morning.)                              |
 
-
 # Lesson 20 Vocabulary
 
 | No. | Vocabulary           | Kanji      | Romaji              | Part of Speech | Dictionary form | Nai-form       | Te-form      | Ta-form      | Meaning                                     | Example                            |
@@ -1537,7 +1509,6 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 27  | どうしようかな       |            | dou shiyou kana     | Expression     | -               | -              | -            | -            | What to do / let me see                     | 明日は雨だ、どうしようかな。       |
 | 28  | 良かったら           |            | yokattara           | Expression     | -               | -              | -            | -            | If you like it                              | 良かったら、一緒に行きませんか。   |
 | 29  | いろいろ             | 色々       | iroiro              | Adverb         | -               | -              | -            | -            | many things, diverse                        | いろいろな国から来ました。         |
-
 
 # Lesson 14 Vocabulary
 
@@ -1601,7 +1572,6 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 - **onegai (お願い)**: Request or "please"
 - **shimasu (します)**: Polite form of the verb "to do"
 
-
 # Lesson 31 Vocabulary
 
 | No. | Vocabulary                     | Kanji        | Romaji            | Te-form        | Nai-form         | Part of Speech      | Meaning                    | Example                                                                       |
@@ -1647,7 +1617,6 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 39  | しぜん                         | 自然         | shizen            | -              | -                | Noun                | nature                     | 自然の中で過ごすのが好きです。(I like spending time in nature.)               |
 | 40  | すばらしさ                     |              | subarashisa       | -              | -                | Noun                | greatness, splendor        | 音楽の素晴らしさを感じました。(I felt the greatness of the music.)            |
 | 41  | きがつきます                   | 気が付きます | ki ga tsukimasu   | きがついて     | きがつかない     | Expression          | notice, realize            | 間違いに気が付きました。(I noticed the mistake.)                              |
-
 
 # Lesson 21 Vocabulary
 
@@ -1702,7 +1671,6 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 47  | ことがあります     | -                  | kotoga arimasu      | Expression     | ことがある              | -                         | -                             | have done something                                  | 日本に行ったことがあります。(I have been to Japan.)                                 |
 | 48  | jugyou             | 授業               | jugyou              | Noun           | 授業 (じゅぎょう)       | -                         | -                             | class                                                | 授業が始まります。(The class will start.)                                           |
 | 49  | shiken             | 試験               | shiken              | Noun           | 試験 (しけん)           | -                         | -                             | exam                                                 | 明日試験があります。(There is an exam tomorrow.)                                    |
-
 
 # Lesson 15 Vocabulary
 
@@ -1772,7 +1740,6 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 62  | かえられる                   | 変えられる    | 変えられる               | kaerareru               | Potential Verb            | 変えられて     | 変えられない             | 変えられない        | can change                     | 彼は形を変えられます。               |
 | 63  | かえられない                 | 変えられない  | 変えられない             | kaerarenai              | Potential Verb (Negative) | -              | -                        | -                   | cannot change                  | 彼は形を変えられません。             |
 
-
 # Lesson 35 Vocabulary
 
 | No. | Vocabulary       | Kanji            | Romaji            | Part of Speech | Te-form      | Nai-form         | Meaning                                                     | Example                                                                         |
@@ -1821,7 +1788,6 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 42  | ことわざ         |                  | kotowaza          | Noun           | -            | -                | proverb, saying, maxim                                      | 日本のことわざを勉強します。(I study Japanese proverbs.)                        |
 | 43  | なかよくします   | 仲よくします     | naka yoku shimasu | Expression     | なかよくして | なかよくしない   | to get along with, to be friendly with, to be on good terms | クラスのみんなと仲よくします。(I get along with everyone in class.)             |
 | 44  | ひつよう（な）   | 必要（な）       | hitsuyou(na)      | Adjective (na) | ひつようで   | ひつようじゃない | necessary, essential, required                              | パスポートが必要です。(A passport is necessary.)                                |
-
 
 # Lesson 8 Vocabulary
 
@@ -1891,7 +1857,6 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 62  | そろそろ、しつれいします       | そろそろ失礼します。         | It’s almost time to leave now.      | Sorosoro, shitsurei shimasu         | expression     | そろそろ失礼します。                   |
 | 63  | また いらっしゃってください    | またいらっしゃってください。 | Please come again.                  | Mata irasshatte kudasai             | expression     | またいらっしゃってください。           |
 
-
 # Lesson 11 Vocabulary
 
 | No. | Vocabulary            | Kanji            | Romaji            | Part of Speech | Meaning                                                                             |
@@ -1960,7 +1925,6 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 62  | それから              |                  | sorekara          | Conjunction    | And, further more                                                                   |
 | 63  | オーストラリア        |                  | ōsutoraria        | Noun           | Australia                                                                           |
 
-
 # Lesson 40 Vocabulary
 
 | No. | Vocabulary       | Kanji             | Dictionary Form           | Romaji            | Part of Speech | Meaning                                            | Example                                                                                                                   |
@@ -2026,7 +1990,6 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 59  | いまでも         | 今でも            | -                         | ima demo          | Expression     | even now                                           | 今でも彼のことを思い出します。(Ima demo kare no koto wo omoidashimasu. - I still remember him even now.)                  |
 | 60  | うわさします     |                   | うわさする                | uwasa shimasu     | Verb           | rumor                                              | 彼について噂しています。(Kare ni tsuite uwasa shite imasu. - They're gossiping about him.)                                |
 
-
 # Lesson 3 Vocabulary
 
 | No. | Vocabulary          | Kanji  | Romaji              | Meaning                              | Part of Speech |
@@ -2072,7 +2035,6 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 39  | じむしょ            |        | jimusho             | jimusho                              | noun           |
 | 40  | けんきゅう          |        | kenkyuu             | kenkyuu                              | noun           |
 | 41  | センター            |        | sentaa              | sentaa                               | noun           |
-
 
 # Lesson 7 Vocabulary
 
@@ -2121,7 +2083,6 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 41  | おみやげ     | お土産   | souvenir             | omiyage         | Noun           | お土産を買う (おみやげをかう) - Buy a souvenir  |
 | 42  | ヨーロッパ   |          | Europe               | yōroppa         | Noun           | ヨーロッパに行く - Go to Europe                 |
 
-
 # Lesson 24 Vocabulary
 
 | No. | Vocabulary                 | Kanji          | Romaji             | Part of Speech | Dictionary Form              | Te-form                       | Nai-form (Informal)              | Meaning                               | Example                                                               |
@@ -2166,7 +2127,6 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 15  | どうぞおげんきで               | どうぞ元気で                   | dōzo ogenki de                | Expression     |                               |                                |                                   | Please take care         | さようなら、どうぞおげんきで。(Goodbye, please take care of yourself.)    |
 | 16  | （いろいろ）おせわになりました | （いろいろ）お世話になりました | (iroiro) osewa ni narimashita | Expression     |                               |                                |                                   | You helped me a lot      | いろいろおせわになりました。ありがとう。(You helped me a lot. Thank you.) |
 | 17  | がんばります                   | 頑張ります                     | ganbarimasu                   | Verb           | がんばる (ganbaru)            | がんばって (ganbatte)          | がんばらない (ganbaranai)         | try                      | 試験にがんばります。(I'll do my best on the exam.)                        |
-
 
 # Lesson 6 Vocabulary
 
@@ -2232,7 +2192,6 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 57  | わかりました。         | **分かりました。**   | I see                        | wakarimashita        | Phrase         |            |            |          |                              |
 | 58  | じゃ、また。           |                      | See you [tomorrow]           | ja, mata             | Phrase         |            |            |          |                              |
 
-
 # Lesson 2 Vocabulary
 
 | No. | Vocabulary                      | Kanji                     | Romaji                       | Meaning                                                       |
@@ -2284,5 +2243,3 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 45  | [どうも] ありがとう[ございます] |                           | [doumo] arigatou [gozaimasu] | Thank you [very much].                                        |
 | 46  | これから おせわになります       | これから お世話になります | kore kara osewa ni narimasu  | I hope for your kind assistance hereafter.                    |
 | 47  | こちらこそ よろしく             |                           | kochira koso yoroshiku       | I am pleased to meet you. (response to どうぞよろしく)        |
-
-
