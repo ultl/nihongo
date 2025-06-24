@@ -1,93 +1,369 @@
-# N5 grammar
+# N5 Grammar Reference
 
-| Grammar points                                                                            | Meaning                                                                                                                      | Usage                                                                                                                                                     | Example                                                        |
-| ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| [Noun] は<br>wa                                                                           | it, is, in                                                                                                                   | - Marks the topic of the sentence<br>- Used to contrast topics<br>- Placed after the topic noun                                                           | わたしは学生です。                                             |
-| [Noun] も<br>mo<br>[Noun] は も<br>[Noun] が も<br>[Noun] を も                           | also, too, as well                                                                                                           | - Replaces は, が, or を to mean "also"<br>- Used to add or compare items                                                                                 | 田中さんも学生です。                                           |
-| [Noun] で<br>de<br>[Tool/Method] で                                                       | in, at, on, with, by                                                                                                         | - Indicates location of action<br>- Means "by means of" or "using"<br>- Used for tools, methods                                                           | 学校で勉強します。                                             |
-| [Noun] に<br>ni<br>[Noun] へ<br>e                                                         | to, in, at, on                                                                                                               | - Shows direction, destination, time, place, or indirect object<br>- Used for existence verbs (いる/ある)<br>- へ is more formal for direction            | 日本へ行きます。<br>7時に起きます。                            |
-| [Noun] を<br>o                                                                            | the                                                                                                                          | - Marks the direct object of a verb<br>- Placed after the object noun                                                                                     | パンを食べます。                                               |
-| [Noun] と [Noun]<br>to<br>[Person] と                                                     | and, with                                                                                                                    | - Connects nouns ("and")<br>- Means "with" when used with people                                                                                          | 友達と話します。                                               |
-| [Noun] が<br>ga                                                                           | but, however, still                                                                                                          | - Marks the subject<br>- Used for emphasis or introducing new information                                                                                 | 猫がいます。                                                   |
-| [Noun] から<br>kara<br>[Time] から<br>[Reason] から                                       | from, since                                                                                                                  | - Indicates starting point (time/place)<br>- Used to mean "because" in some contexts                                                                      | 東京から来ました。                                             |
-| [Noun] が います<br>ga imasu                                                              | There is, There are, has                                                                                                     | - Used for animate existence<br>- Subject marked by が                                                                                                    | 犬がいます。                                                   |
-| [Noun] が あります<br>ga arimasu                                                          | there is; is (non-living things)                                                                                             | - Used for inanimate existence<br>- Subject marked by が                                                                                                  | 机があります。                                                 |
-| [Verb stem] ましょう<br>mashou                                                            | let's, shall we                                                                                                              | - Volitional form<br>- Used to suggest doing something together                                                                                           | 行きましょう。                                                 |
-| [Verb stem] ましょうか<br>mashou ka                                                       | shall I ~; used to offer help to the listener                                                                                | - Attach to verb stem<br>- Used to offer assistance                                                                                                       | 手伝いましょうか。                                             |
-| [Verb stem] ませんか<br>masen ka                                                          | let's, won't you, wouldn't you                                                                                               | - Attach to verb stem<br>- Polite invitation or suggestion                                                                                                | 一緒に行きませんか。                                           |
-| [Verb stem] たい<br>tai                                                                   | want to                                                                                                                      | - Attach to verb stem<br>- Expresses desire to do something                                                                                               | 食べたいです。                                                 |
-| [Verb て-form] ください<br>te-form kudasai                                                | Please do something                                                                                                          | - Attach to verb て-form<br>- Polite request                                                                                                              | 見てください。                                                 |
-| [Verb ない-form] でください<br>nai-form de kudasai                                        | please don't do                                                                                                              | - Attach to negative verb ない-form<br>- Polite prohibition                                                                                               | ここで食べないでください。                                     |
-| [Noun] だけ<br>dake<br>[Verb] だけ<br>[Adj] だけ                                          | only, just                                                                                                                   | - Follows nouns, verbs, adjectives<br>- Limits the scope                                                                                                  | 一人だけ来ました。                                             |
-| [Verb ない-form] といけない<br>nai-form to ikenai                                         | Must, have to                                                                                                                | - Attach to negative verb ない-form<br>- Expresses obligation                                                                                             | 宿題をしないといけない。                                       |
-| [Verb ない-form] ければなりません<br>nakereba narimasen                                   | Must                                                                                                                         | - Attach to negative verb ない-form<br>- Formal obligation                                                                                                | 行かなければなりません。                                       |
-| [Verb て-form] はいけません<br>te-form wa ikemasen                                        | Don't , mustn't                                                                                                              | - Attach to verb て-form<br>- Strong prohibition                                                                                                          | ここで遊んではいけません。                                     |
-| [Verb dict-form] とき<br>toki<br>[Verb た-form] とき<br>[Adj] とき                        | When, at                                                                                                                     | - Follows verbs or adjectives<br>- Indicates time when something happens                                                                                  | 子供のとき、よく遊びました。                                   |
-| [Verb て-form] から<br>te-form kara                                                       | after doing something; since                                                                                                 | - Attach to verb て-form<br>- Indicates sequence of actions                                                                                               | 食べてから勉強します。                                         |
-| [Verb dict-form] まえに<br>mae ni                                                         | before, in front of                                                                                                          | - Attach to verb dictionary form<br>- Indicates action before another                                                                                     | 寝るまえに本を読みます。                                       |
-| [Verb て-form] いる<br>te-form iru                                                        | be doing something                                                                                                           | - Attach to verb て-form<br>- Expresses ongoing or habitual action                                                                                        | 今、食べています。                                             |
-| もう [Verb]<br>mou<br>もう [Adj]                                                          | already                                                                                                                      | - Used before verbs/adjectives<br>- Indicates completion or change                                                                                        | もう食べました。                                               |
-| [Verb て-form] もいいです<br>te-form mo ii desu                                           | You can do… ; You may do                                                                                                     | - Attach to verb て-form<br>- Gives permission                                                                                                            | 入ってもいいですか。                                           |
-| [Verb なくて-form] もいいです<br>nakute-form mo ii desu                                   | need not                                                                                                                     | - Attach to negative verb なくて-form<br>- Indicates lack of necessity                                                                                    | 行かなくてもいいです。                                         |
-| まだ [Verb]<br>mada<br>まだ [Adj]<br>まだ [Verb て-form] いません                         | still; not yet                                                                                                               | - Used with negative verbs for "not yet"<br>- With positive for "still"                                                                                   | まだ来ていません。                                             |
-| [Noun] や [Noun]<br>ya<br>[Noun] や [Noun] など                                           | and                                                                                                                          | - Connects two or more nouns<br>- Implies incomplete list                                                                                                 | りんごやバナナを食べます。                                     |
-| [Verb/Adj casual] ので<br>node<br>[Noun] な ので                                          | because of; the reason is that; given that                                                                                   | - Attach to verb/casual form<br>- Gives reason or explanation                                                                                             | 雨なので行きません。                                           |
-| [Noun] が ほしい<br>ga hoshii                                                             | to want something                                                                                                            | - Noun + が + ほしい<br>- Expresses desire for a thing                                                                                                    | 車がほしいです。                                               |
-| [Verb なくちゃ-form] いけない<br>nakucha-form ikenai                                      | say necessary to do something, must, have to do                                                                              | - Attach to negative verb なくちゃ-form<br>- Casual obligation                                                                                            | 勉強しなくちゃいけない。                                       |
-| [Noun] より [Noun/Adj]<br>yori<br>[Noun/Adj] より                                         | than; rather than; more than                                                                                                 | - Used in comparisons<br>- A より B = B is more than A                                                                                                    | 犬より猫が好きです。                                           |
-| [Noun] と同じ<br>to onaji                                                                 | Same as; identica                                                                                                            | - Noun + と同じ<br>- Expresses sameness or similarity                                                                                                     | 彼と同じ本を持っています。                                     |
-| [Verb た-form] たり [Verb た-form] たり<br>ta-form tari                                   | do such things like; do such things as A and B                                                                               | - Attach to verb た-form<br>- Lists representative actions                                                                                                | 食べたり飲んだりします。                                       |
-| [Noun/phrase] と言います<br>to iimasu                                                     | say, tell, speak                                                                                                             | - Noun/phrase + と言います<br>- Used for quoting or naming                                                                                                | これは「さくら」と言います。                                   |
-| [Phrase] と思います<br>to omoimasu                                                        | I think                                                                                                                      | - Phrase + と思います<br>- Expresses opinion or thought                                                                                                   | 雨が降ると思います。                                           |
-| [Verb た-form] ことがある<br>ta-form koto ga aru                                          | Used to; Have been                                                                                                           | - Verb た-form + ことがある<br>- Indicates past experience                                                                                                | 日本に行ったことがあります。                                   |
-| [Noun] になる<br>ni naru<br>[Adj] になる                                                  | to become                                                                                                                    | - Attach to noun or adjective<br>- Expresses change of state                                                                                              | 医者になります。                                               |
-| [Noun] でした<br>deshita<br>[Adj-na] でした                                               | was                                                                                                                          | - Past tense of です<br>- Used for past statements                                                                                                        | 先生でした。                                                   |
-| [Adj-i] かった<br>katta                                                                   | was (past tense of い-adjective)                                                                                             | - Past tense of い-adjective<br>- Used for past statements                                                                                                | 昨日は寒かった。                                               |
-| [Noun] どちら<br>dochira<br>[Noun] と [Noun] どちら                                       | which (of two)                                                                                                               | - Used to ask which of two options<br>- Can also be used to indicate preference                                                                           | どちらが好きですか。                                           |
-| [Noun] の中で<br>no naka de<br>[Noun] の中に                                              | in, among, inside                                                                                                            | - Indicates location within a noun<br>- Used for groups or collections                                                                                    | クラスの中で一番好きな人は誰ですか。                           |
-| N1 は N2 より + mo + Adj<br>N1 wa N2 yori mo + Adj                                        | more (comparative), is not used for adjectives in the negative form                                                          | - Used to indicate preference or superiority<br>- N1 is more [adjective] than N2                                                                          | 彼の方が優しいです。                                           |
-| A の方が B より [adjective] です<br>A no hou ga B yori [adjective] desu                   | A is more [adjective] than B                                                                                                 | - Used for comparison between two things<br>- の方が emphasizes the comparison                                                                            | この本の方があの本より面白いです。                             |
-| [Verb masu-form stem] かた<br>kata                                                        | way of doing something                                                                                                       | - Used to indicate the manner of doing an action<br>- Verb masu-form stem + かた = way of doing the verb action                                           | この本の読み方を教えてください。                               |
-| [Noun] は [Noun] に [Noun] を あげます<br>wa ... ni ... o agemasu                         | giving something to someone                                                                                                  | - Used when giving to equals or people lower in status<br>- [Noun1] は [Noun2] に [Noun3] を あげます = Noun1 gives Noun3 to Noun2                        | 私は友達に本をあげます。                                       |
-| [Noun] は [Noun] に [Noun] を くれます<br>wa ... ni ... o kuremasu                        | giving from the listener's perspective                                                                                       | - Used when someone gives something to the speaker or speaker's family<br>- Shows benefit to speaker                                                      | 彼は私に本をくれます。                                         |
-| [Noun] は [Noun] に [Noun] を [Verb て-form] もらいます<br>wa ... ni ... o V-te moraimasu | receiving something from someone                                                                                             | - Used to indicate receiving something from someone<br>- Can be used for receiving actions or objects                                                     | 私は先生に本を読んでもらいます。                               |
-| [Noun] が [Verb た-form] ら, [Verb]<br>ga V-tara, V                                       | if, when, after doing something                                                                                              | - Used to indicate a condition or result after an action<br>- Verb た-form + ら = If/when the verb action is done, then the following action will happen  | 雨が降ったら、出かけません。                                   |
-| もし [Noun] が [Adj/Noun/Verb た-form] ら, [Verb]<br>moshi ... tara, V                    | if, when, after doing something                                                                                              | - Used to indicate a hypothetical condition<br>- もし adds emphasis to the conditional meaning                                                            | もし雨が降ったら、出かけません。                               |
-| [Adj-i] くても<br>kutemo                                                                  | even if, although                                                                                                            | - Used to express a concession or contrast<br>- い-adjective + くても = Even if the adjective is true, the following statement is still valid             | 高くても買います。                                             |
-| [Adj-na/Noun] でも<br>demo                                                                | even if, although                                                                                                            | - Used to express a concession or contrast<br>- な-adjective/Noun + でも = Even if the condition is true, the following statement is still valid          | 静かでも、勉強します。                                         |
-| [Verb て-form] ても<br>temo                                                               | even if, although                                                                                                            | - Used to express a concession or contrast<br>- Verb て-form + も = Even if the verb action is done, the following statement is still valid               | 行っても、帰ります。                                           |
-| [Noun] の<br>no                                                                           | possessive, of                                                                                                               | - Used to indicate possession or relationship between two nouns<br>- Noun1 + の + Noun2 = Noun1 possesses or is related to Noun2                          | 私の本                                                         |
-| と<br>to                                                                                  | when, if, as soon as                                                                                                         | - Conditional particle<br>- Used for natural consequences or habitual actions                                                                             | 春になると花が咲きます。                                       |
-| が → けど<br>ga → kedo                                                                    | but, however (casual)                                                                                                        | - が (but) can be replaced with けど in conversation<br>- けど is more commonly used in spoken Japanese                                                   | 雨が降っているけど、行きます。                                 |
-| ている form - い can be omitted<br>te-iru form                                            | shortened form of ている                                                                                                     | - The い in ている can be dropped in casual speech<br>- Results in てる form                                                                              | 今、食べてる。                                                 |
-| くる (kuru) → こない (konai)<br>konai                                                     | doesn't come, doesn't arrive                                                                                                 | - くる (kuru) becomes こない (konai) in the negative form<br>- Used to express that something does not come or arrive                                     | 彼は来ない。                                                   |
-| [Noun] に対して<br>ni taishite                                                            | against, opposite                                                                                                            | - Used to indicate opposition or contrast                                                                                                                 | 彼は私に対して優しい。                                         |
-| [Noun] について どうですか<br>ni tsuite dou desu ka                                       | How about regarding [Noun]?                                                                                                  | - Used to ask for opinions or thoughts about a topic<br>- Noun + について + どうですか = How do you feel about [Noun]?                                    | 日本の文化についてどうですか。                                 |
-| [Noun] を [Verb dict-form] こと について<br>o V-ru koto ni tsuite                         | Regarding the act of [Verb-ru]ing [Noun]                                                                                     | - Used to discuss the action of a verb in relation to a noun<br>- Noun + を + Verb dict-form + こと + について = Regarding the act of [Verb-ru]ing [Noun] | 日本を訪れることについて話しましょう。                         |
-| A to B no aida ni<br>A to B no aida ni                                                    | between A and B (physical location between two points)                                                                       | - Used to indicate the space or time between two things<br>- A と B の間に = Between A and B                                                              | 東京と大阪の間に新幹線があります。                             |
-| A to B no aida dewa<br>A to B no aida dewa                                                | between A and B (two options)                                                                                                | - Used to indicate between two options<br>- A と B の間では                                                                                               | 彼と彼女の間では秘密があります。                               |
-| に vs では<br>ni vs dewa                                                                  | in, at, on (Indicates a specific location, time, or target) vs at, in, on (Indicates context, situation, or general setting) | に (ni) - Specific location, time, destination<br>では (dewa) - Context, situation, general setting                                                       | 学校に行きます。(destination)<br>学校では勉強します。(context) |
-| [Noun] お願いします<br>onegai shimasu<br>[Verb stem] お願いします                         | Please (requesting something)                                                                                                | - Used to make polite requests<br>- Can be standalone or with noun/verb stem<br>- Very polite form of request                                             | 手伝いお願いします。                                           |
-| [Verb て-form] あと<br>te-form ato                                                        | after doing something                                                                                                        | - Used to indicate that an action follows another<br>- Verb て-form + あと = After doing the verb action, the following action will happen                | 食べたあと、行きます。                                         |
-| [Noun] の こと<br>no koto                                                                 | about, concerning, regarding                                                                                                 | - Used to talk about topics or matters related to a noun<br>- Often used when discussing memories, experiences, or topics                                 | 大学時代のことを話したりします。                               |
+## Particles
+
+### Topic and Subject Particles
+
+| Pattern       | Meaning        | Structure                | Example                                                               |
+| ------------- | -------------- | ------------------------ | --------------------------------------------------------------------- |
+| **[Noun] は** | Topic marker   | [Topic] は [Comment]     | わたしは学生です。<br>_Watashi wa gakusei desu._<br>_I am a student._ |
+| **[Noun] が** | Subject marker | [Subject] が [Predicate] | 猫がいます。<br>_Neko ga imasu._<br>_There is a cat._                 |
+
+### Object and Direction Particles
+
+| Pattern       | Meaning                    | Structure                    | Example                                                                    |
+| ------------- | -------------------------- | ---------------------------- | -------------------------------------------------------------------------- |
+| **[Noun] を** | Direct object marker       | [Object] を [Verb]           | パンを食べます。<br>_Pan wo tabemasu._<br>_I eat bread._                   |
+| **[Noun] に** | Destination/Time/Existence | [Destination/Time] に [Verb] | 日本に行きます。<br>_Nihon ni ikimasu._<br>_I go to Japan._                |
+| **[Noun] へ** | Direction (formal)         | [Direction] へ [Verb]        | 学校へ行きます。<br>_Gakkou e ikimasu._<br>_I go to school._               |
+| **[Noun] で** | Location of action/Method  | [Location/Method] で [Verb]  | 学校で勉強します。<br>_Gakkou de benkyou shimasu._<br>_I study at school._ |
+
+### Connective and Additional Particles
+
+| Pattern         | Meaning           | Structure                               | Example                                                                                |
+| --------------- | ----------------- | --------------------------------------- | -------------------------------------------------------------------------------------- |
+| **[Noun] も**   | Also, too         | [Noun] も [Predicate]                   | 田中さんも学生です。<br>_Tanaka-san mo gakusei desu._<br>_Tanaka is also a student._   |
+| **[Noun] と**   | And, with         | [Noun1] と [Noun2] / [Person] と [Verb] | 友達と話します。<br>_Tomodachi to hanashimasu._<br>_I talk with friends._              |
+| **[Noun] から** | From, since       | [Starting point] から [Verb]            | 東京から来ました。<br>_Toukyou kara kimashita._<br>_I came from Tokyo._                |
+| **[Noun] より** | Than (comparison) | [A] は [B] より [Adjective]             | 犬より猫が好きです。<br>_Inu yori neko ga suki desu._<br>_I like cats more than dogs._ |
+
+## Existence Verbs
+
+| Pattern                | Usage               | Structure                      | Example                                                      |
+| ---------------------- | ------------------- | ------------------------------ | ------------------------------------------------------------ |
+| **[Noun] が います**   | Animate existence   | [Living thing] が います       | 犬がいます。<br>_Inu ga imasu._<br>_There is a dog._         |
+| **[Noun] が あります** | Inanimate existence | [Non-living thing] が あります | 机があります。<br>_Tsukue ga arimasu._<br>_There is a desk._ |
+
+## Verb Forms and Expressions
+
+### Politeness and Suggestions
+
+| Pattern                    | Function                | Structure                | Example                                                                     |
+| -------------------------- | ----------------------- | ------------------------ | --------------------------------------------------------------------------- |
+| **[Verb stem] ましょう**   | Let's (suggestion)      | [Verb stem] + ましょう   | 行きましょう。<br>_Ikimashou._<br>_Let's go._                               |
+| **[Verb stem] ましょうか** | Shall I? (offer)        | [Verb stem] + ましょうか | 手伝いましょうか。<br>_Tetsudaimashou ka._<br>_Shall I help?_               |
+| **[Verb stem] ませんか**   | Won't you? (invitation) | [Verb stem] + ませんか   | 一緒に行きませんか。<br>_Issho ni ikimasen ka._<br>_Won't you go together?_ |
+
+### Desires and Requests
+
+| Pattern                     | Function       | Structure                 | Example                                                         |
+| --------------------------- | -------------- | ------------------------- | --------------------------------------------------------------- |
+| **[Verb stem] たい**        | Want to do     | [Verb stem] + たい + です | 食べたいです。<br>_Tabetai desu._<br>_I want to eat._           |
+| **[Noun] が ほしい**        | Want something | [Object] が ほしい + です | 車がほしいです。<br>_Kuruma ga hoshii desu._<br>_I want a car._ |
+| **[Verb て-form] ください** | Please do      | [Verb て-form] + ください | 見てください。<br>_Mite kudasai._<br>_Please look._             |
+
+### Permissions and Prohibitions
+
+| Pattern                            | Function          | Structure                        | Example                                                                      |
+| ---------------------------------- | ----------------- | -------------------------------- | ---------------------------------------------------------------------------- |
+| **[Verb て-form] も いいです**     | May do/Permission | [Verb て-form] + も いいです     | 入ってもいいですか。<br>_Haitte mo ii desu ka._<br>_May I enter?_            |
+| **[Verb なくて-form] も いいです** | Don't need to     | [Verb なくて-form] + も いいです | 行かなくてもいいです。<br>_Ikanakute mo ii desu._<br>_You don't need to go._ |
+| **[Verb ない-form] で ください**   | Please don't      | [Verb ない-form] + で ください   | 食べないでください。<br>_Tabenai de kudasai._<br>_Please don't eat._         |
+| **[Verb て-form] は いけません**   | Must not          | [Verb て-form] + は いけません   | 遊んではいけません。<br>_Asonde wa ikemasen._<br>_You must not play._        |
+
+### Obligations
+
+| Pattern                          | Function              | Structure                      | Example                                                                              |
+| -------------------------------- | --------------------- | ------------------------------ | ------------------------------------------------------------------------------------ |
+| **[Verb ない-form] と いけない** | Must do (casual)      | [Verb ない-form] + と いけない | 宿題をしないといけない。<br>_Shukudai wo shinai to ikenai._<br>_I must do homework._ |
+| **[Verb なければ] なりません**   | Must do (formal)      | [Verb なければ] + なりません   | 行かなければなりません。<br>_Ikanakereba narimasen._<br>_I must go._                 |
+| **[Verb なくちゃ] いけない**     | Must do (very casual) | [Verb なくちゃ] + いけない     | 勉強しなくちゃいけない。<br>_Benkyou shin                                            |
+| **[Verb なくちゃ] いけない**     | Must do (very casual) | [Verb なくちゃ] + いけない     | 勉強しなくちゃいけない。<br>_Benkyou shinakucha ikenai._<br>_I gotta study._         |
+
+## Time and State Expressions
+
+### Time Relations
+
+| Pattern                     | Function            | Structure                 | Example                                                                                                       |
+| --------------------------- | ------------------- | ------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| **[Verb dict-form] まえに** | Before doing        | [Verb dict-form] + まえに | 寝るまえに本を読みます。<br>_Neru mae ni hon wo yomimasu._<br>_I read before sleeping._                       |
+| **[Verb て-form] から**     | After doing         | [Verb て-form] + から     | 食べてから勉強します。<br>_Tabete kara benkyou shimasu._<br>_I study after eating._                           |
+| **[Verb た-form] あと**     | After doing         | [Verb た-form] + あと     | 食べたあと、行きます。<br>_Tabeta ato, ikimasu._<br>_I go after eating._                                      |
+| **[Verb/Adjective] とき**   | When/At the time of | [Verb/Adj] + とき         | 子供のとき、よく遊びました。<br>_Kodomo no toki, yoku asobimashita._<br>_When I was a child, I played often._ |
+
+### Ongoing Actions and States
+
+| Pattern                   | Function          | Structure             | Example                                                               |
+| ------------------------- | ----------------- | --------------------- | --------------------------------------------------------------------- |
+| **[Verb て-form] いる**   | Progressive/State | [Verb て-form] + いる | 今、食べています。<br>_Ima, tabete imasu._<br>_I am eating now._      |
+| **もう [Verb/Adjective]** | Already           | もう + [Verb/Adj]     | もう食べました。<br>_Mou tabemashita._<br>_I already ate._            |
+| **まだ [Verb/Adjective]** | Still/Not yet     | まだ + [Verb/Adj]     | まだ来ていません。<br>_Mada kite imasen._<br>_They haven't come yet._ |
+
+## Experience and Change
+
+| Pattern                        | Function           | Structure                    | Example                                                                                     |
+| ------------------------------ | ------------------ | ---------------------------- | ------------------------------------------------------------------------------------------- |
+| **[Verb た-form] ことが ある** | Have experience of | [Verb た-form] + ことが ある | 日本に行ったことがあります。<br>_Nihon ni itta koto ga arimasu._<br>_I have been to Japan._ |
+| **[Noun/Adjective] に なる**   | Become             | [Noun/Adj] + に なる         | 医者になります。<br>_Isha ni narimasu._<br>_I will become a doctor._                        |
+
+## Giving and Receiving
+
+| Pattern        | Function              | Structure                                       | Example                                                                                                        |
+| -------------- | --------------------- | ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| **あげます**   | Give (to equal/lower) | [Giver] は [Receiver] に [Object] を あげます   | 私は友達に本をあげます。<br>_Watashi wa tomodachi ni hon wo agemasu._<br>_I give a book to my friend._         |
+| **くれます**   | Give (to speaker)     | [Giver] は [Receiver] に [Object] を くれます   | 彼は私に本をくれます。<br>_Kare wa watashi ni hon wo kuremasu._<br>_He gives me a book._                       |
+| **もらいます** | Receive               | [Receiver] は [Giver] に [Object] を もらいます | 私は先生に本をもらいます。<br>_Watashi wa sensei ni hon wo moraimasu._<br>_I receive a book from the teacher._ |
+
+## Conditionals
+
+| Pattern                 | Function                 | Structure               | Example                                                                                                          |
+| ----------------------- | ------------------------ | ----------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| **[Verb た-form] ら**   | If/When                  | [Verb た-form] + ら     | 雨が降ったら、出かけません。<br>_Ame ga futtara, dekakemasen._<br>_If it rains, I won't go out._                 |
+| **もし [Condition] ら** | If (hypothetical)        | もし + [Condition] + ら | もし雨が降ったら、出かけません。<br>_Moshi ame ga futtara, dekakemasen._<br>_If it should rain, I won't go out._ |
+| **と**                  | When/If (natural result) | [Condition] + と        | 春になると花が咲きます。<br>_Haru ni naru to hana ga sakimasu._<br>_When spring comes, flowers bloom._           |
+
+### Concessive Forms (Even if)
+
+| Pattern                 | Function              | Structure               | Example                                                                                          |
+| ----------------------- | --------------------- | ----------------------- | ------------------------------------------------------------------------------------------------ |
+| **[Adj-i] くても**      | Even if (i-adj)       | [い-adjective] + くても | 高くても買います。<br>_Takakute mo kaimasu._<br>_Even if it's expensive, I'll buy it._           |
+| **[Adj-na/Noun] でも**  | Even if (na-adj/noun) | [な-adj/Noun] + でも    | 静かでも、勉強します。<br>_Shizuka de mo, benkyou shimasu._<br>_Even if it's quiet, I'll study._ |
+| **[Verb て-form] ても** | Even if (verb)        | [Verb て-form] + ても   | 行っても、帰ります。<br>_Itte mo, kaerimasu._<br>_Even if I go, I'll return._                    |
+
+## Comparison and Similarity
+
+| Pattern                             | Function               | Structure                       | Example                                                                                                                                    |
+| ----------------------------------- | ---------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| **[A] の方が [B] より [Adjective]** | A is more [adj] than B | [A] の方が [B] より [Adjective] | この本の方があの本より面白いです。<br>_Kono hon no hou ga ano hon yori omoshiroi desu._<br>_This book is more interesting than that book._ |
+| **[Noun] と 同じ**                  | Same as                | [Noun1] と 同じ [Noun2]         | 彼と同じ本を持っています。<br>_Kare to onaji hon wo motte imasu._<br>_I have the same book as him._                                        |
+
+## Listing and Examples
+
+| Pattern                                     | Function           | Structure                              | Example                                                                                            |
+| ------------------------------------------- | ------------------ | -------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| **[Noun] や [Noun]**                        | And (partial list) | [Noun1] や [Noun2] (など)              | りんごやバナナを食べます。<br>_Ringo ya banana wo tabemasu._<br>_I eat apples, bananas, etc._      |
+| **[Verb た-form] たり [Verb た-form] たり** | Do things like     | [Verb1 た-form]たり[Verb2 た-form]たり | 食べたり飲んだりします。<br>_Tabetari nondari shimasu._<br>_I do things like eating and drinking._ |
+
+## Quotation and Opinion
+
+| Pattern         | Function   | Structure                | Example                                                                                     |
+| --------------- | ---------- | ------------------------ | ------------------------------------------------------------------------------------------- |
+| **と 言います** | Say/Called | [Quote/Name] と 言います | これは「さくら」と言います。<br>_Kore wa "sakura" to iimasu._<br>_This is called "sakura"._ |
+| **と 思います** | Think that | [Statement] と 思います  | 雨が降ると思います。<br>_Ame ga furu to omoimasu._<br>_I think it will rain._               |
+
+## Reason and Cause
+
+| Pattern  | Function   | Structure              | Example                                                                                 |
+| -------- | ---------- | ---------------------- | --------------------------------------------------------------------------------------- |
+| **ので** | Because/So | [Reason] ので [Result] | 雨なので行きません。<br>_Ame na no de ikimasen._<br>_Because it's raining, I won't go._ |
+
+## Limitations and Scope
+
+| Pattern  | Function  | Structure              | Example                                                                   |
+| -------- | --------- | ---------------------- | ------------------------------------------------------------------------- |
+| **だけ** | Only/Just | [Noun/Verb/Adj] + だけ | 一人だけ来ました。<br>_Hitori dake kimashita._<br>_Only one person came._ |
+
+## Methods and Ways
+
+| Pattern              | Function     | Structure               | Example                                                                                                                    |
+| -------------------- | ------------ | ----------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| **[Verb stem] かた** | Way of doing | [Verb masu-stem] + かた | この本の読み方を教えてください。<br>_Kono hon no yomikata wo oshiete kudasai._<br>_Please teach me how to read this book._ |
+
+## Negation Forms Summary
+
+### Present Tense
+
+| Type              | Polite               | Casual           |
+| ----------------- | -------------------- | ---------------- |
+| **Verbs**         | [Verb stem]ません    | [Verb]ない       |
+| **I-adjectives**  | [Adj-i]くないです    | [Adj-i]くない    |
+| **Na-adjectives** | [Adj-na]じゃないです | [Adj-na]じゃない |
+| **Nouns**         | [Noun]じゃありません | [Noun]じゃない   |
+
+### Past Tense
+
+| Type              | Polite                     | Casual               |
+| ----------------- | -------------------------- | -------------------- |
+| **Verbs**         | [Verb stem]ませんでした    | [Verb]なかった       |
+| **I-adjectives**  | [Adj-i]くなかったです      | [Adj-i]くなかった    |
+| **Na-adjectives** | [Adj-na]じゃなかったです   | [Adj-na]じゃなかった |
+| **Nouns**         | [Noun]じゃありませんでした | [Noun]じゃなかった   |
+
 
 # N4 Grammar
 
-| Lesson | Grammar Points                                                                                                                                                  | Usage                             | Example                                                                    |
-| ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- | -------------------------------------------------------------------------- |
-| 26     | 〜V-dict + んです (n desu)<br>Noun/Adj-na + なんです (nan desu)                                                                                                 | Predict, give info, no evidence   | A：Aさんは日本人じゃないんですか。<br>B：いいえ、アメリカ人なんです。      |
-| 26     | どうして (doushite) + V-dict + んですか (n desu ka)                                                                                                             | Ask to clarify what is known      | A：どうして日本人じゃないんですか。<br>B：アメリカ人だからです。           |
-| 26     | わ (wa) + Noun + を (wo) + V-te + いただけませんか (itadakemasen ka)                                                                                            | Request to do something politely  | A：この本を読んでいただけませんか。<br>B：はい、わかりました。             |
-| 26     | Noun or Verb + たら (tara) + いい (ii)<br>Noun or Verb + たら (tara) + よい (yoi)<br>Noun or Verb + たら (tara) + だめ (dame)                                   | Suggestion or advice              | A：この本を読んだらいいですよ。<br>B：はい、読んでみます。                 |
-| 27     | V-purpose: みられます (miraremasu), きけます (kikemasu), etc.                                                                                                   | Purpose of an action              | A：何を見に行きますか。<br>B：映画を見に行きます。                         |
-| 27     | V-non-purpose: みえます (miemasu), きこえます (kikoemasu), etc.                                                                                                 | Non-purpose of an action          | A：何が見えますか。<br>B：山が見えます。                                   |
-| 27     | V-います (imasu) -> V-えます (emasu)<br>V-ます (masu) -> V-られます (raremasu)<br>V-します (shimasu) -> V-できます (dekimasu)                                   | The ability to do something       | A：この本は読めますか。<br>B：はい、読めます。                             |
-| 27     | V-います (imasu) -> V-えません (emasen)<br>V-ます (masu) -> V-られません (raremasen)<br>V-します (shimasu) -> V-できません (dekimasen)                          | The inability to do something     | A：この本は読めません。<br>B：そうですか、残念ですね。                     |
-| 27     | は (wa) + Noun + を (wo) + V-る (ru) + こと (koto) が (ga) できます (dekimasu)<br>は (wa) + Noun + を (wo) + V-る (ru) + こと (koto) が (ga) できない (dekinai) | Ability to do something           | A：日本語を話すことができますか。<br>B：はい、話すことができます。         |
-| 27     | は (wa) + Noun + が (ga) + できます (dekimasu)                                                                                                                  | Finished doing something          | A：もう宿題ができますか。<br>B：はい、もう宿題ができました。               |
-| 27     | は (wa) + Noun + しか (shika) + ... + ない (nai)                                                                                                                | Emphasizes exclusivity            | A：何を食べますか。<br>B：寿司しか食べません。                             |
-| 28     | Verb1 + ながら (nagara) + Verb2                                                                                                                                 | Simultaneous actions              | A：音楽を聞きながら勉強します。<br>B：私もそうします。                     |
-| 28     | Verb-te + います (imasu) / 〜ている (te iru)                                                                                                                    | Ongoing actions or states         | A：何をしていますか。<br>B：本を読んでいます。                             |
-| 28     | Verb/Adj-i + し (shi), ... + Verb/Adj-i + し (shi)                                                                                                              | Listing reasons or states         | A：日本語は難しいし、面白いです。<br>B：そうですね、私もそう思います。     |
-| 28     | Noun/Adj-na + だし (da shi), ... + Noun/Adj-na + だし (da shi)                                                                                                  | Listing reasons with nouns/na-adj | A：この映画は面白いだし、感動的だし、好きです。<br>B：私も好きです。       |
-| 28     | それに (soreni)                                                                                                                                                 | In addition, furthermore          | A：朝ごはんを食べました。それに、コーヒーも飲みました。<br>B：いいですね。 |
+# Lesson 26: Information and Explanation
+
+## んです (n desu) - Explaining/Clarifying
+
+| Form                                                                                                                 | Usage                             | Example                                                                                                                                                     |
+| -------------------------------------------------------------------------------------------------------------------- | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Present:** V-dict + んです (n desu)<br>Noun/Adj-na + なんです (nan desu)                                           | Explain/predict present situation | A：Aさんはにほんじんじゃないんですか。(A-san wa nihonjin ja nai n desu ka.)<br>B：いいえ、アメリカじんなんです。(Iie, amerikajin nan desu.)                 |
+| **Past:** V-ta + んです (n desu)<br>Adj-i → かったんです (katta n desu)<br>Adj-na/Noun + だったんです (datta n desu) | Explain/predict past situation    | A：Aさんはにほんじんじゃなかったんですか。(A-san wa nihonjin ja nakatta n desu ka.)<br>B：いいえ、アメリカじんだったんです。(Iie, amerikajin datta n desu.) |
+
+## Asking for Clarification
+
+| Pattern                                                                                             | Usage                   | Example                                                                                                                              |
+| --------------------------------------------------------------------------------------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| どうして (doushite) + んですか (n desu ka)                                                          | Ask why (clarification) | A：どうして日本人じゃないんですか。(Doushite nihonjin ja nai n desu ka.)<br>B：アメリカ人だからです。(Amerikajin da kara desu.)      |
+| どうして (doushite) + そんなに/こんなに/あんなに (sonna ni/konna ni/anna ni) + んですか (n desu ka) | Ask why to such extent  | A：どうしてそんなに遅れたんですか。(Doushite sonna ni okureta n desu ka.)<br>B：電車が遅れたからです。(Densha ga okureta kara desu.) |
+| どのくらい (dono kurai) + Verb                                                                      | How much/long/far       | Used to ask about extent, time, quantity, distance                                                                                   |
+| どうしたんですか (doushita n desu ka)                                                               | What happened?          | A：どうしたんですか？(Doushita n desu ka?)<br>B：風邪をひいてしまいました。(Kaze wo hiite shimaimashita.)                            |
+
+## Polite Requests and Suggestions
+
+| Pattern                                                    | Usage             | Example                                                                                                                 |
+| ---------------------------------------------------------- | ----------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Noun + を (wo) + V-te + いただけませんか (itadakemasen ka) | Polite request    | A：この本を読んでいただけませんか。(Kono hon wo yonde itadakemasen ka.)<br>B：はい、わかりました。(Hai, wakarimashita.) |
+| V-tara + いい/よい/だめ (ii/yoi/dame)                      | Suggestion/advice | A：この本を読んだらいいですよ。(Kono hon wo yondara ii desu yo.)<br>B：はい、読んでみます。(Hai, yonde mimasu.)         |
+
+# Lesson 27: Ability and Potential
+
+## Expressing Ability
+
+| Pattern                                                                                | Usage                   | Example                                                                                                                                   |
+| -------------------------------------------------------------------------------------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| **Potential Form:**<br>V-い → V-える<br>V-う → V-える<br>する (suru) → できる (dekiru) | Can do something        | A：この本は読めますか。(Kono hon wa yomemasu ka.)<br>B：はい、読めます。(Hai, yomemasu.)                                                  |
+| **Negative:**<br>V-えません<br>V-られません<br>できません (dekimasen)                  | Cannot do something     | A：この本は読めません。(Kono hon wa yomemasen.)<br>B：そうですか、残念ですね。(Sou desu ka, zannen desu ne.)                              |
+| こと (koto) + が (ga) + できます/できない (dekimasu/dekinai)                           | Ability using koto form | A：日本語を話すことができますか。(Nihongo wo hanasu koto ga dekimasu ka.)<br>B：はい、話すことができます。(Hai, hanasu koto ga dekimasu.) |
+
+## Special Verbs
+
+| Pattern                 | Meaning                  | Example                                                                                               |
+| ----------------------- | ------------------------ | ----------------------------------------------------------------------------------------------------- |
+| みえます (miemasu)      | Can see (naturally)      | A：何が見えますか。(Nani ga miemasu ka.)<br>B：山が見えます。(Yama ga miemasu.)                       |
+| きこえます (kikoemasu)  | Can hear (naturally)     |                                                                                                       |
+| みられます (miraremasu) | Can see (intentionally)  | A：何を見に行きますか。(Nani wo mi ni ikimasu ka.)<br>B：映画を見に行きます。(Eiga wo mi ni ikimasu.) |
+| きけます (kikemasu)     | Can hear (intentionally) |                                                                                                       |
+
+## Completion and Exclusivity
+
+| Pattern                              | Usage                  | Example                                                                                                                       |
+| ------------------------------------ | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| Noun + が (ga) + できます (dekimasu) | Something is completed | A：もう宿題ができますか。(Mou shukudai ga dekimasu ka.)<br>B：はい、もう宿題ができました。(Hai, mou shukudai ga dekimashita.) |
+| しか (shika) + ない (nai)            | Only/exclusively       | A：何を食べますか。(Nani wo tabemasu ka.)<br>B：寿司しか食べません。(Sushi shika tabemasen.)                                  |
+
+# Lesson 28: Multiple Actions and Reasons
+
+## Simultaneous Actions
+
+| Pattern                            | Usage                 | Example                                                                                                                 |
+| ---------------------------------- | --------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| V-masu stem + ながら (nagara) + V2 | Do two things at once | A：音楽を聞きながら勉強します。(Ongaku wo kiki nagara benkyou shimasu.)<br>B：私もそうします。(Watashi mo sou shimasu.) |
+| V-te + います/ている (imasu/teiru) | Ongoing action/state  | A：何をしていますか。(Nani wo shite imasu ka.)<br>B：本を読んでいます。(Hon wo yonde imasu.)                            |
+
+## Listing Reasons
+
+| Pattern                                           | Usage                      | Example                                                                                                                                                   |
+| ------------------------------------------------- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| V/Adj-i + し (shi) + ... + し (shi)               | List multiple reasons      | A：日本語は難しいし、面白いです。(Nihongo wa muzukashii shi, omoshiroi desu.)<br>B：そうですね、私もそう思います。(Sou desu ne, watashi mo sou omoimasu.) |
+| Noun/Adj-na + だし (da shi) + ... + だし (da shi) | List reasons (na-adj/noun) | A：この映画は面白いだし、感動的だし、好きです。(Kono eiga wa omoshiroi da shi, kandouteki da shi, suki desu.)<br>B：私も好きです。(Watashi mo suki desu.) |
+| それに (sore ni)                                  | In addition/furthermore    | A：朝ごはんを食べました。それに、コーヒーも飲みました。(Asagohan wo tabemashita. Sore ni, koohii mo nomimashita.)<br>B：いいですね。(Ii desu ne.)         |
+
+# Lesson 29: Completed Actions and States
+
+## Ongoing Actions (Present/Past)
+
+| Pattern                    | Usage           | Example                                                                                                               |
+| -------------------------- | --------------- | --------------------------------------------------------------------------------------------------------------------- |
+| V-te + います (imasu)      | Present ongoing | A：何をしていますか。(Nani wo shite imasu ka.)<br>B：本を読んでいます。(Hon wo yonde imasu.)                          |
+| V-te + いました (imashita) | Past ongoing    | A：昨日は何をしていましたか。(Kinou wa nani wo shite imashita ka.)<br>B：映画を見ていました。(Eiga wo mite imashita.) |
+
+## Completed Actions with Regret/Finality
+
+| Pattern                                                 | Usage                       | Example                                                                                                                  |
+| ------------------------------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| V-te + しまいます/しまった (shimaimasu/shimatta)        | Completed (regret/finality) | A：宿題をしましたか。(Shukudai wo shimashita ka.)<br>B：はい、もう終わってしまいました。(Hai, mou owatte shimaimashita.) |
+| V-te + しまいません/しまわない (shimaimasen/shimawanai) | Not completed (regret)      | A：宿題をしましたか。(Shukudai wo shimashita ka.)<br>B：いいえ、まだ終わっていません。(Iie, mada owatte imasen.)         |
+
+## Location-Based Completed Actions
+
+| Pattern                                   | Usage                           | Example                                                                                                                                              |
+| ----------------------------------------- | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| どこで (doko de) + V-te + しまう (shimau) | Where completed action happened | A：どこで宿題をしましたか。(Doko de shukudai wo shimashita ka.)<br>B：図書館で宿題をしてしまいました。(Toshokan de shukudai wo shite shimaimashita.) |
+| どこに (doko ni) + V-te + しまう (shimau) | Destination of completed action | A：どこに行きましたか。(Doko ni ikimashita ka.)<br>B：友達の家に行ってしまいました。(Tomodachi no ie ni itte shimaimashita.)                         |
+
+# Lesson 30: Preparation and Timing
+
+## Preparation
+
+| Pattern                   | Usage                     | Example |
+| ------------------------- | ------------------------- | ------- |
+| V-te + あります (arimasu) | Resultative state         |         |
+| V-te + おきます (okimasu) | Do in advance/preparation |         |
+
+## Timing Expressions
+
+| Pattern                                     | Usage                  | Example                                                                                                                                                                         |
+| ------------------------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| V-dict + 前に (mae ni) + V-te + おく (oku)  | Before doing something | A：宿題をする前に、掃除をしておきます。(Shukudai wo suru mae ni, souji wo shite okimasu.)<br>B：いいですね、私もそうします。(Ii desu ne, watashi mo sou shimasu.)               |
+| V-ta + 後で (ato de) + V-te + おく (oku)    | After doing something  | A：掃除をした後で、宿題をしておきます。(Souji wo shita ato de, shukudai wo shite okimasu.)<br>B：いいですね、私もそうします。(Ii desu ne, watashi mo sou shimasu.)              |
+| V-dict + 時に (toki ni) + V-te + おく (oku) | When doing something   | A：日本に行く時に、お土産を買っておきます。(Nihon ni iku toki ni, omiyage wo katte okimasu.)<br>B：いいですね、私もそうします。(Ii desu ne, watashi mo sou shimasu.)            |
+| V-dict + と (to) + V-te + おく (oku)        | When something happens | A：友達に会うときに、プレゼントを買っておきます。(Tomodachi ni au toki ni, purezento wo katte okimasu.)<br>B：いいですね、私もそうします。(Ii desu ne, watashi mo sou shimasu.) |
+
+## Still/Not Yet
+
+| Pattern            | Usage         | Example                                                                                                                        |
+| ------------------ | ------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| まだ (mada) + Verb | Still/not yet | A：宿題はもう終わりましたか。(Shukudai wa mou owarimashita ka.)<br>B：いいえ、まだ終わっていません。(Iie, mada owatte imasen.) |
+
+# Lesson 31: Intentions and Plans
+
+## Volitional Form (Let's)
+
+| Pattern    | Formation                                                 | Example                                                                                                        |
+| ---------- | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| V-う verbs | V-おう                                                    | A：映画を見に行きませんか。(Eiga wo mi ni ikimasen ka.)<br>B：はい、見に行きましょう。(Hai, mi ni ikimashou.)  |
+| V-る verbs | V-よう                                                    | A：一緒に勉強しませんか。(Issho ni benkyou shimasen ka.)<br>B：はい、勉強しましょう。(Hai, benkyou shimashou.) |
+| Irregular  | くる (kuru)→こよう (koyou)<br>する (suru)→しよう (shiyou) | A：今度来ませんか。(Kondo kimasen ka.)<br>B：はい、来ましょう。(Hai, kimashou.)                                |
+
+## Expressing Intentions
+
+| Pattern                                   | Usage                     | Example                                                                                                                                             |
+| ----------------------------------------- | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| V-dict + と思います (to omoimasu)         | Intention (present)       | A：明日、映画を見に行こうと思います。(Ashita, eiga wo mi ni ikou to omoimasu.)<br>B：いいですね。(Ii desu ne.)                                      |
+| V-dict + と思っています (to omotte imasu) | Ongoing intention         | B：私も行こうと思っています。(Watashi mo ikou to omotte imasu.)                                                                                     |
+| V-dict + つもりです (tsumori desu)        | Strong intention          | A：明日、宿題をするつもりです。(Ashita, shukudai wo suru tsumori desu.)<br>B：私も宿題をするつもりです。(Watashi mo shukudai wo suru tsumori desu.) |
+| V-dict + 予定です (yotei desu)            | Scheduled plan (definite) | A：明日、映画を見に行く予定です。(Ashita, eiga wo mi ni iku yotei desu.)<br>B：私も行く予定です。(Watashi mo iku yotei desu.)                       |
+
+## Verb Stem as Noun
+
+| Pattern             | Usage                 | Example                                                                                                                              |
+| ------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| V-masu stem as noun | Use verb stem as noun | A：読みが難しいです。(Yomi ga muzukashii desu.)<br>B：そうですね、漢字の読みは大変です。(Sou desu ne, kanji no yomi wa taihen desu.) |
+
+# Lesson 32: Questions and Advice
+
+## Basic Questions
+
+| Question Word                              | Usage                        | Example                                                                                                                               |
+| ------------------------------------------ | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| 何 (nani/nan)                              | What                         | A：これは何ですか。(Kore wa nan desu ka.)<br>B：ペンです。(Pen desu.)                                                                 |
+| 誰 (dare)                                  | Who                          | A：あの人は誰ですか。(Ano hito wa dare desu ka.)<br>B：田中さんです。(Tanaka-san desu.)                                               |
+| どこ (doko)                                | Where                        | A：トイレはどこですか。(Toire wa doko desu ka.)<br>B：あそこです。(Asoko desu.)                                                       |
+| いつ (itsu)                                | When                         | A：会議はいつですか。(Kaigi wa itsu desu ka.)<br>B：明日です。(Ashita desu.)                                                          |
+| どれ/どの (dore/dono)                      | Which                        | A：どれが良いですか。(Dore ga ii desu ka.)<br>B：これが良いです。(Kore ga ii desu.)                                                   |
+| どう (dou)                                 | How                          | A：この料理はどうですか。(Kono ryouri wa dou desu ka.)<br>B：おいしいです。(Oishii desu.)                                             |
+| いくら (ikura)                             | How much (price)             | A：このペンはいくらですか。(Kono pen wa ikura desu ka.)<br>B：100円です。(Hyaku en desu.)                                             |
+| いくつ (ikutsu)                            | How many                     | A：りんごはいくつですか。(Ringo wa ikutsu desu ka.)<br>B：3つです。(Mittsu desu.)                                                     |
+| どんな (donna)                             | What kind of                 | A：どんな映画が好きですか。(Donna eiga ga suki desu ka.)<br>B：アクション映画が好きです。(Akushon eiga ga suki desu.)                 |
+| どうして/なぜ (doushite/naze)              | Why                          | A：どうして遅れましたか。(Doushite okuremashita ka.)<br>B：電車が遅れたからです。(Densha ga okureta kara desu.)                       |
+| tsuite dou omoimasu (ついてどう思いますか) | What do you think about ...? | A：この映画についてどう思いますか。(Kono eiga ni tsuite dou omoimasu ka.)<br>B：面白いと思います。(Omoshiroi to omoimasu.)            |
+| tsuite nani ka (ついて何か)                | About something              | A：この問題について何か意見がありますか。(Kono mondai ni tsuite nani ka iken ga arimasu ka.)<br>B：特にありません。(Tokuni arimasen.) |
+
+## Question Patterns
+
+| Pattern                                           | Usage              | Example                                                                                                                 |
+| ------------------------------------------------- | ------------------ | ----------------------------------------------------------------------------------------------------------------------- |
+| A ですか (desu ka) B ですか (desu ka)             | Choice questions   | A：コーヒーですか、お茶ですか。(Koohii desu ka, ocha desu ka.)<br>B：コーヒーをお願いします。(Koohii wo onegaishimasu.) |
+| じゃない/ではないですか (ja nai/dewa nai desu ka) | Negative questions | A：彼は学生じゃないですか。(Kare wa gakusei ja nai desu ka.)<br>B：いいえ、学生です。(Iie, gakusei desu.)               |
+| ね、そうですか (ne, sou desu ka)                  | Tag questions      | A：明日は雨ですね、そうですか。(Ashita wa ame desu ne, sou desu ka.)<br>B：はい、そうです。(Hai, sou desu.)             |
+
+## Advice and Probability
+
+| Pattern                                      | Usage                       | Example                                                                                                                                                    |
+| -------------------------------------------- | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| V-ta/V-nai + ほうがいいです (hou ga ii desu) | Strong advice               | A：この本を読んだほうがいいですよ。(Kono hon wo yonda hou ga ii desu yo.)<br>B：はい、読んでみます。(Hai, yonde mimasu.)                                   |
+| でしょう (deshou)                            | Conjecture (fairly certain) | A：明日は雨が降るでしょう。(Ashita wa ame ga furu deshou.)<br>B：はい、きっと降るでしょうね。(Hai, kitto furu deshou ne.)                                  |
+| かもしれません (kamoshiremasen)              | Possibility (~50% certain)  | A：明日は雨が降るかもしれません。(Ashita wa ame ga furu kamoshiremasen.)<br>B：そうですね、傘を持って行きましょう。(Sou desu ne, kasa wo motte ikimashou.) |
+
+## Usage Notes
+
+| Pattern                          | Rule                                                                | Example                                                                                                                         |
+| -------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| 何 (nani/nan) usage              | Use 'nani' before particles<br>Use 'nan' before desu/da/no/counters | 何を (nani wo)<br>何ですか (nan desu ka)<br>何時 (nanji)<br>何人 (nannin)                                                       |
+| Number + Counter + で (de)       | Approximate quantity                                                | A：りんごを5個で500円です。(Ringo wo go-ko de gohyaku en desu.)<br>B：安いですね。(Yasui desu ne.)                              |
+| どこが悪いですか (doko ga warui) | Where is the problem?                                               | A：どこが悪いですか。(Doko ga warui desu ka.)<br>B：ここが悪いです。(Koko ga warui desu.)                                       |
+| tokuni (特に) nani ka ... desuka | Especially                                                          | A：特に何か食べたいですか。(Tokuni nani ka tabetai desu ka.)<br>B：特に何も食べたくないです。(Tokuni nani mo tabetakunai desu.) |
+
+

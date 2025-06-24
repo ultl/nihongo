@@ -43,3 +43,4 @@
 | 39  | しぜん                         | 自然         | shizen            | -              | -                | Noun                | nature                     | 自然の中で過ごすのが好きです。(I like spending time in nature.)               |
 | 40  | すばらしさ                     |              | subarashisa       | -              | -                | Noun                | greatness, splendor        | 音楽の素晴らしさを感じました。(I felt the greatness of the music.)            |
 | 41  | きがつきます                   | 気が付きます | ki ga tsukimasu   | きがついて     | きがつかない     | Expression          | notice, realize            | 間違いに気が付きました。(I noticed the mistake.)                              |
+| 42  | はっぴょう                     | 発表         | happyou           | -              | -                | Noun                | presentation               | 学校でプロジェクトを発表しました。(I presented my project at school.)         |

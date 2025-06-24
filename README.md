@@ -23,5 +23,6 @@ Resources and tools for my Japanese journey from beginner to N3.
 - [N4 Verbs](https://www.youtube.com/watch?v=buBR7i2g3hM&list=PLVoh0TejuIyNV4ikifxdeNi84B-dof1fn)
 - [N5 Conversations](https://www.youtube.com/@BookishJapan/playlists)
 - [N5-N4 Conversations](https://www.youtube.com/@JSI55)
+- [N4 Kaiwa](https://www.youtube.com/watch?v=08biKGDRbPI)
 
-  _Happy Learning! がんばって！_
+_Happy Learning! がんばって！_
