@@ -56,3 +56,4 @@
 | 52  | なくなります           |                    | nakunarimasu       | なくなって   | なくならない   | verb           | lost, dead                       | 財布がなくなりました。(My wallet is lost.)                                          |
 | 53  | かなしい               | 悲しい             | kanashii           | かなしくて   | かなしくない   | adj-i          | sad                              | 彼女は悲しい顔をしていました。(She had a sad face.)                                 |
 | 54  | りようします           | 利用します         | riyō shimasu       | りようして   | りようしない   | verb           | use, take advantage, make use of | 図書館を利用します。(I'll use the library.)                                         |
+| 56  | つづけます             | 続けます           | tsuzukemasu        | つづけて     | つづけない     | verb           | continue                         | 勉強を続けます。(I will continue studying.)                                         |
