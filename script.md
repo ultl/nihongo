@@ -42,3 +42,69 @@ check it out!)_
 - **kyapushon** (caption)
 - **rekomendeeshon** (recommendation)
 - **chekku** (check)
+
+# French Tacos Experience - Japanese Script (N4 Level)
+
+## Script in Romaji
+
+**Minna-san, konnichiwa!** (Hello everyone!)
+
+**Kyou wa watashi no hajimete no furansu takosu no hanashi wo shimasu.** (Today
+I will talk about my first French tacos experience.)
+
+**Kinou, hajimete furansu takosu wo tabemashita.** (Yesterday, I ate French
+tacos for the first time.)
+
+**Saisho ni, TikTok de yuumei na resutoran wo sagashimashita.** (First, I
+searched for a famous restaurant on TikTok.)
+
+**Sono resutoran ni iku toki, michi de honmono no furansu takosu no mise wo
+mitsukemashita.** (When going to that restaurant, I found a real French tacos
+shop on the way.)
+
+**Dakara, sono mise de taberu koto ni shimashita.** (So, I decided to eat at
+that shop.)
+
+**Mise no namae wa "M'bros" desu.** (The name of the shop is "M'bros".)
+
+**Nedan wa yasukute, keshiki wa amari kirei ja arimasen deshita.** (The price
+was cheap, and the view wasn't very beautiful.)
+
+**Demo, nishi-ko no chikaku da kara, funiki wa totemo yokatta desu.** (But since
+it's near West Lake, the atmosphere was very good.)
+
+**Totemo oishikatta desu!** (It was very delicious!)
+
+**Mite kurete, arigatou gozaimashita!** (Thank you for watching!)
+
+---
+
+## Key Vocabulary Used
+
+- **furansu takosu** = French tacos
+- **hajimete** = first time
+- **yuumei** = famous
+- **resutoran** = restaurant
+- **sagasu** = to search
+- **mitsukeru** = to find
+- **nedan** = price
+- **yasui** = cheap
+- **keshiki** = view/scenery
+- **funiki** = atmosphere
+- **nishi-ko** = West Lake
+- **oishii** = delicious
+
+## Grammar Points Used
+
+- Past tense verbs (-mashita)
+- Present tense verbs (-masu)
+- Adjectives (yasui, oishii)
+- Particles: wa, wo, de, ni, da kara
+- Conjunctions: demo (but), dakara (so)
+
+## Natural Delivery Tips
+
+- Pause after **Minna-san, konnichiwa!** for greeting
+- Emphasize **hajimete** (first time) to show excitement
+- Show enthusiasm when saying **oishikatta desu!**
+- End with a warm **arigatou gozaimashita!**
