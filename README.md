@@ -24,5 +24,7 @@ Resources and tools for my Japanese journey from beginner to N3.
 - [N5 Conversations](https://www.youtube.com/@BookishJapan/playlists)
 - [N5-N4 Conversations](https://www.youtube.com/@JSI55)
 - [N4 Kaiwa](https://www.youtube.com/watch?v=08biKGDRbPI)
+- [JLPT](https://www.youtube.com/@LuyendeJLPTcungto/videos)
+- [Listening through Story](https://www.youtube.com/@NihongAudioLounge)
 
 _Happy Learning! がんばって！_

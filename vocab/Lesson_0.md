@@ -24,19 +24,29 @@
 
 # [Japanese with Shun 24/6/2025](https://www.youtube.com/watch?v=OU2njhTfQjI)
 
-| No. | Japanese           | Kanji        | Romaji             | Meaning             | Part of Speech | Romaji             | Example                                |
-| --- | ------------------ | ------------ | ------------------ | ------------------- | -------------- | ------------------ | -------------------------------------- |
-| 1   | suukagetsu         | 数ヶ月       | suukagetsu         | several months      | noun           | suukagetsu         | 数ヶ月前に引っ越しました。             |
-| 2   | metcha             | めっちゃ     | metcha             | very, super         | adverb         | metcha             | この映画、めっちゃ面白い！             |
-| 3   | dentoutekina       |              | 伝統的な           | dentoutekina        | traditional    | adjective          | dentoutekina                           |
-| 4   | kankou             | 観光         | kankou             | sightseeing         | noun           | kankou             | 京都は観光地です。                     |
-| 5   | kankoukyaku        | 観光客       | kankoukyaku        | tourist             | noun           | kankoukyaku        | この町には観光客が多い。               |
-| 6   | hirou              | 広い         | hirou              | wide                | adjective      | hirou              | この公園は広いです。                   |
-| 7   | uedingu doresu     |              | ウェディングドレス | wedding dress       | noun           | uedingu doresu     | 彼女はウェディングドレスを着ています。 |
-| 8   | kandou             | 感動         | kandou             | moved, touched      | noun           | kandou             | その映画に感動しました。               |
-| 9   | shiawasena         | 幸せな       | shiawasena         | happy               | adjective      | shiawasena         | 彼は幸せな顔をしています。             |
-| 10  | shinseki           | 親戚         | shinseki           | relative            | noun           | shinseki           | 彼の親戚はみんな優しいです。           |
-| 11  | hisashi buri       | 久しぶり     | hisashi buri       | long time no see    | expression     | hisashi buri       | 久しぶりですね！                       |
-| 12  | koukyuuna hoteru   | 高級なホテル | koukyuuna hoteru   | luxury hotel        | noun           | koukyuuna hoteru   | 高級なホテルに泊まりたいです。         |
-| 13  | kekkon o iwai suru | 結婚を祝う   | kekkon o iwai suru | celebrate a wedding | verb phrase    | kekkon o iwai suru | 友達の結婚を祝うために集まりました。   |
-| 14  | yopparate          | よっぱらって | yopparate          | drunk               | verb (te-form) | yopparate          | 昨夜はよっぱらってしまいました。       |
+| No. | Japanese           | Kanji        | Romaji             | Meaning             | Part of Speech                                                        | Romaji             | Example                                |
+| --- | ------------------ | ------------ | ------------------ | ------------------- | --------------------------------------------------------------------- | ------------------ | -------------------------------------- |
+| 1   | suukagetsu         | 数ヶ月       | suukagetsu         | several months      | noun                                                                  | suukagetsu         | 数ヶ月前に引っ越しました。             |
+| 2   | metcha             | めっちゃ     | metcha             | very, super         | adverb                                                                | metcha             | この映画、めっちゃ面白い！             |
+| 3   | dentoutekina       |              | 伝統的な           | dentoutekina        | traditional                                                           | adjective          | dentoutekina                           |
+| 4   | kankou             | 観光         | kankou             | sightseeing         | noun                                                                  | kankou             | 京都は観光地です。                     |
+| 5   | kankoukyaku        | 観光客       | kankoukyaku        | tourist             | noun                                                                  | kankoukyaku        | この町には観光客が多い。               |
+| 6   | hirou              | 広い         | hirou              | wide                | adjective                                                             | hirou              | この公園は広いです。                   |
+| 7   | uedingu doresu     |              | ウェディングドレス | wedding dress       | noun                                                                  | uedingu doresu     | 彼女はウェディングドレスを着ています。 |
+| 8   | kandou             | 感動         | kandou             | moved, touched      | noun                                                                  | kandou             | その映画に感動しました。               |
+| 9   | shiawasena         | 幸せな       | shiawasena         | happy               | adjective                                                             | shiawasena         | 彼は幸せな顔をしています。             |
+| 10  | shinseki           | 親戚         | shinseki           | relative            | noun                                                                  | shinseki           | 彼の親戚はみんな優しいです。           |
+| 11  | hisashi buri       | 久しぶり     | hisashi buri       | long time no see    | expression                                                            | hisashi buri       | 久しぶりですね！                       |
+| 12  | koukyuuna hoteru   | 高級なホテル | koukyuuna hoteru   | luxury hotel        | noun                                                                  | koukyuuna hoteru   | 高級なホテルに泊まりたいです。         |
+| 13  | kekkon o iwai suru | 結婚を祝う   | kekkon o iwai suru | celebrate a wedding | verb phrase                                                           | kekkon o iwai suru | 友達の結婚を祝うために集まりました。   |
+| 14  | yopparate          | よっぱらって | drunk              | verb (te-form)      | 昨夜はよっぱらってしまいました。 (sakuya wa yopparate shimaimashita.) |                    |                                        |
+
+# [Japanese story: Chihiro](https://www.youtube.com/watch?v=tEoRxBLOMqg)
+
+| No. | Japanese     | Kanji    | Meaning         | Part of Speech                                              | Example                                                              |
+| --- | ------------ | -------- | --------------- | ----------------------------------------------------------- | -------------------------------------------------------------------- |
+| 1   | kanashii kao | 悲しい顔 | sad face        | noun                                                        | 彼女は悲しい顔をしています。 (kanojo wa kanashii kao o shite imasu.) |
+| 2   | mae no gakko | 前の学校 | previous school | noun                                                        | 前の学校は楽しかったです。 (mae no gakko wa tanoshikatta desu.)      |
+| 3   | dekoboko     |          | bumpy           | noun; noun used with no (no); na-adjective; noun, suru verb | 道が凹凸しています。 (michi ga dekoboko shite imasu.)                |
+| 4   | tonneru      | トンネル | tunnel          | noun                                                        | トンネルを通ります。 (tonneru o toorimasu.)                          |
+| 5   | zou          | 象       | elephant        | noun                                                        | 動物園で象を見ました。 (doubutsuen de zou o mimashita.)              |
