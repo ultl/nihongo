@@ -62,3 +62,4 @@
 | 15  | dondon kuru    | どんどん来る     | dondon kuru   | coming one after another | 人がどんどん来ます。         | hito ga dondon kimasu.                |
 | 16  | dondon kuraku  | どんどん暗くなる | dondon kuraku | getting darker quickly   | 空がどんどん暗くなります。   | sora ga dondon kuraku narimasu.       |
 | 17  | hitotachi      | 人たち           | hitotachi     | people                   | 人たちが集まっています。     | hitotachi ga atsumatteimasu.          |
+| 18  | mikata         | 見方             | mikata        | perspective              | それは別の見方です。         | sore wa betsu no mikata desu.         |
