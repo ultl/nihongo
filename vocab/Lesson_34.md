@@ -52,3 +52,7 @@
 | 48  | にます               | nimasu               | 煮ます         | Verb           | cook                       | にて           | にない           | 野菜を煮ます。(I cook vegetables.)                                    |
 | 49  | にえます             | niemasu              | 煮えます       | Verb           | cooked, cooked             | にえて         | にえない         | 水がにえました。(The water boiled.)                                   |
 | 50  | どんぶり             | donburi              |                | Noun           | Bowl                       | -              | -                | どんぶりにご飯を入れます。(I put rice in the bowl.)                   |
+| 51  | レントゲン           | rentogen             | レントゲン     | Noun           | X-ray                      | -              | -                | レントゲンを撮ります。(I will take an X-ray.)                         |
+| 52  | kekkou               | kekkou               | 結構           | Adjective      | fine, good, nice           | -              | -                | それで結構です。(That's fine.)                                        |
+| 53  | 噛んでいます         | kandeimasu           | 噛んでいます   | Verb           | chewing                    | かんで         | かまない         | ガムを噛んでいます。(I am chewing gum.)                               |
+| 54  | paddo                | paddo                | パッド         | noun           | pad, cushion               | パッドして     | パッドしない     | 椅子にパッドをします。(I put a pad on the chair.)                     |
