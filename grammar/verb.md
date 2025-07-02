@@ -37,3 +37,47 @@
 | **V-reba**              | if (you) do          | V-no-ru + reba<br>_taberu → tabereba_                                    | V-a + ba<br>_nomu → nomeba_                                                                                                         |
 | **V-yo**                | (you) should do      | V-no-ru + yo<br>_taberu → tabeyou_                                       | V-o + u<br>_nomu → nomou_                                                                                                           |
 | **V-tai**               | want to do           | V-no-ru + tai<br>_taberu → tabetai_                                      | V-i + tai<br>_nomu → nomitai_                                                                                                       |
+
+## Te-Form Conjugation Rules
+
+### Ru-verbs (ichidan verbs)
+
+Remove る and add て
+
+- Example: たべる → たべて
+
+### U-verbs (godan verbs)
+
+**Ending in う, つ, る:** Change to って
+
+- Example: かう → かって, まつ → まって
+
+**Ending in む, ぶ, ぬ:** Change to んで
+
+- Example: のむ → のんで, あそぶ → あそんで
+
+**Ending in く:** Change to いて
+
+- Example: きく → きいて, はたらく → はたらいて
+
+**Ending in ぐ:** Change to いで
+
+- Example: いそぐ → いそいで
+
+**Ending in す:** Change to して
+
+- Example: はなす → はなして
+
+### Irregular verbs
+
+- **する** → **して**
+- **くる** → **きて**
+- **いく** → **いって** (special exception)
+
+### Uses of Te-form
+
+1. **Connecting actions:** あさごはんを食べて、学校に行きます。
+2. **Making requests:** 手伝ってください。
+3. **Ongoing actions:** 本を読んでいます。
+4. **Completed actions with lasting results:** 結婚しています。
+5. **Giving/receiving favors:** 教えてくれました。
