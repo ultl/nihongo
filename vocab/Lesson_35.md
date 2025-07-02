@@ -46,3 +46,5 @@
 | 42  | ことわざ         |                  | kotowaza          | Noun           | -            | -                | proverb, saying, maxim                                      | 日本のことわざを勉強します。(I study Japanese proverbs.)                        |
 | 43  | なかよくします   | 仲よくします     | naka yoku shimasu | Expression     | なかよくして | なかよくしない   | to get along with, to be friendly with, to be on good terms | クラスのみんなと仲よくします。(I get along with everyone in class.)             |
 | 44  | ひつよう（な）   | 必要（な）       | hitsuyou(na)      | Adjective (na) | ひつようで   | ひつようじゃない | necessary, essential, required                              | パスポートが必要です。(A passport is necessary.)                                |
+| 45  | ごぞんじ         | ご存知           | gozonji           | Noun           | -            | -                | knowledge, acquaintance (polite)                            | 先生はそのことをご存知ですか？(Does the teacher know about that?)               |
+| 46  | hosoku           | 補足             | hosoku            | Noun           | -            | -                | supplement, addition, appendix                              | 補足説明をします。(I will give a supplementary explanation.)                    |
