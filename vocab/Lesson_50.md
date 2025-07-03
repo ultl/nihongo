@@ -46,3 +46,8 @@
 | 42  | [お]しろ                      | お城             | [o]shiro                    | Wall                                                              |
 | 43  | けいぐ                        | 敬具             | keigu                       | best regards (at the end of the letter)                           |
 | 44  | ミュンヘン                    |                  | myunhen                     | Munich (big city of Germany)                                      |
+| 45  | やり直す                      | やり直す         | yarinaosu                   | redo, do again                                                    |
+| 46  | kubaru toki                   | 配る時           | kubaru toki                 | when distributing, when handing out                               |
+| 47  | nakanaka                      | なかなか         | nakanaka                    | quite, considerably                                               |
+| 48  | kami                          | 紙               | kami                        | paper                                                             |
+| 49  | saki ni                       | 先に             | saki ni                     | first, ahead                                                      |
