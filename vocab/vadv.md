@@ -1,8 +1,5 @@
 # JLPT N4 & N5 Adverbs
 
-• **aa** - ああ - ah; yes\
-_Example: Aa, wakarimashita. (Ah, I understand.)_
-
 • **aida ni** - 間に【あいだに】 - while; during~ something happened\
 _Example: Tabete iru aida ni denwa ga narimashita. (The phone rang while I was
 eating.)_
@@ -80,12 +77,6 @@ _Example: Ikura desu ka? (How much is it?)_
 • **ikutsu** - いくつ - how many?; how old?\
 _Example: Ikutsu arimasu ka? (How many are there?)_
 
-• **ippai** - いっぱい - full\
-_Example: Onaka ga ippai desu. (I'm full.)_
-
-• **iroiro** - 色々【いろいろ】 - various\
-_Example: Iroiro na tabemono ga arimasu. (There are various foods.)_
-
 • **issho ni** - 一緒に【いっしょに】 - together\
 _Example: Issho ni ikimashou. (Let's go together.)_
 
@@ -112,9 +103,6 @@ _Example: Kitto daijoubu desu. (It will surely be okay.)_
 • **kou** - こう - this way\
 _Example: Kou shimasu. (I'll do it this way.)_
 
-• **ku suru** - くする - to make something ~\
-_Example: Hayaku shimasu. (I'll make it quick.)_
-
 • **kyuu ni** - 急に【きゅうに】 - quickly; immediately; hastily; suddenly;
 abruptly; unexpectedly ~\
 _Example: Kyuu ni ame ga furimashita. (It suddenly started raining.)_
@@ -137,14 +125,8 @@ _Example: Massugu itte kudasai. (Please go straight ahead.)_
 • **mazu** - まず - first of all\
 _Example: Mazu kore wo shimasu. (First of all, I'll do this.)_
 
-• **minna** - みんな - all; everyone; everybody\
-_Example: Minna kimashita. (Everyone came.)_
-
 • **mitai ni** - みたいに - like; similar to ~\
 _Example: Neko mitai ni hashirimasu. (He runs like a cat.)_
-
-• **moshi** - もし - if; in case; supposing\
-_Example: Moshi ame ga futtara... (If it rains...)_
 
 • **motto** - もっと - more; longer; further\
 _Example: Motto tabetai desu. (I want to eat more.)_
@@ -167,11 +149,8 @@ _Example: Naze konakatta no? (Why didn't you come?)_
 • **no naka de** - の中で【のなかで】 - in; among ~\
 _Example: Kurasu no naka de ichiban desu. (It's the best in the class.)_
 
-• **onaji** - 同じ【おなじ】 - same\
-_Example: Onaji mono wo kaimashita. (I bought the same thing.)_
-
 • **sasuga** - さすが - as one would expect; as is to be expected; even ~\
-_Example: Sasuga sensei desu ne. (As expected of the teacher.)_
+_Example: Sasuga sensei desu. (As expected of the teacher.)_
 
 • **shikkari** - しっかり - firmly; steadily\
 _Example: Shikkari tsukamatte kudasai. (Please hold on firmly.)_
@@ -223,14 +202,11 @@ _Example: Totemo oishii desu. (It's very delicious.)_
 • **toutou** - 到頭【とうとう】 - finally, after all\
 _Example: Toutou tsukimashita. (We finally arrived.)_
 
-• **tsugou** - 都合【つごう】 - convenience\
-_Example: Tsugou ga ii desu. (It's convenient.)_
-
 • **yappari** - やっぱり - as I thought\
 _Example: Yappari muzukashii desu. (As I thought, it's difficult.)_
 
 • **yatto** - やっと - at last; finally; barely; narrowly ~\
-_Example: Yatto owarimasihta. (It's finally finished.)_
+_Example: Yatto owarimashita. (It's finally finished.)_
 
 • **yoku** - よく - often; well\
 _Example: Yoku benkyou shimasu. (I study often.)_
