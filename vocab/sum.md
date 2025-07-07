@@ -2335,6 +2335,174 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 54  | paddo                | paddo                | パッド         | noun           | pad, cushion               | パッドして     | パッドしない     | 椅子にパッドをします。(I put a pad on the chair.)                     |
 
 
+# JLPT N4 & N5 Adverbs - Alphabetical Order (A to Z)
+
+• **aa** - ああ - ah; yes
+
+• **aida ni** - 間に【あいだに】 - while; during~ something happened
+
+• **amari~nai** - あまり～ない - not very, not much ~
+
+• **ato de** - 後で【あとで】 - after~; later
+
+• **bikkuri** - びっくり - to be surprised
+
+• **chotto** - ちょっと - a little
+
+• **choudo** - 丁度【ちょうど】 - exactly
+
+• **daibu** - 大分【だいぶ】 - considerably; greatly; a lot
+
+• **daijoubu** - 大丈夫【だいじょうぶ】 - OK; okay; alright; problem free
+
+• **dandan** - だんだん - gradually
+
+• **dekiru dake** - できるだけ - as much as possible
+
+• **dondon** - どんどん - rapidly; more and more
+
+• **dou** - どう - how; in what way; how about
+
+• **doumo** - どうも - thank you; thanks
+
+• **doushite** - どうして - why; for what reason; how
+
+• **douzo** - どうぞ - please
+
+• **futsuu** - 普通【ふつう】 - usually
+
+• **hajimete** - 初めて【はじめて】 - for the first time
+
+• **hakkiri** - はっきり - clearly
+
+• **hijou ni** - 非常に【ひじょうに】 - extremely
+
+• **hitori** - 一人【ひとり】 - one person; alone; single
+
+• **ichiban** - 一番【いちばん】 - number one; first; 1st, first place; best;
+most
+
+• **ikaga** - いかが - how; in what way; how about
+
+• **ikura** - いくら - how much?; how many?
+
+• **ikutsu** - いくつ - how many?; how old?
+
+• **ippai** - いっぱい - full
+
+• **iroiro** - 色々【いろいろ】 - various
+
+• **issho ni** - 一緒に【いっしょに】 - together
+
+• **itsumo** - いつも - always; usually; habitually
+
+• **juubun** - 十分【じゅうぶん】 - enough; sufficient; plenty; adequate;
+satisfactory
+
+• **ka dou ka** - かどうか - whether or not ~
+
+• **kanarazu** - 必ず【かならず】 - always; certainly
+
+• **kekkou** - 結構【けっこう】 - splendid; enough
+
+• **kitto** - きっと - surely; undoubtedly; almost certainly; most likely
+
+• **kou** - こう - this way
+
+• **ku suru** - くする - to make something ~
+
+• **kyuu ni** - 急に【きゅうに】 - quickly; immediately; hastily; suddenly;
+abruptly; unexpectedly ~
+
+• **mada** - まだ - still; not yet
+
+• **mada ~te imasen** - まだ～ていません - have not yet ~
+
+• **made ni** - までに - by; by the time; indicates time limit
+
+• **mae ni** - 前に【まえに】 - before; in front of ~
+
+• **massugu** - 真っ直ぐ【まっすぐ】 - straight ahead; direct
+
+• **mazu** - まず - first of all
+
+• **minna** - みんな - all; everyone; everybody
+
+• **mitai ni** - みたいに - like; similar to ~
+
+• **moshi** - もし - if; in case; supposing
+
+• **motto** - もっと - more; longer; further
+
+• **mou** - もう - already; anymore; again; other
+
+• **mousugu** - もうすぐ - soon
+
+• **nakanaka~nai** - なかなか～ない - not easy to; struggling to; not able to ~
+
+• **naruhodo** - なるほど - now I understand
+
+• **naze** - 何故【なぜ】 - why; how
+
+• **no naka de** - の中で【のなかで】 - in; among ~
+
+• **onaji** - 同じ【おなじ】 - same
+
+• **sasuga** - さすが - as one would expect; as is to be expected; even ~
+
+• **shikkari** - しっかり - firmly; steadily
+
+• **sonna ni** - そんなに - so much; so; like that
+
+• **sore hodo** - それほど - to that extent
+
+• **sorosoro** - そろそろ - gradually; soon
+
+• **sou da [2]** - そうだ - looks like; appears like; seeming ~
+
+• **sugu ni** - 直ぐに【すぐに】 - immediately; right away; instantly
+
+• **sukkari** - すっかり - completely
+
+• **sukoshi** - 少し【すこし】 - a little (bit); small quantity; few; short
+distance
+
+• **tabun** - 多分【たぶん】 - perhaps; probably
+
+• **taihen** - 大変【たいへん】 - very; greatly; terribly; serious; difficult
+
+• **taitei** - たいてい - usually
+
+• **tamani** - たまに - occasionally
+
+• **tokidoki** - 時々【ときどき】 - sometimes; at times
+
+• **tokuni** - 特に【とくに】 - particularly; especially; in particular;
+expressly
+
+• **totemo** - とても - very; awfully; exceedingly
+
+• **toutou** - 到頭【とうとう】 - finally, after all
+
+• **tsugou** - 都合【つごう】 - convenience
+
+• **yappari** - やっぱり - as I thought
+
+• **yatto** - やっと - at last; finally; barely; narrowly ~
+
+• **yoku** - よく - often; well
+
+• **yori** - より - than; rather than; more than ~
+
+• **yukkuri** - ゆっくり - slowly
+
+• **zehi** - ぜひ - by all means; certainly; definitely ~
+
+• **zenzen** - 全然【ぜんぜん】 - not entirely (used in a negative sentence)
+
+• **zenzen~nai** - 全然～ない【ぜんぜん～ない】 - (not) at all
+
+
 # Lesson 9 Vocabulary
 
 | No. | Vocabulary                 | Romaji                   | Kanji                  | Part of Speech | Meaning                                                                                              |
@@ -2569,6 +2737,141 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 51  | いや（な）                 |                        | iya(na)                       | いやで         | いやじゃない     | Adjective      | unpleasant, disagreeable         | いやな天気です。(It's unpleasant weather.)                                         |
 | 52  | すると                     |                        | suruto                        | -              | -                | Conjunction    | then, thereupon                  | ボタンを押すと、ドアが開きます。(When you press the button, the door opens.)       |
 | 53  | めがさめます               | 目が覚めます           | mega samemasu                 | めがさめて     | めがさめない     | Verb           | to wake up, to awaken            | 朝7時にめがさめます。(I wake up at 7 in the morning.)                              |
+
+
+# Japanese Adjectives (N5 & N4) - Alphabetical Order (A-Z)
+
+| #   | Kanji      | Romaji       | Hiragana           | English Meaning                                    | Level |
+| --- | ---------- | ------------ | ------------------ | -------------------------------------------------- | ----- |
+| 1   | 危ない     | abunai       | あぶない           | dangerous                                          | N5    |
+| 2   | 赤い       | akai         | あかい             | red; crimson; scarlet                              | N5    |
+| 3   | 明るい     | akarui       | あかるい           | bright; light                                      | N5    |
+| 4   | 甘い       | amai         | あまい             | sweet; sweet-tasting; sugary; naive; indulgent     | N5    |
+| 5   | 安心       | anshin       | あんしん           | peace of mind                                      | N4    |
+| 6   | 安全       | anzen        | あんぜん           | safety; security                                   | N4    |
+| 7   | 青い       | aoi          | あおい             | blue; azure                                        | N5    |
+| 8   | 浅い       | asai         | あさい             | shallow                                            | N4    |
+| 9   | 新しい     | atarashii    | あたらしい         | new; novel; fresh; recent; latest                  | N5    |
+| 10  | 暖かい     | atatakai     | あたたかい         | warm                                               | N5    |
+| 11  | 熱い       | atsui        | あつい             | hot                                                | N5    |
+| 12  | 厚い       | atsui        | あつい             | thick                                              | N5    |
+| 13  | 暑い       | atsui        | あつい             | hot; sultry                                        | N5    |
+| 14  | 便利       | benri        | べんり             | convenient; handy; useful                          | N5    |
+| 15  | 小さい     | chiisai      | ちいさい           | small; little; tiny                                | N5    |
+| 16  | 近い       | chikai       | ちかい             | near; close                                        | N5    |
+| 17  | 大事       | daiji        | だいじ             | important; serious; crucial                        | N4    |
+| 18  | 大丈夫     | daijoubu     | だいじょうぶ       | OK; okay; alright; problem free                    | N5    |
+| 19  | 大好き     | daisuki      | だいすき           | love; like; like very much                         | N5    |
+| 20  | 不便       | fuben        | ふべん             | inconvenience                                      | N4    |
+| 21  | 深い       | fukai        | ふかい             | deep                                               | N4    |
+| 22  | 複雑       | fukuzatsu    | ふくざつ           | complexity; complication                           | N4    |
+| 23  | 古い       | furui        | ふるい             | old (not used for people)                          | N5    |
+| 24  | 太い       | futoi        | ふとい             | fat; thick                                         | N5    |
+| 25  | 元気       | genki        | げんき             | lively; full of spirit; energetic; healthy         | N5    |
+| 26  | 反対       | hantai       | はんたい           | opposition                                         | N4    |
+| 27  | 速い       | hayai        | はやい             | fast; quick; hasty; brisk                          | N5    |
+| 28  | 早い       | hayai        | はやい             | fast; early                                        | N5    |
+| 29  | 恥ずかしい | hazukashii   | はずかしい         | embarrassed                                        | N4    |
+| 30  | 変         | hen          | へん               | strange; peculiar; weird                           | N4    |
+| 31  | 下手       | heta         | へた               | unskillful; poor; awkward                          | N5    |
+| 32  | 酷い       | hidoi        | ひどい             | terrible; awful                                    | N4    |
+| 33  | 低い       | hikui        | ひくい             | short; low                                         | N5    |
+| 34  | 暇         | hima         | ひま               | free time                                          | N5    |
+| 35  | 広い       | hiroi        | ひろい             | spacious; vast; wide                               | N5    |
+| 36  | 久しぶり   | hisashiburi  | ひさしぶり         | after a long time                                  | N4    |
+| 37  | 本当       | hontou       | ほんとう           | truth; reality; actuality; fact                    | N5    |
+| 38  | 欲しい     | hoshii       | ほしい             | want                                               | N5    |
+| 39  | 細い       | hosoi        | ほそい             | thin; slender                                      | N5    |
+| 40  | いっぱい   | ippai        | いっぱい           | full                                               | N4    |
+| 41  | 色々       | iroiro       | いろいろ           | various                                            | N5    |
+| 42  | 忙しい     | isogashii    | いそがしい         | busy                                               | N5    |
+| 43  | 一生懸命   | isshoukenmei | いっしょうけんめい | very hard; with utmost effort                      | N4    |
+| 44  | 痛い       | itai         | いたい             | painful; sore                                      | N5    |
+| 45  | 嫌         | iya          | いや               | unpleasant                                         | N5    |
+| 46  | 自由       | jiyuu        | じゆう             | freedom                                            | N4    |
+| 47  | 丈夫       | joubu        | じょうぶ           | strong; durable                                    | N5    |
+| 48  | 上手       | jouzu        | じょうず           | skillful; skilled; proficient; good (at)           | N5    |
+| 49  | 十分       | juubun       | じゅうぶん         | enough; sufficient; plenty; adequate; satisfactory | N4    |
+| 50  | 悲しい     | kanashii     | かなしい           | sad                                                | N4    |
+| 51  | 簡単       | kantan       | かんたん           | simple; easy                                       | N4    |
+| 52  | 辛い       | karai        | からい             | spicy                                              | N5    |
+| 53  | 軽い       | karui        | かるい             | light                                              | N5    |
+| 54  | 硬い       | katai        | かたい             | hard                                               | N4    |
+| 55  | 可愛い     | kawaii       | かわいい           | cute                                               | N5    |
+| 56  | 結構       | kekkou       | けっこう           | splendid; enough                                   | N5    |
+| 57  | 厳しい     | kibishii     | きびしい           | strict                                             | N4    |
+| 58  | 黄色い     | kiiroi       | きいろい           | yellow                                             | N5    |
+| 59  | 危険       | kiken        | きけん             | danger                                             | N4    |
+| 60  | 嫌い       | kirai        | きらい             | hate                                               | N5    |
+| 61  | 綺麗       | kirei        | きれい             | pretty; lovely; beautiful                          | N5    |
+| 62  | 汚い       | kitanai      | きたない           | dirty                                              | N5    |
+| 63  | 細かい     | komakai      | こまかい           | small, fine                                        | N4    |
+| 64  | 怖い       | kowai        | こわい             | frightening                                        | N4    |
+| 65  | 暗い       | kurai        | くらい             | dark; gloomy; murky                                | N5    |
+| 66  | 黒い       | kuroi        | くろい             | black                                              | N5    |
+| 67  | 急         | kyuu         | きゅう             | sudden; abrupt; unexpected                         | N4    |
+| 68  | 丸い       | marui        | まるい             | round; circular                                    | N5    |
+| 69  | 真っ直ぐ   | massugu      | まっすぐ           | straight ahead; direct                             | N5    |
+| 70  | 不味い     | mazui        | まずい             | unpleasant                                         | N5    |
+| 71  | 珍しい     | mezurashii   | めずらしい         | unusual; rare                                      | N4    |
+| 72  | 短い       | mijikai      | みじかい           | short                                              | N5    |
+| 73  | 無理       | muri         | むり               | impossible                                         | N4    |
+| 74  | 難しい     | muzukashii   | むずかしい         | difficult                                          | N5    |
+| 75  | 長い       | nagai        | ながい             | long (distance); long (time); lengthy              | N5    |
+| 76  | 眠い       | nemui        | ねむい             | sleepy                                             | N4    |
+| 77  | 苦い       | nigai        | にがい             | bitter                                             | N4    |
+| 78  | 賑やか     | nigiyaka     | にぎやか           | bustling; busy                                     | N5    |
+| 79  | 温い       | nurui        | ぬるい             | luke warm                                          | N5    |
+| 80  | 美味しい   | oishii       | おいしい           | delicious                                          | N5    |
+| 81  | 可笑しい   | okashii      | おかしい           | strange or funny                                   | N4    |
+| 82  | 重い       | omoi         | おもい             | heavy                                              | N5    |
+| 83  | 面白い     | omoshiroi    | おもしろい         | interesting                                        | N5    |
+| 84  | 多い       | ooi          | おおい             | many; numerous; a lot; large quantity; frequent    | N5    |
+| 85  | 大きい     | ookii        | おおきい           | big; large; great; important                       | N5    |
+| 86  | 遅い       | osoi         | おそい             | slow; time-consuming; late                         | N5    |
+| 87  | 立派       | rippa        | りっぱ             | splendid                                           | N5    |
+| 88  | 寂しい     | sabishii     | さびしい           | lonely                                             | N4    |
+| 89  | 盛ん       | sakan        | さかん             | popularity; prosperous                             | N4    |
+| 90  | 寒い       | samui        | さむい             | cold                                               | N5    |
+| 91  | 狭い       | semai        | せまい             | narrow                                             | N5    |
+| 92  | 親切       | shinsetsu    | しんせつ           | kindness                                           | N4    |
+| 93  | 白い       | shiroi       | しろい             | white                                              | N5    |
+| 94  | 静か       | shizuka      | しずか             | quiet                                              | N5    |
+| 95  | 素晴らしい | subarashii   | すばらしい         | wonderful                                          | N4    |
+| 96  | 凄い       | sugoi        | すごい             | terrific                                           | N4    |
+| 97  | 好き       | suki         | すき               | like                                               | N5    |
+| 98  | 少ない     | sukunai      | すくない           | few; a little; scarce; insufficient; seldom        | N5    |
+| 99  | 涼しい     | suzushii     | すずしい           | refreshing; cool                                   | N5    |
+| 100 | 多分       | tabun        | たぶん             | perhaps; probably                                  | N5    |
+| 101 | 正しい     | tadashii     | ただしい           | right; correct                                     | N4    |
+| 102 | 大変       | taihen       | たいへん           | very; greatly; terribly; serious; difficult        | N5    |
+| 103 | 大切       | taisetsu     | たいせつ           | important; necessary; indispensable; beloved       | N5    |
+| 104 | たいてい   | taitei       | たいてい           | usually                                            | N4    |
+| 105 | 高い       | takai        | たかい             | high; tall; expensive; above average               | N5    |
+| 106 | 沢山       | takusan      | たくさん           | many                                               | N5    |
+| 107 | 楽しい     | tanoshii     | たのしい           | enjoyable; fun                                     | N5    |
+| 108 | 楽しみ     | tanoshimi    | たのしみ           | looking forward to                                 | N4    |
+| 109 | 丁寧       | teinei       | ていねい           | polite                                             | N4    |
+| 110 | 適当       | tekitou      | てきとう           | suitable                                           | N4    |
+| 111 | 特別       | tokubetsu    | とくべつ           | special; particular; extraordinary; exceptional    | N4    |
+| 112 | 遠い       | tooi         | とおい             | far                                                | N5    |
+| 113 | 詰まらない | tsumaranai   | つまらない         | boring                                             | N5    |
+| 114 | 冷たい     | tsumetai     | つめたい           | cold to the touch                                  | N5    |
+| 115 | 強い       | tsuyoi       | つよい             | powerful                                           | N5    |
+| 116 | 嬉しい     | ureshii      | うれしい           | happy                                              | N4    |
+| 117 | 煩い       | urusai       | うるさい           | noisy; annoying                                    | N5    |
+| 118 | 薄い       | usui         | うすい             | thin; weak                                         | N5    |
+| 119 | 美しい     | utsukushii   | うつくしい         | beautiful                                          | N4    |
+| 120 | 若い       | wakai        | わかい             | young                                              | N5    |
+| 121 | 悪い       | warui        | わるい             | bad; poor; undesirable                             | N5    |
+| 122 | 易しい     | yasashii     | やさしい           | easy; simple                                       | N5    |
+| 123 | 優しい     | yasashii     | やさしい           | kind                                               | N4    |
+| 124 | 安い       | yasui        | やすい             | cheap; inexpensive                                 | N5    |
+| 125 | 柔らかい   | yawarakai    | やわらかい         | soft                                               | N4    |
+| 126 | 良い       | yoi/ii       | よい/いい          | good                                               | N5    |
+| 127 | 弱い       | yowai        | よわい             | weak                                               | N5    |
+| 128 | 有名       | yuumei       | ゆうめい           | famous                                             | N5    |
+| 129 | 残念       | zannen       | ざんねん           | regrettable; unfortunate                           | N4    |
 
 
 # Lesson 20 Vocabulary
@@ -2978,7 +3281,13 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 43  | なかよくします   | 仲よくします     | naka yoku shimasu | Expression     | なかよくして | なかよくしない   | to get along with, to be friendly with, to be on good terms | クラスのみんなと仲よくします。(I get along with everyone in class.)             |
 | 44  | ひつよう（な）   | 必要（な）       | hitsuyou(na)      | Adjective (na) | ひつようで   | ひつようじゃない | necessary, essential, required                              | パスポートが必要です。(A passport is necessary.)                                |
 | 45  | ごぞんじ         | ご存知           | gozonji           | Noun           | -            | -                | knowledge, acquaintance (polite)                            | 先生はそのことをご存知ですか？(Does the teacher know about that?)               |
-| 46  | hosoku           | 補足             | hosoku            | Noun           | -            | -                | supplement, addition, appendix                              | 補足説明をします。(I will give a supplementary explanation.)                    |
+| 46  | ほそく           | 補足             | hosoku            | Noun           | -            | -                | supplement, addition, appendix                              | 補足説明をします。(I will give a supplementary explanation.)                    |
+| 47  | たまごの殻       | たまごの殻       | tamago no kara    | Noun           | -            | -                | eggshell                                                    | たまごの殻を捨てました。(I threw away the eggshell.)                            |
+| 48  | はなります       | 離れます         | hanarimasu        | Verb           | はなれて     | はなれない       | to separate, to leave, to part                              | 友達と離れたくないです。(I don't want to part from my friends.)                 |
+| 49  | ランチ           |                  | ranchi            | Noun           | -            | -                | lunch, midday meal                                          | 今日は友達とランチを食べます。(Today I will have lunch with a friend.)          |
+| 50  | ご覧ください     | ご覧ください     | goran kudasai     | Expression     | -            | -                | please look, please see (polite)                            | この資料をご覧ください。(Please look at this document.)                         |
+| 51  | ご覧             | ご覧             | goran             | Noun           | -            | -                | please look, please see (polite)                            | この資料をご覧ください。(Please look at this document.)                         |
+| 52  | 問題ないだろう   | 問題ないだろう   | mondai nai darou  | Expression     | -            | -                | no problem, it should be fine                               | それは問題ないだろう。(That should be no problem.)                              |
 
 
 # Lesson 50 Vocabulary
@@ -3029,6 +3338,11 @@ tickets which is normally part of the word and it is KEN as in TOUCHOUKEN
 | 42  | [お]しろ                      | お城             | [o]shiro                    | Wall                                                              |
 | 43  | けいぐ                        | 敬具             | keigu                       | best regards (at the end of the letter)                           |
 | 44  | ミュンヘン                    |                  | myunhen                     | Munich (big city of Germany)                                      |
+| 45  | やり直す                      | やり直す         | yarinaosu                   | redo, do again                                                    |
+| 46  | kubaru toki                   | 配る時           | kubaru toki                 | when distributing, when handing out                               |
+| 47  | nakanaka                      | なかなか         | nakanaka                    | quite, considerably                                               |
+| 48  | kami                          | 紙               | kami                        | paper                                                             |
+| 49  | saki ni                       | 先に             | saki ni                     | first, ahead                                                      |
 
 
 # Lesson 8 Vocabulary
