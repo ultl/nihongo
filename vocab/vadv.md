@@ -42,6 +42,8 @@
 
 • **hitori** - 一人【ひとり】 - one person; alone; single
 
+• **hotondo** - ほとんど - almost; nearly; most; the majority
+
 • **ichiban** - 一番【いちばん】 - number one; first; 1st, first place; best;
 most
 
