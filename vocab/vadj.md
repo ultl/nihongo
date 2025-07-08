@@ -18,17 +18,18 @@
 | 14  | 便利       | benri        | べんり             | convenient; handy; useful                          | N5    |
 | 15  | 小さい     | chiisai      | ちいさい           | small; little; tiny                                | N5    |
 | 16  | 近い       | chikai       | ちかい             | near; close                                        | N5    |
-| 17  | 大事       | daiji        | だいじ             | important; serious; crucial                        | N4    |
-| 18  | 大丈夫     | daijoubu     | だいじょうぶ       | OK; okay; alright; problem free                    | N5    |
-| 19  | 大好き     | daisuki      | だいすき           | love; like; like very much                         | N5    |
-| 20  | 不便       | fuben        | ふべん             | inconvenience                                      | N4    |
-| 21  | 深い       | fukai        | ふかい             | deep                                               | N4    |
-| 22  | 複雑       | fukuzatsu    | ふくざつ           | complexity; complication                           | N4    |
-| 23  | 古い       | furui        | ふるい             | old (not used for people)                          | N5    |
-| 24  | 太い       | futoi        | ふとい             | fat; thick                                         | N5    |
-| 25  | 元気       | genki        | げんき             | lively; full of spirit; energetic; healthy         | N5    |
-| 26  | 反対       | hantai       | はんたい           | opposition                                         | N4    |
-| 27  | 速い       | hayai        | はやい             | fast; quick; hasty; brisk                          | N5    |
+| 17  | 茶色い     | chairoi      | ちゃいろい         | brown                                              | N5    |
+| 18  | 大事       | daiji        | だいじ             | important; serious; crucial                        | N4    |
+| 19  | 大丈夫     | daijoubu     | だいじょうぶ       | OK; okay; alright; problem free                    | N5    |
+| 20  | 大好き     | daisuki      | だいすき           | love; like; like very much                         | N5    |
+| 21  | 不便       | fuben        | ふべん             | inconvenience                                      | N4    |
+| 22  | 深い       | fukai        | ふかい             | deep                                               | N4    |
+| 23  | 複雑       | fukuzatsu    | ふくざつ           | complexity; complication                           | N4    |
+| 24  | 古い       | furui        | ふるい             | old (not used for people)                          | N5    |
+| 25  | 太い       | futoi        | ふとい             | fat; thick                                         | N5    |
+| 26  | 元気       | genki        | げんき             | lively; full of spirit; energetic; healthy         | N5    |
+| 27  | 反対       | hantai       | はんたい           | opposition                                         | N4    |
+| 28  | 速い       | hayai        | はやい             | fast; quick; hasty; brisk                          | N5    |
 | 28  | 早い       | hayai        | はやい             | fast; early                                        | N5    |
 | 29  | 恥ずかしい | hazukashii   | はずかしい         | embarrassed                                        | N4    |
 | 30  | 変         | hen          | へん               | strange; peculiar; weird                           | N4    |

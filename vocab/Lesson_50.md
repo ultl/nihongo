@@ -51,3 +51,8 @@
 | 47  | nakanaka                      | なかなか         | nakanaka                    | quite, considerably                                               |
 | 48  | kami                          | 紙               | kami                        | paper                                                             |
 | 49  | saki ni                       | 先に             | saki ni                     | first, ahead                                                      |
+| 50  | surippa                       |                  |                             |                                                                   |
+| 51  | mouhitotsu                    | もう一つ         | mouhitotsu                  | one more, another one                                             |
+| 52  | keikaku                       | 計画             | keikaku                     | plan                                                              |
+| 53  | dejitaru kamera               | デジタルカメラ   | dejitaru kamera             | digital camera                                                    |
+| 54  | ankeeto                       | アンケート       | ankeeto                     | questionnaire, survey                                             |
