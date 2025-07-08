@@ -62,3 +62,5 @@
 | 58  | いっしょうけんめい    | 一生懸命          | isshōkenmei          | Adverb         | with all one's might                       | -              | いっしょうけんめい勉強します。(I'll study with all my might.)                     |
 | 59  | げんきん              | 現金              | genkin               | Noun           | cash                                       | -              | げんきんをおろします。(I'll withdraw cash.)                                       |
 | 60  | かんしゃ              | 感謝              | kansha               | Noun           | gratitude                                  | -              | かんしゃの気持ちを伝えます。(I express my gratitude.)                             |
+| 61  | ひとこと              | 一言              | hitokoto             | Noun           | a word; a brief remark                     | -              | ひとことお願いします。(Please say a word.)                                        |
+| 62  | ずつ                  |                   | zutsu                | Particle       | each; apiece                               | -              | ずつ分けてください。(Please divide it equally.)                                   |
