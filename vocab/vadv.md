@@ -152,6 +152,9 @@ _Example: Kurasu no naka de ichiban desu. (It's the best in the class.)_
 • **sasuga** - さすが - as one would expect; as is to be expected; even ~\
 _Example: Sasuga sensei desu. (As expected of the teacher.)_
 
+• **soba ni** - そばに - near; beside; next to ~\
+_Example: Watashi wa anata no soba ni imasu. (I am near you.)_
+
 • **shikkari** - しっかり - firmly; steadily\
 _Example: Shikkari tsukamatte kudasai. (Please hold on firmly.)_
 

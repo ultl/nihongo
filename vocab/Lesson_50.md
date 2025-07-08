@@ -1,59 +1,63 @@
 # Lesson 50 Vocabulary
 
-| No. | Vocabulary                   | Kanji            | Romaji                      | Meaning                                                       |
-| --- | ---------------------------- | ---------------- | --------------------------- | ------------------------------------------------------------- |
-| 1   | まいります                   | 参ります         | mairimasu                   | go, come (humble form of きます、いきます)                    |
-| 2   | おります                     |                  | orimasu                     | yes (modest form of います)                                   |
-| 3   | いただきます                 |                  | itadakimasu                 | eat, drink, receive (humble form of たべます)                 |
-| 4   | もうします                   | 申します         | moushimasu                  | speaking (humble form of いいます)                            |
-| 5   | いたします                   |                  | itashimasu                  | do (humble form of します)                                    |
-| 6   | はいけんします               | 拝見します       | haikenshimasu               | see (modest form of みます)                                   |
-| 7   | ぞんじます                   | 存じます         | zonjimasu                   | know (the humble form of しります)                            |
-| 8   | うかがいます                 | 伺います         | ukagaimasu                  | ask, listen, visit (the humble form of ききます and いきます) |
-| 9   | おめにかかります             | お目にかかります | ome ni kakarimasu           | meet (humble form of あいます)                                |
-| 10  | ございます                   |                  | gozaimasu                   | yes (polite form of あります)                                 |
-| 11  | ~でございます                |                  | ~de gozaimasu               | is (polite form of ~です)                                     |
-| 12  | わたくし                     | 私               | watakushi                   | me (humble form of わたし)                                    |
-| 13  | ガイド                       |                  | gaido                       | tour guide                                                    |
-| 14  | おたく                       | お宅             | otaku                       | (someone else's house)                                        |
-| 15  | こうがい                     | 郊外             | kougai                      | suburban                                                      |
-| 16  | アルバム                     |                  | arubaamu                    | photo album, album                                            |
-| 17  | さらいしゅう                 | 再来週           | saraishuu                   | the week after next                                           |
-| 18  | さらいげつ                   | 再来月           | saraigetsu                  | the month after next                                          |
-| 19  | さらいねん                   | 再来年           | sarainen                    | the year after next                                           |
-| 20  | はんとし                     | 半年             | hantoshi                    | half a year                                                   |
-| 21  | さいしょに                   | 最初に           | saisho ni                   | firstly                                                       |
-| 22  | さいごに                     | 最後に           | saigo ni                    | finally                                                       |
-| 23  | ただいま                     | ただ今           | tadaima                     | I'm back                                                      |
-| 24  | きんちょうします             | 緊張します       | kinchoushimasu              | be nervous                                                    |
-| 25  | ほうそうします               | 放送します       | housoushimasu               | broadcast                                                     |
-| 26  | とります                     | 撮ります         | torimasu                    | record (video)                                                |
-| 27  | しょうきん                   | 賞金             | shoukin                     | prize money                                                   |
-| 28  | しぜん                       | 自然             | shizen                      | nature                                                        |
-| 29  | きりん                       |                  | kirin                       | giraffe                                                       |
-| 30  | ぞう                         | 象               | zou                         | elephant                                                      |
-| 31  | ころ                         |                  | koro                        | time, period                                                  |
-| 32  | かないます                   |                  | kanaimasu                   | (dream) come true, be fulfilled                               |
-| 33  | ひとことよろしいでしょうか   |                  | hitokoto yoroshii deshou ka | may I say a word                                              |
-| 34  | きょうりょくします           | 協力します       | kyouryokushimasu            | cooperate, collaborate                                        |
-| 35  | こころから                   | 心から           | kokoro kara                 | from the bottom of my heart, truly                            |
-| 36  | かんしゃします               | 感謝します       | kanshashimasu               | be grateful, thank                                            |
-| 37  | はいけい                     | 拝啓             | haikei                      | dear ~ (written at the beginning of a letter)                 |
-| 38  | うつくしい                   | 美しい           | utsukushii                  | beautiful                                                     |
-| 39  | おげんきでいらっしゃいますか |                  | ogenki de irasshaimasu ka   | how are you? (respectful way of saying おげんきですか)        |
-| 40  | めいわくをかけます           | 迷惑をかけます   | meiwaku wo kakemasu         | cause trouble                                                 |
-| 41  | いかします                   | 生かします       | ikashimasu                  | make use of, utilize                                          |
-| 42  | [お]しろ                     | [お]城           | [o]shiro                    | castle                                                        |
-| 43  | けいぐ                       | 敬具             | keigu                       | respectfully yours (at the end of a letter)                   |
-| 44  | ミュンヘン                   |                  | myunhen                     | Munich (major city in Germany)                                |
-| 45  | やりなおす                   | やり直す         | yarinaosu                   | redo, do again                                                |
-| 46  | くばるとき                   | 配る時           | kubaru toki                 | when distributing, when handing out                           |
-| 47  | なかなか                     |                  | nakanaka                    | quite, considerably                                           |
-| 48  | かみ                         | 紙               | kami                        | paper                                                         |
-| 49  | さきに                       | 先に             | saki ni                     | first, ahead                                                  |
-| 50  | スリッパ                     |                  | surippa                     | slippers                                                      |
-| 51  | もうひとつ                   | もう一つ         | mouhitotsu                  | one more, another one                                         |
-| 52  | けいかく                     | 計画             | keikaku                     | plan                                                          |
-| 53  | デジタルカメラ               |                  | dejitaru kamera             | digital camera                                                |
-| 54  | アンケート                   |                  | ankeeto                     | questionnaire, survey                                         |
-| 55  | つもり                       | 積もり           | tsumori                     | intention, plan                                               |
+| No. | Vocabulary                   | Kanji            | Romaji                      | Meaning                                                       | Example                                                                         |
+| --- | ---------------------------- | ---------------- | --------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| 1   | まいります                   | 参ります         | mairimasu                   | go, come (humble form of きます、いきます)                    | あしたかいしゃにまいります。(I will go to the company tomorrow.)                |
+| 2   | おります                     |                  | orimasu                     | yes (modest form of います)                                   | はい、おります。(Yes, I am here.)                                               |
+| 3   | いただきます                 |                  | itadakimasu                 | eat, drink, receive (humble form of たべます)                 | おちゃをいただきます。(I will have some tea.)                                   |
+| 4   | もうします                   | 申します         | moushimasu                  | speaking (humble form of いいます)                            | たなかともうします。(My name is Tanaka.)                                        |
+| 5   | いたします                   |                  | itashimasu                  | do (humble form of します)                                    | おてつだいいたします。(I will help you.)                                        |
+| 6   | はいけんします               | 拝見します       | haikenshimasu               | see (modest form of みます)                                   | しゃしんをはいけんします。(I will look at the photos.)                          |
+| 7   | ぞんじます                   | 存じます         | zonjimasu                   | know (the humble form of しります)                            | はい、ぞんじております。(Yes, I know.)                                          |
+| 8   | うかがいます                 | 伺います         | ukagaimasu                  | ask, listen, visit (the humble form of ききます and いきます) | せんせいにうかがいます。(I will ask the teacher.)                               |
+| 9   | おめにかかります             | お目にかかります | ome ni kakarimasu           | meet (humble form of あいます)                                | あしたおめにかかります。(I will meet you tomorrow.)                             |
+| 10  | ございます                   |                  | gozaimasu                   | yes (polite form of あります)                                 | はい、ございます。(Yes, there is.)                                              |
+| 11  | ~でございます                |                  | ~de gozaimasu               | is (polite form of ~です)                                     | わたくしがくせいでございます。(I am a student.)                                 |
+| 12  | わたくし                     | 私               | watakushi                   | me (humble form of わたし)                                    | わたくしのなまえです。(This is my name.)                                        |
+| 13  | ガイド                       |                  | gaido                       | tour guide                                                    | ガイドがせつめいします。(The guide will explain.)                               |
+| 14  | おたく                       | お宅             | otaku                       | (someone else's house)                                        | おたくはどちらですか。(Where is your house?)                                    |
+| 15  | こうがい                     | 郊外             | kougai                      | suburban                                                      | こうがいにすんでいます。(I live in the suburbs.)                                |
+| 16  | アルバム                     |                  | arubaamu                    | photo album, album                                            | りょこうのアルバムです。(This is a travel album.)                               |
+| 17  | さらいしゅう                 | 再来週           | saraishuu                   | the week after next                                           | さらいしゅうテストがあります。(There's a test the week after next.)             |
+| 18  | さらいげつ                   | 再来月           | saraigetsu                  | the month after next                                          | さらいげつけっこんします。(I'll get married the month after next.)              |
+| 19  | さらいねん                   | 再来年           | sarainen                    | the year after next                                           | さらいねんにほんにいきます。(I'll go to Japan the year after next.)             |
+| 20  | はんとし                     | 半年             | hantoshi                    | half a year                                                   | はんとしべんきょうしました。(I studied for half a year.)                        |
+| 21  | さいしょに                   | 最初に           | saisho ni                   | firstly                                                       | さいしょにじこしょうかいします。(First, I'll introduce myself.)                 |
+| 22  | さいごに                     | 最後に           | saigo ni                    | finally                                                       | さいごにしつもんがあります。(Finally, I have a question.)                       |
+| 23  | ただいま                     | ただ今           | tadaima                     | I'm back                                                      | ただいまかえりました。(I'm back home.)                                          |
+| 24  | きんちょうします             | 緊張します       | kinchoushimasu              | be nervous                                                    | めんせつできんちょうします。(I get nervous during interviews.)                  |
+| 25  | ほうそうします               | 放送します       | housoushimasu               | broadcast                                                     | らじおでほうそうします。(It will be broadcast on the radio.)                    |
+| 26  | とります                     | 撮ります         | torimasu                    | record (video)                                                | ばんぐみをとります。(I will record the program.)                                |
+| 27  | しょうきん                   | 賞金             | shoukin                     | prize money                                                   | しょうきんをもらいました。(I received prize money.)                             |
+| 28  | しぜん                       | 自然             | shizen                      | nature                                                        | しぜんがすきです。(I like nature.)                                              |
+| 29  | きりん                       |                  | kirin                       | giraffe                                                       | どうぶつえんできりんをみました。(I saw a giraffe at the zoo.)                   |
+| 30  | ぞう                         | 象               | zou                         | elephant                                                      | ぞうはおおきいです。(Elephants are big.)                                        |
+| 31  | ころ                         |                  | koro                        | time, period                                                  | こどものころのはなしです。(This is a story from childhood.)                     |
+| 32  | かないます                   |                  | kanaimasu                   | (dream) come true, be fulfilled                               | ゆめがかないました。(My dream came true.)                                       |
+| 33  | ひとことよろしいでしょうか   |                  | hitokoto yoroshii deshou ka | may I say a word                                              | ひとことよろしいでしょうか。(May I say a word?)                                 |
+| 34  | きょうりょくします           | 協力します       | kyouryokushimasu            | cooperate, collaborate                                        | いっしょにきょうりょくしましょう。(Let's cooperate together.)                   |
+| 35  | こころから                   | 心から           | kokoro kara                 | from the bottom of my heart, truly                            | こころからかんしゃします。(I thank you from the bottom of my heart.)            |
+| 36  | かんしゃします               | 感謝します       | kanshashimasu               | be grateful, thank                                            | ごしんせつにかんしゃします。(I'm grateful for your kindness.)                   |
+| 37  | はいけい                     | 拝啓             | haikei                      | dear ~ (written at the beginning of a letter)                 | はいけいたなかさま。(Dear Mr. Tanaka.)                                          |
+| 38  | うつくしい                   | 美しい           | utsukushii                  | beautiful                                                     | うつくしいはなですね。(What beautiful flowers!)                                 |
+| 39  | おげんきでいらっしゃいますか |                  | ogenki de irasshaimasu ka   | how are you? (respectful way of saying おげんきですか)        | おげんきでいらっしゃいますか。(How are you? - respectful)                       |
+| 40  | めいわくをかけます           | 迷惑をかけます   | meiwaku wo kakemasu         | cause trouble                                                 | めいわくをかけてすみません。(Sorry for causing trouble.)                        |
+| 41  | いかします                   | 生かします       | ikashimasu                  | make use of, utilize                                          | けいけんをいかします。(I will make use of my experience.)                       |
+| 42  | [お]しろ                     | [お]城           | [o]shiro                    | castle                                                        | おしろをけんがくしました。(I visited the castle.)                               |
+| 43  | けいぐ                       | 敬具             | keigu                       | respectfully yours (at the end of a letter)                   | けいぐ。(Respectfully yours.)                                                   |
+| 44  | ミュンヘン                   |                  | myunhen                     | Munich (major city in Germany)                                | ミュンヘンにいきました。(I went to Munich.)                                     |
+| 45  | やりなおす                   | やり直す         | yarinaosu                   | redo, do again                                                | しゅくだいをやりなおします。(I will redo my homework.)                          |
+| 46  | くばるとき                   | 配る時           | kubaru toki                 | when distributing, when handing out                           | プリントをくばるときです。(It's time to distribute the handouts.)               |
+| 47  | なかなか                     |                  | nakanaka                    | quite, considerably                                           | なかなかむずかしいです。(It's quite difficult.)                                 |
+| 48  | かみ                         | 紙               | kami                        | paper                                                         | かみにかきます。(I will write on paper.)                                        |
+| 49  | さきに                       | 先に             | saki ni                     | first, ahead                                                  | さきにいきます。(I will go first.)                                              |
+| 50  | スリッパ                     |                  | surippa                     | slippers                                                      | スリッパをはいてください。(Please put on slippers.)                             |
+| 51  | もうひとつ                   | もう一つ         | mouhitotsu                  | one more, another one                                         | もうひとつください。(Please give me one more.)                                  |
+| 52  | けいかく                     | 計画             | keikaku                     | plan                                                          | りょこうのけいかくです。(This is a travel plan.)                                |
+| 53  | デジタルカメラ               |                  | dejitaru kamera             | digital camera                                                | デジタルカメラをかいました。(I bought a digital camera.)                        |
+| 54  | アンケート                   |                  | ankeeto                     | questionnaire, survey                                         | アンケートにこたえます。(I will answer the questionnaire.)                      |
+| 55  | つもり                       | 積もり           | tsumori                     | intention, plan                                               | いくつもりです。(I intend to go.)                                               |
+| 56  | としねん                     | 年齢             | toshinen                    | age (used in the context of age-related topics)               | としねんをきかないでください。(Please don't ask about my age.)                  |
+| 57  | せいかつします               | 生活します       | seikatsu shimasu            | live, lead a life                                             | ここでせいかつします。(I will live here.)                                       |
+| 58  | いきもの                     | 生き物           | ikimono                     | living thing, creature                                        | いきものがすきです。(I like living things.)                                     |
+| 59  | いきものがかり               | 生き物係         | ikimonogakari               | caretaker of living things                                    | いきものがかりとしてはたらいています。(I work as a caretaker of living things.) |
