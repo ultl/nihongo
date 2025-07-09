@@ -56,3 +56,8 @@
 | 52  | ～のかわりに         | ~no kawari ni    | ～の代わりに | instead           | —            | expression     | コーヒーのかわりにお茶を飲みます。 | I drink tea instead of coffee.                       |
 | 53  | どこででも           | doko de demo     |              | any where         | —            | expression     | どこででも勉強できます。           | I can study anywhere.                                |
 | 54  | いまでは             | ima de wa        | 今では       | now; The current  | —            | expression     | いまでは便利になりました。         | Now it has become convenient.                        |
+| 55  | きんメダル           | kin medaru       | 金メダル     | gold medal        | —            | noun           | 彼は金メダルを獲得しました。       | He won a gold medal.                                 |
+| 56  | ぎんメダル           | gin medaru       | 銀メダル     | silver medal      | —            | noun           | 彼女は銀メダルを獲得しました。     | She won a silver medal.                              |
+| 57  | どうメダル           | dou medaru       | 銅メダル     | bronze medal      | —            | noun           | 彼は銅メダルを獲得しました。       | He won a bronze medal.                               |
+| 58  | じょゆう             | joyuu            | 女優         | actress           | —            | noun           | 彼女は有名な女優です。             | She is a famous actress.                             |
+| 59  | にんきがある         | ninki ga aru     | 人気がある   | popular           | —            | adjective (i)  | その映画は人気があります。         | That movie is popular.                               |
