@@ -2,6 +2,10 @@
 
 Resources and tools for my Japanese journey from beginner to N3.
 
+## 📚 Books
+
+- [List of books for N3](https://migii.net/en/blog/books-for-jlpt-n3)
+
 ## 📚 Contents
 
 - [Japanese Vocabulary](vocab/)
